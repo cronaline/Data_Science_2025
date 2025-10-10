@@ -1,0 +1,1026 @@
+catch_rate,height,data7,data3,data6.1,defense,sp_atk,sp_def,dexnum,special_group,percent_female,data2,hp,data5,generation,base_exp,speed,weight,total,ev_yield,data6.3,data6.2,growth_rate,data4,base_friendship,attack,egg_cycles,data1,data6,percent_male
+45,0.7,Monster,Seed,Grass ,49,65,65,1,Ordinary,12.5,Poison,45,Chlorophyll,1,64,45,6.9,318,1 Sp. Atk,Grass ,,Medium Slow,Overgrow,50,49,20,Grass,,87.5
+45,1.0,Monster,Seed,Grass ,63,80,80,2,Ordinary,12.5,Poison,60,Chlorophyll,1,142,60,13.0,405,"1 Sp. Atk, 1 Sp. Def",Grass ,,Medium Slow,Overgrow,50,62,20,Grass,,87.5
+45,2.0,Monster,Seed,Grass ,83,100,100,3,Ordinary,12.5,Poison,80,Chlorophyll,1,236,80,100.0,525,"2 Sp. Atk, 1 Sp. Def",Grass ,,Medium Slow,Overgrow,50,82,20,Grass,,87.5
+45,0.6,Monster,Lizard,Dragon ,43,60,50,4,Ordinary,12.5,,39,Solar Power,1,62,65,8.5,309,1 Speed,Dragon ,,Medium Slow,Blaze,50,52,20,Fire,,87.5
+45,1.1,Monster,Flame,Dragon ,58,80,65,5,Ordinary,12.5,,58,Solar Power,1,142,80,19.0,405,"1 Sp. Atk, 1 Speed",Dragon ,,Medium Slow,Blaze,50,64,20,Fire,,87.5
+45,1.7,Monster,Flame,Dragon ,78,109,85,6,Ordinary,12.5,Flying,78,Solar Power,1,267,100,90.5,534,3 Sp. Atk,Dragon ,,Medium Slow,Blaze,50,84,20,Fire,,87.5
+45,0.5,Water 1,Tiny Turtle,Monster ,65,50,64,7,Ordinary,12.5,,44,Rain Dish,1,63,43,9.0,314,1 Defense,Monster ,,Medium Slow,Torrent,50,48,20,Water,,87.5
+45,1.0,Water 1,Turtle,Monster ,80,65,80,8,Ordinary,12.5,,59,Rain Dish,1,142,58,22.5,405,"1 Defense, 1 Sp. Def",Monster ,,Medium Slow,Torrent,50,63,20,Water,,87.5
+45,1.6,Water 1,Shellfish,Monster ,100,85,105,9,Ordinary,12.5,,79,Rain Dish,1,239,78,85.5,530,3 Sp. Def,Monster ,,Medium Slow,Torrent,50,83,20,Water,,87.5
+255,0.3,,Worm,Bug,35,20,20,10,Ordinary,50.0,,45,Run Away,1,39,45,2.9,195,1 HP,Bug,,Medium Fast,Shield Dust,50,30,15,Bug,,50.0
+120,0.7,,Cocoon,Bug,55,25,25,11,Ordinary,50.0,,50,,1,72,30,9.9,205,2 Defense,Bug,,Medium Fast,Shed Skin,50,20,15,Bug,,50.0
+45,1.1,,Butterfly,Bug,50,90,80,12,Ordinary,50.0,Flying,60,Tinted Lens,1,178,70,32.0,395,"2 Sp. Atk, 1 Sp. Def",Bug,,Medium Fast,Compound Eyes,50,45,15,Bug,,50.0
+255,0.3,,Hairy Bug,Bug,30,20,20,13,Ordinary,50.0,Poison,40,Run Away,1,39,50,3.2,195,1 Speed,Bug,,Medium Fast,Shield Dust,50,35,15,Bug,,50.0
+120,0.6,,Cocoon,Bug,50,25,25,14,Ordinary,50.0,Poison,45,,1,72,35,10.0,205,2 Defense,Bug,,Medium Fast,Shed Skin,50,25,15,Bug,,50.0
+45,1.0,,Poison Bee,Bug,40,45,80,15,Ordinary,50.0,Poison,65,Sniper,1,178,75,29.5,395,"2 Attack, 1 Sp. Def",Bug,,Medium Fast,Swarm,50,90,15,Bug,,50.0
+255,0.3,,Tiny Bird,Flying,40,35,35,16,Ordinary,50.0,Flying,40,Tangled Feet,1,50,56,1.8,251,1 Speed,Flying,Big Pecks,Medium Slow,Keen Eye,50,45,15,Normal,Big Pecks,50.0
+120,1.1,,Bird,Flying,55,50,50,17,Ordinary,50.0,Flying,63,Tangled Feet,1,122,71,30.0,349,2 Speed,Flying,Big Pecks,Medium Slow,Keen Eye,50,60,15,Normal,Big Pecks,50.0
+45,1.5,,Bird,Flying,75,70,70,18,Ordinary,50.0,Flying,83,Tangled Feet,1,216,101,39.5,479,3 Speed,Flying,Big Pecks,Medium Slow,Keen Eye,50,80,15,Normal,Big Pecks,50.0
+255,0.3,,Mouse,Field,35,25,35,19,Ordinary,50.0,,30,Guts,1,51,72,3.5,253,1 Speed,Field,Hustle,Medium Fast,Run Away,50,56,15,Normal,Hustle,50.0
+127,0.7,,Mouse,Field,60,50,70,20,Ordinary,50.0,,55,Guts,1,145,97,18.5,413,2 Speed,Field,Hustle,Medium Fast,Run Away,50,81,15,Normal,Hustle,50.0
+255,0.3,,Tiny Bird,Flying,30,31,31,21,Ordinary,50.0,Flying,40,Sniper,1,52,70,2.0,262,1 Speed,Flying,,Medium Fast,Keen Eye,50,60,15,Normal,,50.0
+90,1.2,,Beak,Flying,65,61,61,22,Ordinary,50.0,Flying,65,Sniper,1,155,100,38.0,442,2 Speed,Flying,,Medium Fast,Keen Eye,50,90,15,Normal,,50.0
+255,2.0,Field,Snake,Dragon ,44,40,54,23,Ordinary,50.0,,35,Shed Skin,1,58,55,6.9,288,1 Attack,Dragon ,Unnerve,Medium Fast,Intimidate,50,60,20,Poison,Unnerve,50.0
+90,3.5,Field,Cobra,Dragon ,69,65,79,24,Ordinary,50.0,,60,Shed Skin,1,157,80,65.0,448,2 Attack,Dragon ,Unnerve,Medium Fast,Intimidate,50,95,20,Poison,Unnerve,50.0
+190,0.4,Field,Mouse,Fairy ,40,50,50,25,Ordinary,50.0,,35,Lightning Rod,1,112,90,6.0,320,2 Speed,Fairy ,,Medium Fast,Static,50,55,10,Electric,,50.0
+75,0.8,Field,Mouse,Fairy ,55,90,80,26,Ordinary,50.0,,60,Lightning Rod,1,243,110,30.0,485,3 Speed,Fairy ,,Medium Fast,Static,50,90,10,Electric,,50.0
+255,0.6,,Mouse,Field,85,20,30,27,Ordinary,50.0,,50,Sand Rush,1,60,40,12.0,300,1 Defense,Field,,Medium Fast,Sand Veil,50,75,20,Ground,,50.0
+90,1.0,,Mouse,Field,110,45,55,28,Ordinary,50.0,,75,Sand Rush,1,158,65,29.5,450,2 Defense,Field,,Medium Fast,Sand Veil,50,100,20,Ground,,50.0
+235,0.4,Monster,Poison Pin,Field ,52,40,40,29,Ordinary,100.0,,55,Rivalry,1,55,41,7.0,275,1 HP,Field ,Hustle,Medium Slow,Poison Point,50,47,20,Poison,Hustle,0.0
+120,0.8,,Poison Pin,Undiscovered,67,55,55,30,Ordinary,100.0,,70,Rivalry,1,128,56,20.0,365,2 HP,Undiscovered,Hustle,Medium Slow,Poison Point,50,62,20,Poison,Hustle,0.0
+45,1.3,,Drill,Undiscovered,87,75,85,31,Ordinary,100.0,Ground,90,Rivalry,1,227,76,60.0,505,3 HP,Undiscovered,Sheer Force,Medium Slow,Poison Point,50,92,20,Poison,Sheer Force,0.0
+235,0.5,Monster,Poison Pin,Field ,40,40,40,32,Ordinary,0.0,,46,Rivalry,1,55,50,9.0,273,1 Attack,Field ,Hustle,Medium Slow,Poison Point,50,57,20,Poison,Hustle,100.0
+120,0.9,Monster,Poison Pin,Field ,57,55,55,33,Ordinary,0.0,,61,Rivalry,1,128,65,19.5,365,2 Attack,Field ,Hustle,Medium Slow,Poison Point,50,72,20,Poison,Hustle,100.0
+45,1.4,Monster,Drill,Field ,77,85,75,34,Ordinary,0.0,Ground,81,Rivalry,1,227,85,62.0,505,3 Attack,Field ,Sheer Force,Medium Slow,Poison Point,50,102,20,Poison,Sheer Force,100.0
+150,0.6,,Fairy,Fairy,48,60,65,35,Ordinary,75.0,,70,Magic Guard,1,113,35,7.5,323,2 HP,Fairy,Friend Guard,Fast,Cute Charm,140,45,10,Fairy,Friend Guard,25.0
+25,1.3,,Fairy,Fairy,73,95,90,36,Ordinary,75.0,,95,Magic Guard,1,217,60,40.0,483,3 HP,Fairy,Unaware,Fast,Cute Charm,140,70,10,Fairy,Unaware,25.0
+190,0.6,,Fox,Field,40,50,65,37,Ordinary,75.0,,38,Drought,1,60,65,9.9,299,1 Speed,Field,,Medium Fast,Flash Fire,50,41,20,Fire,,25.0
+75,1.1,,Fox,Field,75,81,100,38,Ordinary,75.0,,73,Drought,1,177,100,19.9,505,"1 Sp. Def, 1 Speed",Field,,Medium Fast,Flash Fire,50,76,20,Fire,,25.0
+170,0.5,,Balloon,Fairy,20,45,25,39,Ordinary,75.0,Fairy,115,Competitive,1,95,20,5.5,270,2 HP,Fairy,Friend Guard,Fast,Cute Charm,50,45,10,Normal,Friend Guard,25.0
+50,1.0,,Balloon,Fairy,45,85,50,40,Ordinary,75.0,Fairy,140,Competitive,1,218,45,12.0,435,3 HP,Fairy,Frisk,Fast,Cute Charm,50,70,10,Normal,Frisk,25.0
+255,0.8,,Bat,Flying,35,30,40,41,Ordinary,50.0,Flying,40,Infiltrator,1,49,55,7.5,245,1 Speed,Flying,,Medium Fast,Inner Focus,50,45,15,Poison,,50.0
+90,1.6,,Bat,Flying,70,65,75,42,Ordinary,50.0,Flying,75,Infiltrator,1,159,90,55.0,455,2 Speed,Flying,,Medium Fast,Inner Focus,50,80,15,Poison,,50.0
+255,0.5,,Weed,Grass,55,75,65,43,Ordinary,50.0,Poison,45,Run Away,1,64,30,5.4,320,1 Sp. Atk,Grass,,Medium Slow,Chlorophyll,50,50,20,Grass,,50.0
+120,0.8,,Weed,Grass,70,85,75,44,Ordinary,50.0,Poison,60,Stench,1,138,40,8.6,395,2 Sp. Atk,Grass,,Medium Slow,Chlorophyll,50,65,20,Grass,,50.0
+45,1.2,,Flower,Grass,85,110,90,45,Ordinary,50.0,Poison,75,Effect Spore,1,221,50,18.6,490,3 Sp. Atk,Grass,,Medium Slow,Chlorophyll,50,80,20,Grass,,50.0
+190,0.3,Grass,Mushroom,Bug ,55,45,55,46,Ordinary,50.0,Grass,35,Dry Skin,1,57,25,5.4,285,1 Attack,Bug ,Damp,Medium Fast,Effect Spore,50,70,20,Bug,Damp,50.0
+75,1.0,Grass,Mushroom,Bug ,80,60,80,47,Ordinary,50.0,Grass,60,Dry Skin,1,142,30,29.5,405,"2 Attack, 1 Defense",Bug ,Damp,Medium Fast,Effect Spore,50,95,20,Bug,Damp,50.0
+190,1.0,,Insect,Bug,50,40,55,48,Ordinary,50.0,Poison,60,Tinted Lens,1,61,45,30.0,305,1 Sp. Def,Bug,Run Away,Medium Fast,Compound Eyes,50,55,20,Bug,Run Away,50.0
+75,1.5,,Poison Moth,Bug,60,90,75,49,Ordinary,50.0,Poison,70,Tinted Lens,1,158,90,12.5,450,"1 Sp. Atk, 1 Speed",Bug,Wonder Skin,Medium Fast,Shield Dust,50,65,20,Bug,Wonder Skin,50.0
+255,0.2,,Mole,Field,25,35,45,50,Ordinary,50.0,,10,Arena Trap,1,53,95,0.8,265,1 Speed,Field,Sand Force,Medium Fast,Sand Veil,50,55,20,Ground,Sand Force,50.0
+50,0.7,,Mole,Field,50,50,70,51,Ordinary,50.0,,35,Arena Trap,1,149,120,33.3,425,2 Speed,Field,Sand Force,Medium Fast,Sand Veil,50,100,20,Ground,Sand Force,50.0
+255,0.4,,Scratch Cat,Field,35,40,40,52,Ordinary,50.0,,40,Technician,1,58,90,4.2,290,1 Speed,Field,Unnerve,Medium Fast,Pickup,50,45,20,Normal,Unnerve,50.0
+90,1.0,,Classy Cat,Field,60,65,65,53,Ordinary,50.0,,65,Technician,1,154,115,32.0,440,2 Speed,Field,Unnerve,Medium Fast,Limber,50,70,20,Normal,Unnerve,50.0
+190,0.8,Water 1,Duck,Field ,48,65,50,54,Ordinary,50.0,,50,Cloud Nine,1,64,55,19.6,320,1 Sp. Atk,Field ,Swift Swim,Medium Fast,Damp,50,52,20,Water,Swift Swim,50.0
+75,1.7,Water 1,Duck,Field ,78,95,80,55,Ordinary,50.0,,80,Cloud Nine,1,175,85,76.6,500,2 Sp. Atk,Field ,Swift Swim,Medium Fast,Damp,50,82,20,Water,Swift Swim,50.0
+190,0.5,,Pig Monkey,Field,35,35,45,56,Ordinary,50.0,,40,Anger Point,1,61,70,28.0,305,1 Attack,Field,Defiant,Medium Fast,Vital Spirit,50,80,20,Fighting,Defiant,50.0
+75,1.0,,Pig Monkey,Field,60,60,70,57,Ordinary,50.0,,65,Anger Point,1,159,95,32.0,455,2 Attack,Field,Defiant,Medium Fast,Vital Spirit,50,105,20,Fighting,Defiant,50.0
+190,0.7,,Puppy,Field,45,70,50,58,Ordinary,25.0,,55,Flash Fire,1,70,60,19.0,350,1 Attack,Field,Justified,Slow,Intimidate,50,70,20,Fire,Justified,75.0
+75,1.9,,Legendary,Field,80,100,80,59,Ordinary,25.0,,90,Flash Fire,1,194,95,155.0,555,2 Attack,Field,Justified,Slow,Intimidate,50,110,20,Fire,Justified,75.0
+255,0.6,,Tadpole,Water 1,40,40,40,60,Ordinary,50.0,,40,Damp,1,60,90,12.4,300,1 Speed,Water 1,Swift Swim,Medium Slow,Water Absorb,50,50,20,Water,Swift Swim,50.0
+120,1.0,,Tadpole,Water 1,65,50,50,61,Ordinary,50.0,,65,Damp,1,135,90,20.0,385,2 Speed,Water 1,Swift Swim,Medium Slow,Water Absorb,50,65,20,Water,Swift Swim,50.0
+45,1.3,,Tadpole,Water 1,95,70,90,62,Ordinary,50.0,Fighting,90,Damp,1,230,70,54.0,510,3 Defense,Water 1,Swift Swim,Medium Slow,Water Absorb,50,95,20,Water,Swift Swim,50.0
+200,0.9,,Psi,Human-Like,15,105,55,63,Ordinary,25.0,,25,Inner Focus,1,62,90,19.5,310,1 Sp. Atk,Human-Like,Magic Guard,Medium Slow,Synchronize,50,20,20,Psychic,Magic Guard,75.0
+100,1.3,,Psi,Human-Like,30,120,70,64,Ordinary,25.0,,40,Inner Focus,1,140,105,56.5,400,2 Sp. Atk,Human-Like,Magic Guard,Medium Slow,Synchronize,50,35,20,Psychic,Magic Guard,75.0
+50,1.5,,Psi,Human-Like,45,135,95,65,Ordinary,25.0,,55,Inner Focus,1,225,120,48.0,500,3 Sp. Atk,Human-Like,Magic Guard,Medium Slow,Synchronize,50,50,20,Psychic,Magic Guard,75.0
+180,0.8,,Superpower,Human-Like,50,35,35,66,Ordinary,25.0,,70,No Guard,1,61,35,19.5,305,1 Attack,Human-Like,Steadfast,Medium Slow,Guts,50,80,20,Fighting,Steadfast,75.0
+90,1.5,,Superpower,Human-Like,70,50,60,67,Ordinary,25.0,,80,No Guard,1,142,45,70.5,405,2 Attack,Human-Like,Steadfast,Medium Slow,Guts,50,100,20,Fighting,Steadfast,75.0
+45,1.6,,Superpower,Human-Like,80,65,85,68,Ordinary,25.0,,90,No Guard,1,227,55,130.0,505,3 Attack,Human-Like,Steadfast,Medium Slow,Guts,50,130,20,Fighting,Steadfast,75.0
+255,0.7,,Flower,Grass,35,70,30,69,Ordinary,50.0,Poison,50,Gluttony,1,60,40,4.0,300,1 Attack,Grass,,Medium Slow,Chlorophyll,50,75,20,Grass,,50.0
+120,1.0,,Flycatcher,Grass,50,85,45,70,Ordinary,50.0,Poison,65,Gluttony,1,137,55,6.4,390,2 Attack,Grass,,Medium Slow,Chlorophyll,50,90,20,Grass,,50.0
+45,1.7,,Flycatcher,Grass,65,100,70,71,Ordinary,50.0,Poison,80,Gluttony,1,221,70,15.5,490,3 Attack,Grass,,Medium Slow,Chlorophyll,50,105,20,Grass,,50.0
+190,0.9,,Jellyfish,Water 3,35,50,100,72,Ordinary,50.0,Poison,40,Liquid Ooze,1,67,70,45.5,335,1 Sp. Def,Water 3,Rain Dish,Slow,Clear Body,50,40,20,Water,Rain Dish,50.0
+60,1.6,,Jellyfish,Water 3,65,80,120,73,Ordinary,50.0,Poison,80,Liquid Ooze,1,180,100,55.0,515,2 Sp. Def,Water 3,Rain Dish,Slow,Clear Body,50,70,20,Water,Rain Dish,50.0
+255,0.4,,Rock,Mineral,100,30,30,74,Ordinary,50.0,Ground,40,Sturdy,1,60,20,20.0,300,1 Defense,Mineral,Sand Veil,Medium Slow,Rock Head,50,80,15,Rock,Sand Veil,50.0
+120,1.0,,Rock,Mineral,115,45,45,75,Ordinary,50.0,Ground,55,Sturdy,1,137,35,105.0,390,2 Defense,Mineral,Sand Veil,Medium Slow,Rock Head,50,95,15,Rock,Sand Veil,50.0
+45,1.4,,Megaton,Mineral,130,55,65,76,Ordinary,50.0,Ground,80,Sturdy,1,223,45,300.0,495,3 Defense,Mineral,Sand Veil,Medium Slow,Rock Head,50,120,15,Rock,Sand Veil,50.0
+190,1.0,,Fire Horse,Field,55,65,65,77,Ordinary,50.0,,50,Flash Fire,1,82,90,30.0,410,1 Speed,Field,Flame Body,Medium Fast,Run Away,50,85,20,Fire,Flame Body,50.0
+60,1.7,,Fire Horse,Field,70,80,80,78,Ordinary,50.0,,65,Flash Fire,1,175,105,95.0,500,2 Speed,Field,Flame Body,Medium Fast,Run Away,50,100,20,Fire,Flame Body,50.0
+190,1.2,Water 1,Dopey,Monster ,65,40,40,79,Ordinary,50.0,Psychic,90,Own Tempo,1,63,15,36.0,315,1 HP,Monster ,Regenerator,Medium Fast,Oblivious,50,65,20,Water,Regenerator,50.0
+75,1.6,Water 1,Hermit Crab,Monster ,110,100,80,80,Ordinary,50.0,Psychic,95,Own Tempo,1,172,30,78.5,490,2 Defense,Monster ,Regenerator,Medium Fast,Oblivious,50,75,20,Water,Regenerator,50.0
+190,0.3,,Magnet,Mineral,70,95,55,81,Ordinary,,Steel,25,Sturdy,1,65,45,6.0,325,1 Sp. Atk,Mineral,Analytic,Medium Fast,Magnet Pull,50,35,20,Electric,Analytic,
+60,1.0,,Magnet,Mineral,95,120,70,82,Ordinary,,Steel,50,Sturdy,1,163,70,60.0,465,2 Sp. Atk,Mineral,Analytic,Medium Fast,Magnet Pull,50,60,20,Electric,Analytic,
+45,0.8,Flying,Wild Duck,Field ,55,58,62,83,Ordinary,50.0,Flying,52,Inner Focus,1,132,60,15.0,377,1 Attack,Field ,Defiant,Medium Fast,Keen Eye,50,90,20,Normal,Defiant,50.0
+190,1.4,,Twin Bird,Flying,45,35,35,84,Ordinary,50.0,Flying,35,Early Bird,1,62,75,39.2,310,1 Attack,Flying,Tangled Feet,Medium Fast,Run Away,50,85,20,Normal,Tangled Feet,50.0
+45,1.8,,Triple Bird,Flying,70,60,60,85,Ordinary,50.0,Flying,60,Early Bird,1,165,110,85.2,470,2 Attack,Flying,Tangled Feet,Medium Fast,Run Away,50,110,20,Normal,Tangled Feet,50.0
+190,1.1,Water 1,Sea Lion,Field ,55,45,70,86,Ordinary,50.0,,65,Hydration,1,65,45,90.0,325,1 Sp. Def,Field ,Ice Body,Medium Fast,Thick Fat,50,45,20,Water,Ice Body,50.0
+75,1.7,Water 1,Sea Lion,Field ,80,70,95,87,Ordinary,50.0,Ice,90,Hydration,1,166,70,120.0,475,2 Sp. Def,Field ,Ice Body,Medium Fast,Thick Fat,50,70,20,Water,Ice Body,50.0
+190,0.9,,Sludge,Amorphous,50,40,50,88,Ordinary,50.0,,80,Sticky Hold,1,65,25,30.0,325,1 HP,Amorphous,Poison Touch,Medium Fast,Stench,50,80,20,Poison,Poison Touch,50.0
+75,1.2,,Sludge,Amorphous,75,65,100,89,Ordinary,50.0,,105,Sticky Hold,1,175,50,30.0,500,"1 HP, 1 Attack",Amorphous,Poison Touch,Medium Fast,Stench,50,105,20,Poison,Poison Touch,50.0
+190,0.3,,Bivalve,Water 3,100,45,25,90,Ordinary,50.0,,30,Skill Link,1,61,40,4.0,305,1 Defense,Water 3,Overcoat,Slow,Shell Armor,50,65,20,Water,Overcoat,50.0
+60,1.5,,Bivalve,Water 3,180,85,45,91,Ordinary,50.0,Ice,50,Skill Link,1,184,70,132.5,525,2 Defense,Water 3,Overcoat,Slow,Shell Armor,50,95,20,Water,Overcoat,50.0
+190,1.3,,Gas,Amorphous,30,100,35,92,Ordinary,50.0,Poison,30,,1,62,80,0.1,310,1 Sp. Atk,Amorphous,,Medium Slow,Levitate,50,35,20,Ghost,,50.0
+90,1.6,,Gas,Amorphous,45,115,55,93,Ordinary,50.0,Poison,45,,1,142,95,0.1,405,2 Sp. Atk,Amorphous,,Medium Slow,Levitate,50,50,20,Ghost,,50.0
+45,1.5,,Shadow,Amorphous,60,130,75,94,Ordinary,50.0,Poison,60,,1,250,110,40.5,500,3 Sp. Atk,Amorphous,,Medium Slow,Cursed Body,50,65,20,Ghost,,50.0
+45,8.8,,Rock Snake,Mineral,160,30,45,95,Ordinary,50.0,Ground,35,Sturdy,1,77,70,210.0,385,1 Defense,Mineral,Weak Armor,Medium Fast,Rock Head,50,45,25,Rock,Weak Armor,50.0
+190,1.0,,Hypnosis,Human-Like,45,43,90,96,Ordinary,50.0,,60,Forewarn,1,66,42,32.4,328,1 Sp. Def,Human-Like,Inner Focus,Medium Fast,Insomnia,50,48,20,Psychic,Inner Focus,50.0
+75,1.6,,Hypnosis,Human-Like,70,73,115,97,Ordinary,50.0,,85,Forewarn,1,169,67,75.6,483,2 Sp. Def,Human-Like,Inner Focus,Medium Fast,Insomnia,50,73,20,Psychic,Inner Focus,50.0
+225,0.4,,River Crab,Water 3,90,25,25,98,Ordinary,50.0,,30,Shell Armor,1,65,50,6.5,325,1 Attack,Water 3,Sheer Force,Medium Fast,Hyper Cutter,50,105,20,Water,Sheer Force,50.0
+60,1.3,,Pincer,Water 3,115,50,50,99,Ordinary,50.0,,55,Shell Armor,1,166,75,60.0,475,2 Attack,Water 3,Sheer Force,Medium Fast,Hyper Cutter,50,130,20,Water,Sheer Force,50.0
+190,0.5,,Ball,Mineral,50,55,55,100,Ordinary,,,40,Static,1,66,100,10.4,330,1 Speed,Mineral,Aftermath,Medium Fast,Soundproof,50,30,20,Electric,Aftermath,
+60,1.2,,Ball,Mineral,70,80,80,101,Ordinary,,,60,Static,1,172,150,66.6,490,2 Speed,Mineral,Aftermath,Medium Fast,Soundproof,50,50,20,Electric,Aftermath,
+90,0.4,,Egg,Grass,80,60,45,102,Ordinary,50.0,Psychic,60,Harvest,1,65,40,2.5,325,1 Defense,Grass,,Slow,Chlorophyll,50,40,20,Grass,,50.0
+45,2.0,,Coconut,Grass,85,125,75,103,Ordinary,50.0,Psychic,95,Harvest,1,186,55,120.0,530,2 Sp. Atk,Grass,,Slow,Chlorophyll,50,95,20,Grass,,50.0
+190,0.4,,Lonely,Monster,95,40,50,104,Ordinary,50.0,,50,Lightning Rod,1,64,35,6.5,320,1 Defense,Monster,Battle Armor,Medium Fast,Rock Head,50,50,20,Ground,Battle Armor,50.0
+75,1.0,,Bone Keeper,Monster,110,50,80,105,Ordinary,50.0,,60,Lightning Rod,1,149,45,45.0,425,2 Defense,Monster,Battle Armor,Medium Fast,Rock Head,50,80,20,Ground,Battle Armor,50.0
+45,1.5,,Kicking,Human-Like,53,35,110,106,Ordinary,0.0,,50,Reckless,1,159,87,49.8,455,2 Attack,Human-Like,Unburden,Medium Fast,Limber,50,120,25,Fighting,Unburden,100.0
+45,1.4,,Punching,Human-Like,79,35,110,107,Ordinary,0.0,,50,Iron Fist,1,159,76,50.2,455,2 Sp. Def,Human-Like,Inner Focus,Medium Fast,Keen Eye,50,105,25,Fighting,Inner Focus,100.0
+45,1.2,,Licking,Monster,75,60,75,108,Ordinary,50.0,,90,Oblivious,1,77,30,65.5,385,2 HP,Monster,Cloud Nine,Medium Fast,Own Tempo,50,55,20,Normal,Cloud Nine,50.0
+190,0.6,,Poison Gas,Amorphous,95,60,45,109,Ordinary,50.0,,40,Neutralizing Gas,1,68,35,1.0,340,1 Defense,Amorphous,Stench,Medium Fast,Levitate,50,65,20,Poison,Stench,50.0
+60,1.2,,Poison Gas,Amorphous,120,85,70,110,Ordinary,50.0,,65,Neutralizing Gas,1,172,60,9.5,490,2 Defense,Amorphous,Stench,Medium Fast,Levitate,50,90,20,Poison,Stench,50.0
+120,1.0,Monster,Spikes,Field ,95,30,30,111,Ordinary,50.0,Rock,80,Rock Head,1,69,25,115.0,345,1 Defense,Field ,Reckless,Slow,Lightning Rod,50,85,20,Ground,Reckless,50.0
+60,1.9,Monster,Drill,Field ,120,45,45,112,Ordinary,50.0,Rock,105,Rock Head,1,170,40,120.0,485,2 Attack,Field ,Reckless,Slow,Lightning Rod,50,130,20,Ground,Reckless,50.0
+30,1.1,,Egg,Fairy,5,35,105,113,Ordinary,100.0,,250,Serene Grace,1,395,50,34.6,450,2 HP,Fairy,Healer,Fast,Natural Cure,140,5,40,Normal,Healer,0.0
+45,1.0,,Vine,Grass,115,100,40,114,Ordinary,50.0,,65,Leaf Guard,1,87,60,35.0,435,1 Defense,Grass,Regenerator,Medium Fast,Chlorophyll,50,55,20,Grass,Regenerator,50.0
+45,2.2,,Parent,Monster,80,40,80,115,Ordinary,100.0,,105,Scrappy,1,172,90,80.0,490,2 HP,Monster,Inner Focus,Medium Fast,Early Bird,50,95,20,Normal,Inner Focus,0.0
+225,0.4,Water 1,Dragon,Dragon ,70,70,25,116,Ordinary,50.0,,30,Sniper,1,59,60,8.0,295,1 Sp. Atk,Dragon ,Damp,Medium Fast,Swift Swim,50,40,20,Water,Damp,50.0
+75,1.2,Water 1,Dragon,Dragon ,95,95,45,117,Ordinary,50.0,,55,Sniper,1,154,85,25.0,440,"1 Defense, 1 Sp. Atk",Dragon ,Damp,Medium Fast,Poison Point,50,65,20,Water,Damp,50.0
+225,0.6,,Goldfish,Water 2,60,35,50,118,Ordinary,50.0,,45,Water Veil,1,64,63,15.0,320,1 Attack,Water 2,Lightning Rod,Medium Fast,Swift Swim,50,67,20,Water,Lightning Rod,50.0
+60,1.3,,Goldfish,Water 2,65,65,80,119,Ordinary,50.0,,80,Water Veil,1,158,68,39.0,450,2 Attack,Water 2,Lightning Rod,Medium Fast,Swift Swim,50,92,20,Water,Lightning Rod,50.0
+225,0.8,,Star Shape,Water 3,55,70,55,120,Ordinary,,,30,Natural Cure,1,68,85,34.5,340,1 Speed,Water 3,Analytic,Slow,Illuminate,50,45,20,Water,Analytic,
+60,1.1,,Mysterious,Water 3,85,100,85,121,Ordinary,,Psychic,60,Natural Cure,1,182,115,80.0,520,2 Speed,Water 3,Analytic,Slow,Illuminate,50,75,20,Water,Analytic,
+45,1.3,,Barrier,Human-Like,65,100,120,122,Ordinary,50.0,Fairy,40,Filter,1,161,90,54.5,460,2 Sp. Def,Human-Like,Technician,Medium Fast,Soundproof,50,45,25,Psychic,Technician,50.0
+45,1.5,,Mantis,Bug,80,55,80,123,Ordinary,50.0,Flying,70,Technician,1,100,105,56.0,500,1 Attack,Bug,Steadfast,Medium Fast,Swarm,50,110,25,Bug,Steadfast,50.0
+45,1.4,,Human Shape,Human-Like,35,115,95,124,Ordinary,100.0,Psychic,65,Forewarn,1,159,95,40.6,455,2 Sp. Atk,Human-Like,Dry Skin,Medium Fast,Oblivious,50,50,25,Ice,Dry Skin,0.0
+45,1.1,,Electric,Human-Like,57,95,85,125,Ordinary,25.0,,65,Vital Spirit,1,172,105,30.0,490,2 Speed,Human-Like,,Medium Fast,Static,50,83,25,Electric,,75.0
+45,1.3,,Spitfire,Human-Like,57,100,85,126,Ordinary,25.0,,65,Vital Spirit,1,173,93,44.5,495,2 Sp. Atk,Human-Like,,Medium Fast,Flame Body,50,95,25,Fire,,75.0
+45,1.5,,Stag Beetle,Bug,100,55,70,127,Ordinary,50.0,,65,Mold Breaker,1,175,85,55.0,500,2 Attack,Bug,Moxie,Slow,Hyper Cutter,50,125,25,Bug,Moxie,50.0
+45,1.4,,Wild Bull,Field,95,40,70,128,Ordinary,0.0,,75,Anger Point,1,172,110,88.4,490,"1 Attack, 1 Speed",Field,Sheer Force,Slow,Intimidate,50,100,20,Normal,Sheer Force,100.0
+255,0.9,Water 2,Fish,Dragon ,55,15,20,129,Ordinary,50.0,,20,Rattled,1,40,80,10.0,200,1 Speed,Dragon ,,Slow,Swift Swim,50,10,5,Water,,50.0
+45,6.5,Water 2,Atrocious,Dragon ,79,60,100,130,Ordinary,50.0,Flying,95,Moxie,1,189,81,235.0,540,2 Attack,Dragon ,,Slow,Intimidate,50,125,5,Water,,50.0
+45,2.5,Water 1,Transport,Monster ,80,85,95,131,Ordinary,50.0,Ice,130,Shell Armor,1,187,60,220.0,535,2 HP,Monster ,Hydration,Slow,Water Absorb,50,85,40,Water,Hydration,50.0
+35,0.3,,Transform,Ditto,48,48,48,132,Ordinary,,,48,Imposter,1,101,48,4.0,288,1 HP,Ditto,,Medium Fast,Limber,50,48,20,Normal,,
+45,0.3,,Evolution,Field,50,45,65,133,Ordinary,12.5,,55,Adaptability,1,65,55,6.5,325,1 Sp. Def,Field,Anticipation,Medium Fast,Run Away,50,55,35,Normal,Anticipation,87.5
+45,1.0,,Bubble Jet,Field,60,110,95,134,Ordinary,12.5,,130,Hydration,1,184,65,29.0,525,2 HP,Field,,Medium Fast,Water Absorb,50,65,35,Water,,87.5
+45,0.8,,Lightning,Field,60,110,95,135,Ordinary,12.5,,65,Quick Feet,1,184,130,24.5,525,2 Speed,Field,,Medium Fast,Volt Absorb,50,65,35,Electric,,87.5
+45,0.9,,Flame,Field,60,95,110,136,Ordinary,12.5,,65,Guts,1,184,65,25.0,525,2 Attack,Field,,Medium Fast,Flash Fire,50,130,35,Fire,,87.5
+45,0.8,,Virtual,Mineral,70,85,75,137,Ordinary,,,65,Download,1,79,40,36.5,395,1 Sp. Atk,Mineral,Analytic,Medium Fast,Trace,50,60,20,Normal,Analytic,
+45,0.4,Water 3,Spiral,Water 1 ,100,90,55,138,Fossil,12.5,Water,35,Shell Armor,1,71,35,7.5,355,1 Defense,Water 1 ,Weak Armor,Medium Fast,Swift Swim,50,40,30,Rock,Weak Armor,87.5
+45,1.0,Water 3,Spiral,Water 1 ,125,115,70,139,Fossil,12.5,Water,70,Shell Armor,1,173,55,35.0,495,2 Defense,Water 1 ,Weak Armor,Medium Fast,Swift Swim,50,60,30,Rock,Weak Armor,87.5
+45,0.5,Water 3,Shellfish,Water 1 ,90,55,45,140,Fossil,12.5,Water,30,Battle Armor,1,71,55,11.5,355,1 Defense,Water 1 ,Weak Armor,Medium Fast,Swift Swim,50,80,30,Rock,Weak Armor,87.5
+45,1.3,Water 3,Shellfish,Water 1 ,105,65,70,141,Fossil,12.5,Water,60,Battle Armor,1,173,80,40.5,495,2 Attack,Water 1 ,Weak Armor,Medium Fast,Swift Swim,50,115,30,Rock,Weak Armor,87.5
+45,1.8,,Fossil,Flying,65,60,75,142,Fossil,12.5,Flying,80,Pressure,1,180,130,59.0,515,2 Speed,Flying,Unnerve,Slow,Rock Head,50,105,35,Rock,Unnerve,87.5
+25,2.1,,Sleeping,Monster,65,65,110,143,Ordinary,12.5,,160,Thick Fat,1,189,30,460.0,540,2 HP,Monster,Gluttony,Slow,Immunity,50,110,40,Normal,Gluttony,87.5
+3,1.7,,Freeze,Undiscovered,100,95,125,144,Legendary,,Flying,90,Snow Cloak,1,290,85,55.4,580,3 Sp. Def,Undiscovered,,Slow,Pressure,35,85,80,Ice,,
+3,1.6,,Electric,Undiscovered,85,125,90,145,Legendary,,Flying,90,Static,1,290,100,52.6,580,3 Sp. Atk,Undiscovered,,Slow,Pressure,35,90,80,Electric,,
+3,2.0,,Flame,Undiscovered,90,125,85,146,Legendary,,Flying,90,Flame Body,1,290,90,60.0,580,3 Sp. Atk,Undiscovered,,Slow,Pressure,35,100,80,Fire,,
+45,1.8,Water 1,Dragon,Dragon ,45,50,50,147,Ordinary,50.0,,41,Marvel Scale,1,60,50,3.3,300,1 Attack,Dragon ,,Slow,Shed Skin,35,64,40,Dragon,,50.0
+45,4.0,Water 1,Dragon,Dragon ,65,70,70,148,Ordinary,50.0,,61,Marvel Scale,1,147,70,16.5,420,2 Attack,Dragon ,,Slow,Shed Skin,35,84,40,Dragon,,50.0
+45,2.2,Water 1,Dragon,Dragon ,95,100,100,149,Ordinary,50.0,Flying,91,Multiscale,1,300,80,210.0,600,3 Attack,Dragon ,,Slow,Inner Focus,35,134,40,Dragon,,50.0
+3,2.0,,Genetic,Undiscovered,90,154,90,150,Legendary,,,106,Unnerve,1,340,130,122.0,680,3 Sp. Atk,Undiscovered,,Slow,Pressure,0,110,120,Psychic,,
+45,0.4,,New Species,Undiscovered,100,100,100,151,Mythical,,,100,,1,300,100,4.0,600,3 HP,Undiscovered,,Medium Slow,Synchronize,100,100,120,Psychic,,
+45,0.9,Monster,Leaf,Grass ,65,49,65,152,Ordinary,12.5,,45,Leaf Guard,2,64,45,6.4,318,1 Sp. Def,Grass ,,Medium Slow,Overgrow,50,49,20,Grass,,87.5
+45,1.2,Monster,Leaf,Grass ,80,63,80,153,Ordinary,12.5,,60,Leaf Guard,2,142,60,15.8,405,"1 Defense, 1 Sp. Def",Grass ,,Medium Slow,Overgrow,50,62,20,Grass,,87.5
+45,1.8,Monster,Herb,Grass ,100,83,100,154,Ordinary,12.5,,80,Leaf Guard,2,236,80,100.5,525,"1 Defense, 2 Sp. Def",Grass ,,Medium Slow,Overgrow,50,82,20,Grass,,87.5
+45,0.5,,Fire Mouse,Field,43,60,50,155,Ordinary,12.5,,39,Flash Fire,2,62,65,7.9,309,1 Speed,Field,,Medium Slow,Blaze,50,52,20,Fire,,87.5
+45,0.9,,Volcano,Field,58,80,65,156,Ordinary,12.5,,58,Flash Fire,2,142,80,19.0,405,"1 Sp. Atk, 1 Speed",Field,,Medium Slow,Blaze,50,64,20,Fire,,87.5
+45,1.7,,Volcano,Field,78,109,85,157,Ordinary,12.5,,78,Flash Fire,2,267,100,79.5,534,3 Sp. Atk,Field,,Medium Slow,Blaze,50,84,20,Fire,,87.5
+45,0.6,Water 1,Big Jaw,Monster ,64,44,48,158,Ordinary,12.5,,50,Sheer Force,2,63,43,9.5,314,1 Attack,Monster ,,Medium Slow,Torrent,50,65,20,Water,,87.5
+45,1.1,Water 1,Big Jaw,Monster ,80,59,63,159,Ordinary,12.5,,65,Sheer Force,2,142,58,25.0,405,"1 Attack, 1 Defense",Monster ,,Medium Slow,Torrent,50,80,20,Water,,87.5
+45,2.3,Water 1,Big Jaw,Monster ,100,79,83,160,Ordinary,12.5,,85,Sheer Force,2,239,78,88.8,530,"2 Attack, 1 Defense",Monster ,,Medium Slow,Torrent,50,105,20,Water,,87.5
+255,0.8,,Scout,Field,34,35,45,161,Ordinary,50.0,,35,Keen Eye,2,43,20,6.0,215,1 Attack,Field,Frisk,Medium Fast,Run Away,50,46,15,Normal,Frisk,50.0
+90,1.8,,Long Body,Field,64,45,55,162,Ordinary,50.0,,85,Keen Eye,2,145,90,32.5,415,2 Speed,Field,Frisk,Medium Fast,Run Away,50,76,15,Normal,Frisk,50.0
+255,0.7,,Owl,Flying,30,36,56,163,Ordinary,50.0,Flying,60,Keen Eye,2,52,50,21.2,262,1 HP,Flying,Tinted Lens,Medium Fast,Insomnia,50,30,15,Normal,Tinted Lens,50.0
+90,1.6,,Owl,Flying,50,86,96,164,Ordinary,50.0,Flying,100,Keen Eye,2,158,70,40.8,452,2 HP,Flying,Tinted Lens,Medium Fast,Insomnia,50,50,15,Normal,Tinted Lens,50.0
+255,1.0,,Five Star,Bug,30,40,80,165,Ordinary,50.0,Flying,40,Early Bird,2,53,55,10.8,265,1 Sp. Def,Bug,Rattled,Fast,Swarm,50,20,15,Bug,Rattled,50.0
+90,1.4,,Five Star,Bug,50,55,110,166,Ordinary,50.0,Flying,55,Early Bird,2,137,85,35.6,390,2 Sp. Def,Bug,Iron Fist,Fast,Swarm,50,35,15,Bug,Iron Fist,50.0
+255,0.5,,String Spit,Bug,40,40,40,167,Ordinary,50.0,Poison,40,Insomnia,2,50,30,8.5,250,1 Attack,Bug,Sniper,Fast,Swarm,50,60,15,Bug,Sniper,50.0
+90,1.1,,Long Leg,Bug,70,60,70,168,Ordinary,50.0,Poison,70,Insomnia,2,140,40,33.5,400,2 Attack,Bug,Sniper,Fast,Swarm,50,90,15,Bug,Sniper,50.0
+90,1.8,,Bat,Flying,80,70,80,169,Ordinary,50.0,Flying,85,Infiltrator,2,241,130,75.0,535,3 Speed,Flying,,Medium Fast,Inner Focus,50,90,15,Poison,,50.0
+190,0.5,,Angler,Water 2,38,56,56,170,Ordinary,50.0,Electric,75,Illuminate,2,66,67,12.0,330,1 HP,Water 2,Water Absorb,Slow,Volt Absorb,50,38,20,Water,Water Absorb,50.0
+75,1.2,,Light,Water 2,58,76,76,171,Ordinary,50.0,Electric,125,Illuminate,2,161,67,22.5,460,2 HP,Water 2,Water Absorb,Slow,Volt Absorb,50,58,20,Water,Water Absorb,50.0
+190,0.3,,Tiny Mouse,Undiscovered,15,35,35,172,Baby Pokemon,50.0,,20,Lightning Rod,2,41,60,2.0,205,1 Speed,Undiscovered,,Medium Fast,Static,50,40,10,Electric,,50.0
+150,0.3,,Star Shape,Undiscovered,28,45,55,173,Baby Pokemon,75.0,,50,Magic Guard,2,44,15,3.0,218,1 Sp. Def,Undiscovered,Friend Guard,Fast,Cute Charm,140,25,10,Fairy,Friend Guard,25.0
+170,0.3,,Balloon,Undiscovered,15,40,20,174,Baby Pokemon,75.0,Fairy,90,Competitive,2,42,15,1.0,210,1 HP,Undiscovered,Friend Guard,Fast,Cute Charm,50,30,10,Normal,Friend Guard,25.0
+190,0.3,,Spike Ball,Undiscovered,65,40,65,175,Baby Pokemon,12.5,,35,Serene Grace,2,49,20,1.5,245,1 Sp. Def,Undiscovered,Super Luck,Fast,Hustle,50,20,10,Fairy,Super Luck,87.5
+75,0.6,Flying,Happiness,Fairy ,85,80,105,176,Ordinary,12.5,Flying,55,Serene Grace,2,142,40,3.2,405,2 Sp. Def,Fairy ,Super Luck,Fast,Hustle,50,40,10,Fairy,Super Luck,87.5
+190,0.2,,Tiny Bird,Flying,45,70,45,177,Ordinary,50.0,Flying,40,Early Bird,2,64,70,2.0,320,1 Sp. Atk,Flying,Magic Bounce,Medium Fast,Synchronize,50,50,20,Psychic,Magic Bounce,50.0
+75,1.5,,Mystic,Flying,70,95,70,178,Ordinary,50.0,Flying,65,Early Bird,2,165,95,15.0,470,"1 Sp. Atk, 1 Speed",Flying,Magic Bounce,Medium Fast,Synchronize,50,75,20,Psychic,Magic Bounce,50.0
+235,0.6,Monster,Wool,Field ,40,65,45,179,Ordinary,50.0,,55,Plus,2,56,35,7.8,280,1 Sp. Atk,Field ,,Medium Slow,Static,50,40,20,Electric,,50.0
+120,0.8,Monster,Wool,Field ,55,80,60,180,Ordinary,50.0,,70,Plus,2,128,45,13.3,365,2 Sp. Atk,Field ,,Medium Slow,Static,50,55,20,Electric,,50.0
+45,1.4,Monster,Light,Field ,85,115,90,181,Ordinary,50.0,,90,Plus,2,255,55,61.5,510,3 Sp. Atk,Field ,,Medium Slow,Static,50,75,20,Electric,,50.0
+45,0.4,,Flower,Grass,95,90,100,182,Ordinary,50.0,,75,Healer,2,221,50,5.8,490,3 Sp. Def,Grass,,Medium Slow,Chlorophyll,50,80,20,Grass,,50.0
+190,0.4,Water 1,Aqua Mouse,Fairy ,50,20,50,183,Ordinary,50.0,Fairy,70,Huge Power,2,88,40,8.5,250,2 HP,Fairy ,Sap Sipper,Fast,Thick Fat,50,20,10,Water,Sap Sipper,50.0
+75,0.8,Water 1,Aqua Rabbit,Fairy ,80,60,80,184,Ordinary,50.0,Fairy,100,Huge Power,2,210,50,28.5,420,3 HP,Fairy ,Sap Sipper,Fast,Thick Fat,50,50,10,Water,Sap Sipper,50.0
+65,1.2,,Imitation,Mineral,115,30,65,185,Ordinary,50.0,,70,Rock Head,2,144,30,38.0,410,2 Defense,Mineral,Rattled,Medium Fast,Sturdy,50,100,20,Rock,Rattled,50.0
+45,1.1,,Frog,Water 1,75,90,100,186,Ordinary,50.0,,90,Damp,2,225,70,33.9,500,3 Sp. Def,Water 1,Drizzle,Medium Slow,Water Absorb,50,75,20,Water,Drizzle,50.0
+255,0.4,Grass,Cottonweed,Fairy ,40,35,55,187,Ordinary,50.0,Flying,35,Leaf Guard,2,50,50,0.5,250,1 Sp. Def,Fairy ,Infiltrator,Medium Slow,Chlorophyll,50,35,20,Grass,Infiltrator,50.0
+120,0.6,Grass,Cottonweed,Fairy ,50,45,65,188,Ordinary,50.0,Flying,55,Leaf Guard,2,119,80,1.0,340,2 Speed,Fairy ,Infiltrator,Medium Slow,Chlorophyll,50,45,20,Grass,Infiltrator,50.0
+45,0.8,Grass,Cottonweed,Fairy ,70,55,95,189,Ordinary,50.0,Flying,75,Leaf Guard,2,230,110,3.0,460,3 Speed,Fairy ,Infiltrator,Medium Slow,Chlorophyll,50,55,20,Grass,Infiltrator,50.0
+45,0.8,,Long Tail,Field,55,40,55,190,Ordinary,50.0,,55,Pickup,2,72,85,11.5,360,1 Speed,Field,Skill Link,Fast,Run Away,50,70,20,Normal,Skill Link,50.0
+235,0.3,,Seed,Grass,30,30,30,191,Ordinary,50.0,,30,Solar Power,2,36,30,1.8,180,1 Sp. Atk,Grass,Early Bird,Medium Slow,Chlorophyll,50,30,20,Grass,Early Bird,50.0
+120,0.8,,Sun,Grass,55,105,85,192,Ordinary,50.0,,75,Solar Power,2,149,30,8.5,425,2 Sp. Atk,Grass,Early Bird,Medium Slow,Chlorophyll,50,75,20,Grass,Early Bird,50.0
+75,1.2,,Clear Wing,Bug,45,75,45,193,Ordinary,50.0,Flying,65,Compound Eyes,2,78,95,38.0,390,1 Speed,Bug,Frisk,Medium Fast,Speed Boost,50,65,20,Bug,Frisk,50.0
+255,0.4,Water 1,Water Fish,Field ,45,25,25,194,Ordinary,50.0,Ground,55,Water Absorb,2,42,15,8.5,210,1 HP,Field ,Unaware,Medium Fast,Damp,50,45,20,Water,Unaware,50.0
+90,1.4,Water 1,Water Fish,Field ,85,65,65,195,Ordinary,50.0,Ground,95,Water Absorb,2,151,35,75.0,430,2 HP,Field ,Unaware,Medium Fast,Damp,50,85,20,Water,Unaware,50.0
+45,0.9,,Sun,Field,60,130,95,196,Ordinary,12.5,,65,Magic Bounce,2,184,110,26.5,525,2 Sp. Atk,Field,,Medium Fast,Synchronize,50,65,35,Psychic,,87.5
+45,1.0,,Moonlight,Field,110,60,130,197,Ordinary,12.5,,95,Inner Focus,2,184,65,27.0,525,2 Sp. Def,Field,,Medium Fast,Synchronize,35,65,35,Dark,,87.5
+30,0.5,,Darkness,Flying,42,85,42,198,Ordinary,50.0,Flying,60,Super Luck,2,81,91,2.1,405,1 Speed,Flying,Prankster,Medium Slow,Insomnia,35,85,20,Dark,Prankster,50.0
+70,2.0,Water 1,Royal,Monster ,80,100,110,199,Ordinary,50.0,Psychic,95,Own Tempo,2,172,30,79.5,490,2 Sp. Def,Monster ,Regenerator,Medium Fast,Oblivious,50,75,20,Water,Regenerator,50.0
+45,0.7,,Screech,Amorphous,60,85,85,200,Ordinary,50.0,,60,,2,87,85,1.0,435,1 Sp. Def,Amorphous,,Fast,Levitate,35,60,25,Ghost,,50.0
+225,0.5,,Symbol,Undiscovered,48,72,48,201,Ordinary,,,48,,2,118,48,5.0,336,"1 Attack, 1 Sp. Atk",Undiscovered,,Medium Fast,Levitate,50,72,40,Psychic,,
+45,1.3,,Patient,Amorphous,58,33,58,202,Ordinary,50.0,,190,Telepathy,2,142,33,28.5,405,2 HP,Amorphous,,Medium Fast,Shadow Tag,50,33,20,Psychic,,50.0
+60,1.5,,Long Neck,Field,65,90,65,203,Ordinary,50.0,Psychic,70,Early Bird,2,159,85,41.5,455,2 Sp. Atk,Field,Sap Sipper,Medium Fast,Inner Focus,50,80,20,Normal,Sap Sipper,50.0
+190,0.6,,Bagworm,Bug,90,35,35,204,Ordinary,50.0,,50,Overcoat,2,58,15,7.2,290,1 Defense,Bug,,Medium Fast,Sturdy,50,65,20,Bug,,50.0
+75,1.2,,Bagworm,Bug,140,60,60,205,Ordinary,50.0,Steel,75,Overcoat,2,163,40,125.8,465,2 Defense,Bug,,Medium Fast,Sturdy,50,90,20,Bug,,50.0
+190,1.5,,Land Snake,Field,70,65,65,206,Ordinary,50.0,,100,Run Away,2,145,45,14.0,415,1 HP,Field,Rattled,Medium Fast,Serene Grace,50,70,20,Normal,Rattled,50.0
+60,1.1,,FlyScorpion,Bug,105,35,65,207,Ordinary,50.0,Flying,65,Sand Veil,2,86,85,64.8,430,1 Defense,Bug,Immunity,Medium Slow,Hyper Cutter,50,75,20,Ground,Immunity,50.0
+25,9.2,,Iron Snake,Mineral,200,55,65,208,Ordinary,50.0,Ground,75,Sturdy,2,179,30,400.0,510,2 Defense,Mineral,Sheer Force,Medium Fast,Rock Head,50,85,25,Steel,Sheer Force,50.0
+190,0.6,Field,Fairy,Fairy ,50,40,40,209,Ordinary,75.0,,60,Run Away,2,60,30,7.8,300,1 Attack,Fairy ,Rattled,Fast,Intimidate,50,80,20,Fairy,Rattled,25.0
+75,1.4,Field,Fairy,Fairy ,75,60,60,210,Ordinary,75.0,,90,Quick Feet,2,158,45,48.7,450,2 Attack,Fairy ,Rattled,Fast,Intimidate,50,120,20,Fairy,Rattled,25.0
+45,0.5,,Balloon,Water 2,85,55,55,211,Ordinary,50.0,Poison,65,Swift Swim,2,88,85,3.9,440,1 Attack,Water 2,Intimidate,Medium Fast,Poison Point,50,95,20,Water,Intimidate,50.0
+25,1.8,,Pincer,Bug,100,55,80,212,Ordinary,50.0,Steel,70,Technician,2,175,65,118.0,500,2 Attack,Bug,Light Metal,Medium Fast,Swarm,50,130,25,Bug,Light Metal,50.0
+190,0.6,,Mold,Bug,230,10,230,213,Ordinary,50.0,Rock,20,Gluttony,2,177,5,20.5,505,"1 Defense, 1 Sp. Def",Bug,Contrary,Medium Slow,Sturdy,50,10,20,Bug,Contrary,50.0
+45,1.5,,Single Horn,Bug,75,40,95,214,Ordinary,50.0,Fighting,80,Guts,2,175,85,54.0,500,2 Attack,Bug,Moxie,Slow,Swarm,50,125,25,Bug,Moxie,50.0
+60,0.9,,Sharp Claw,Field,55,35,75,215,Ordinary,50.0,Ice,55,Keen Eye,2,86,115,28.0,430,1 Speed,Field,Pickpocket,Medium Slow,Inner Focus,35,95,20,Dark,Pickpocket,50.0
+120,0.6,,Little Bear,Field,50,50,50,216,Ordinary,50.0,,60,Quick Feet,2,66,40,8.8,330,1 Attack,Field,Honey Gather,Medium Fast,Pickup,50,80,20,Normal,Honey Gather,50.0
+60,1.8,,Hibernator,Field,75,75,75,217,Ordinary,50.0,,90,Quick Feet,2,175,55,125.8,500,2 Attack,Field,Unnerve,Medium Fast,Guts,50,130,20,Normal,Unnerve,50.0
+190,0.7,,Lava,Amorphous,40,70,40,218,Ordinary,50.0,,40,Flame Body,2,50,20,35.0,250,1 Sp. Atk,Amorphous,Weak Armor,Medium Fast,Magma Armor,50,40,20,Fire,Weak Armor,50.0
+75,0.8,,Lava,Amorphous,120,90,80,219,Ordinary,50.0,Rock,60,Flame Body,2,151,30,55.0,430,2 Defense,Amorphous,Weak Armor,Medium Fast,Magma Armor,50,50,20,Fire,Weak Armor,50.0
+225,0.4,,Pig,Field,40,30,30,220,Ordinary,50.0,Ground,50,Snow Cloak,2,50,50,6.5,250,1 Attack,Field,Thick Fat,Slow,Oblivious,50,50,20,Ice,Thick Fat,50.0
+75,1.1,,Swine,Field,80,60,60,221,Ordinary,50.0,Ground,100,Snow Cloak,2,158,50,55.8,450,"1 HP, 1 Attack",Field,Thick Fat,Slow,Oblivious,50,100,20,Ice,Thick Fat,50.0
+60,0.6,Water 3,Coral,Water 1 ,95,65,95,222,Ordinary,75.0,Rock,65,Natural Cure,2,144,35,5.0,410,"1 Defense, 1 Sp. Def",Water 1 ,Regenerator,Fast,Hustle,50,55,20,Water,Regenerator,25.0
+190,0.6,Water 2,Jet,Water 1 ,35,65,35,223,Ordinary,50.0,,35,Sniper,2,60,65,12.0,300,1 Sp. Atk,Water 1 ,Moody,Medium Fast,Hustle,50,65,20,Water,Moody,50.0
+75,0.9,Water 2,Jet,Water 1 ,75,105,75,224,Ordinary,50.0,,75,Sniper,2,168,45,28.5,480,"1 Attack, 1 Sp. Atk",Water 1 ,Moody,Medium Fast,Suction Cups,50,105,20,Water,Moody,50.0
+45,0.9,Water 1,Delivery,Field ,45,65,45,225,Ordinary,50.0,Flying,45,Hustle,2,116,75,16.0,330,1 Speed,Field ,Insomnia,Fast,Vital Spirit,50,55,20,Ice,Insomnia,50.0
+25,2.1,,Kite,Water 1,70,80,140,226,Ordinary,50.0,Flying,85,Water Absorb,2,170,70,220.0,485,2 Sp. Def,Water 1,Water Veil,Slow,Swift Swim,50,40,25,Water,Water Veil,50.0
+25,1.7,,Armor Bird,Flying,140,40,70,227,Ordinary,50.0,Flying,65,Sturdy,2,163,70,50.5,465,2 Defense,Flying,Weak Armor,Slow,Keen Eye,50,80,25,Steel,Weak Armor,50.0
+120,0.6,,Dark,Field,30,80,50,228,Ordinary,50.0,Fire,45,Flash Fire,2,66,65,10.8,330,1 Sp. Atk,Field,Unnerve,Slow,Early Bird,35,60,20,Dark,Unnerve,50.0
+45,1.4,,Dark,Field,50,110,80,229,Ordinary,50.0,Fire,75,Flash Fire,2,175,95,35.0,500,2 Sp. Atk,Field,Unnerve,Slow,Early Bird,35,90,20,Dark,Unnerve,50.0
+45,1.8,Water 1,Dragon,Dragon ,95,95,95,230,Ordinary,50.0,Dragon,75,Sniper,2,243,85,152.0,540,"1 Attack, 1 Sp. Atk, 1 Sp. Def",Dragon ,Damp,Medium Fast,Swift Swim,50,95,20,Water,Damp,50.0
+120,0.5,,Long Nose,Field,60,40,40,231,Ordinary,50.0,,90,Sand Veil,2,66,40,33.5,330,1 HP,Field,,Medium Fast,Pickup,50,60,20,Ground,,50.0
+60,1.1,,Armor,Field,120,60,60,232,Ordinary,50.0,,90,Sand Veil,2,175,50,120.0,500,"1 Attack, 1 Defense",Field,,Medium Fast,Sturdy,50,120,20,Ground,,50.0
+45,0.6,,Virtual,Mineral,90,105,95,233,Ordinary,,,85,Download,2,180,60,32.5,515,2 Sp. Atk,Mineral,Analytic,Medium Fast,Trace,50,80,20,Normal,Analytic,
+45,1.4,,Big Horn,Field,62,85,65,234,Ordinary,50.0,,73,Frisk,2,163,85,71.2,465,1 Attack,Field,Sap Sipper,Slow,Intimidate,50,95,20,Normal,Sap Sipper,50.0
+45,1.2,,Painter,Field,35,20,45,235,Ordinary,50.0,,55,Technician,2,88,75,58.0,250,1 Speed,Field,Moody,Fast,Own Tempo,50,20,20,Normal,Moody,50.0
+75,0.7,,Scuffle,Undiscovered,35,35,35,236,Baby Pokemon,0.0,,35,Steadfast,2,42,35,21.0,210,1 Attack,Undiscovered,Vital Spirit,Medium Fast,Guts,50,35,25,Fighting,Vital Spirit,100.0
+45,1.4,,Handstand,Human-Like,95,35,110,237,Ordinary,0.0,,50,Technician,2,159,70,48.0,455,2 Sp. Def,Human-Like,Steadfast,Medium Fast,Intimidate,50,95,25,Fighting,Steadfast,100.0
+45,0.4,,Kiss,Undiscovered,15,85,65,238,Baby Pokemon,100.0,Psychic,45,Forewarn,2,61,65,6.0,305,1 Sp. Atk,Undiscovered,Hydration,Medium Fast,Oblivious,50,30,25,Ice,Hydration,0.0
+45,0.6,,Electric,Undiscovered,37,65,55,239,Baby Pokemon,25.0,,45,Vital Spirit,2,72,95,23.5,360,1 Speed,Undiscovered,,Medium Fast,Static,50,63,25,Electric,,75.0
+45,0.7,,Live Coal,Undiscovered,37,70,55,240,Baby Pokemon,25.0,,45,Vital Spirit,2,73,83,21.4,365,1 Speed,Undiscovered,,Medium Fast,Flame Body,50,75,25,Fire,,75.0
+45,1.2,,Milk Cow,Field,105,40,70,241,Ordinary,100.0,,95,Scrappy,2,172,100,75.5,490,2 Defense,Field,Sap Sipper,Slow,Thick Fat,50,80,20,Normal,Sap Sipper,0.0
+30,1.5,,Happiness,Fairy,10,75,135,242,Ordinary,100.0,,255,Serene Grace,2,635,55,46.8,540,3 HP,Fairy,Healer,Fast,Natural Cure,140,10,40,Normal,Healer,0.0
+3,1.9,,Thunder,Undiscovered,75,115,100,243,Legendary,,,90,Inner Focus,2,261,115,178.0,580,"1 Sp. Atk, 2 Speed",Undiscovered,,Slow,Pressure,35,85,80,Electric,,
+3,2.1,,Volcano,Undiscovered,85,90,75,244,Legendary,,,115,Inner Focus,2,261,100,198.0,580,"1 HP, 2 Attack",Undiscovered,,Slow,Pressure,35,115,80,Fire,,
+3,2.0,,Aurora,Undiscovered,115,90,115,245,Legendary,,,100,Inner Focus,2,261,85,187.0,580,"1 Defense, 2 Sp. Def",Undiscovered,,Slow,Pressure,35,75,80,Water,,
+45,0.6,,Rock Skin,Monster,50,45,50,246,Ordinary,50.0,Ground,50,Sand Veil,2,60,41,72.0,300,1 Attack,Monster,,Slow,Guts,35,64,40,Rock,,50.0
+45,1.2,,Hard Shell,Monster,70,65,70,247,Ordinary,50.0,Ground,70,,2,144,51,152.0,410,2 Attack,Monster,,Slow,Shed Skin,35,84,40,Rock,,50.0
+45,2.0,,Armor,Monster,110,95,100,248,Ordinary,50.0,Dark,100,Unnerve,2,300,61,202.0,600,3 Attack,Monster,,Slow,Sand Stream,35,134,40,Rock,,50.0
+3,5.2,,Diving,Undiscovered,130,90,154,249,Legendary,,Flying,106,Multiscale,2,306,110,216.0,680,3 Sp. Def,Undiscovered,,Slow,Pressure,0,90,120,Psychic,,
+3,3.8,,Rainbow,Undiscovered,90,110,154,250,Ordinary,,Flying,106,Regenerator,2,306,90,199.0,680,3 Sp. Def,Undiscovered,,Slow,Pressure,0,130,120,Fire,,
+45,0.6,,Time Travel,Undiscovered,100,100,100,251,Mythical,,Grass,100,,2,270,100,5.0,600,3 HP,Undiscovered,,Medium Slow,Natural Cure,100,100,120,Psychic,,
+45,0.5,Monster,Wood Gecko,Dragon ,35,65,55,252,Ordinary,12.5,,40,Unburden,3,62,70,5.0,310,1 Speed,Dragon ,,Medium Slow,Overgrow,50,45,20,Grass,,87.5
+45,0.9,Monster,Wood Gecko,Dragon ,45,85,65,253,Ordinary,12.5,,50,Unburden,3,142,95,21.6,405,2 Speed,Dragon ,,Medium Slow,Overgrow,50,65,20,Grass,,87.5
+45,1.7,Monster,Forest,Dragon ,65,105,85,254,Ordinary,12.5,,70,Unburden,3,239,120,52.2,530,3 Speed,Dragon ,,Medium Slow,Overgrow,50,85,20,Grass,,87.5
+45,0.4,,Chick,Field,40,70,50,255,Ordinary,12.5,,45,Speed Boost,3,62,45,2.5,310,1 Sp. Atk,Field,,Medium Slow,Blaze,50,60,20,Fire,,87.5
+45,0.9,,Young Fowl,Field,60,85,60,256,Ordinary,12.5,Fighting,60,Speed Boost,3,142,55,19.5,405,"1 Attack, 1 Sp. Atk",Field,,Medium Slow,Blaze,50,85,20,Fire,,87.5
+45,1.9,,Blaze,Field,70,110,70,257,Ordinary,12.5,Fighting,80,Speed Boost,3,239,80,52.0,530,3 Attack,Field,,Medium Slow,Blaze,50,120,20,Fire,,87.5
+45,0.4,Water 1,Mud Fish,Monster ,50,50,50,258,Ordinary,12.5,,50,Damp,3,62,40,7.6,310,1 Attack,Monster ,,Medium Slow,Torrent,50,70,20,Water,,87.5
+45,0.7,Water 1,Mud Fish,Monster ,70,60,70,259,Ordinary,12.5,Ground,70,Damp,3,142,50,28.0,405,2 Attack,Monster ,,Medium Slow,Torrent,50,85,20,Water,,87.5
+45,1.5,Water 1,Mud Fish,Monster ,90,85,90,260,Ordinary,12.5,Ground,100,Damp,3,241,60,81.9,535,3 Attack,Monster ,,Medium Slow,Torrent,50,110,20,Water,,87.5
+255,0.5,,Bite,Field,35,30,30,261,Ordinary,50.0,,35,Quick Feet,3,56,35,13.6,220,1 Attack,Field,Rattled,Medium Fast,Run Away,50,55,15,Dark,Rattled,50.0
+127,1.0,,Bite,Field,70,60,60,262,Ordinary,50.0,,70,Quick Feet,3,147,70,37.0,420,2 Attack,Field,Moxie,Medium Fast,Intimidate,50,90,15,Dark,Moxie,50.0
+255,0.4,,TinyRaccoon,Field,41,30,41,263,Ordinary,50.0,,38,Gluttony,3,56,60,17.5,240,1 Speed,Field,Quick Feet,Medium Fast,Pickup,50,30,15,Normal,Quick Feet,50.0
+90,0.5,,Rushing,Field,61,50,61,264,Ordinary,50.0,,78,Gluttony,3,147,100,32.5,420,2 Speed,Field,Quick Feet,Medium Fast,Pickup,50,70,15,Normal,Quick Feet,50.0
+255,0.3,,Worm,Bug,35,20,30,265,Ordinary,50.0,,45,Run Away,3,56,20,3.6,195,1 HP,Bug,,Medium Fast,Shield Dust,50,45,15,Bug,,50.0
+120,0.6,,Cocoon,Bug,55,25,25,266,Ordinary,50.0,,50,,3,72,15,10.0,205,2 Defense,Bug,,Medium Fast,Shed Skin,50,35,15,Bug,,50.0
+45,1.0,,Butterfly,Bug,50,100,50,267,Ordinary,50.0,Flying,60,Rivalry,3,178,65,28.4,395,3 Sp. Atk,Bug,,Medium Fast,Swarm,50,70,15,Bug,,50.0
+120,0.7,,Cocoon,Bug,55,25,25,268,Ordinary,50.0,,50,,3,72,15,11.5,205,2 Defense,Bug,,Medium Fast,Shed Skin,50,35,15,Bug,,50.0
+45,1.2,,Poison Moth,Bug,70,50,90,269,Ordinary,50.0,Poison,60,Compound Eyes,3,173,65,31.6,385,3 Sp. Def,Bug,,Medium Fast,Shield Dust,50,50,15,Bug,,50.0
+255,0.5,Water 1,Water Weed,Grass ,30,40,50,270,Ordinary,50.0,Grass,40,Rain Dish,3,44,30,2.6,220,1 Sp. Def,Grass ,Own Tempo,Medium Slow,Swift Swim,50,30,15,Water,Own Tempo,50.0
+120,1.2,Water 1,Jolly,Grass ,50,60,70,271,Ordinary,50.0,Grass,60,Rain Dish,3,119,50,32.5,340,2 Sp. Def,Grass ,Own Tempo,Medium Slow,Swift Swim,50,50,15,Water,Own Tempo,50.0
+45,1.5,Water 1,Carefree,Grass ,70,90,100,272,Ordinary,50.0,Grass,80,Rain Dish,3,216,70,55.0,480,3 Sp. Def,Grass ,Own Tempo,Medium Slow,Swift Swim,50,70,15,Water,Own Tempo,50.0
+255,0.5,Grass,Acorn,Field ,50,30,30,273,Ordinary,50.0,,40,Early Bird,3,44,30,4.0,220,1 Defense,Field ,Pickpocket,Medium Slow,Chlorophyll,50,40,15,Grass,Pickpocket,50.0
+120,1.0,Grass,Wily,Field ,40,60,40,274,Ordinary,50.0,Dark,70,Early Bird,3,119,60,28.0,340,2 Attack,Field ,Pickpocket,Medium Slow,Chlorophyll,50,70,15,Grass,Pickpocket,50.0
+45,1.3,Grass,Wicked,Field ,60,90,60,275,Ordinary,50.0,Dark,90,Early Bird,3,216,80,59.6,480,3 Attack,Field ,Pickpocket,Medium Slow,Chlorophyll,50,100,15,Grass,Pickpocket,50.0
+200,0.3,,TinySwallow,Flying,30,30,30,276,Ordinary,50.0,Flying,40,Scrappy,3,54,85,2.3,270,1 Speed,Flying,,Medium Slow,Guts,50,55,15,Normal,,50.0
+45,0.7,,Swallow,Flying,60,75,50,277,Ordinary,50.0,Flying,60,Scrappy,3,159,125,19.8,455,2 Speed,Flying,,Medium Slow,Guts,50,85,15,Normal,,50.0
+190,0.6,Water 1,Seagull,Flying ,30,55,30,278,Ordinary,50.0,Flying,40,Hydration,3,54,85,9.5,270,1 Speed,Flying ,Rain Dish,Medium Fast,Keen Eye,50,30,20,Water,Rain Dish,50.0
+45,1.2,Water 1,Water Bird,Flying ,100,95,70,279,Ordinary,50.0,Flying,60,Drizzle,3,154,65,28.0,440,2 Defense,Flying ,Rain Dish,Medium Fast,Keen Eye,50,50,20,Water,Rain Dish,50.0
+235,0.4,Human-Like,Feeling,Amorphous ,25,45,35,280,Ordinary,50.0,Fairy,28,Trace,3,40,40,6.6,198,1 Sp. Atk,Amorphous ,Telepathy,Slow,Synchronize,35,25,20,Psychic,Telepathy,50.0
+120,0.8,Human-Like,Emotion,Amorphous ,35,65,55,281,Ordinary,50.0,Fairy,38,Trace,3,97,50,20.2,278,2 Sp. Atk,Amorphous ,Telepathy,Slow,Synchronize,35,35,20,Psychic,Telepathy,50.0
+45,1.6,Human-Like,Embrace,Amorphous ,65,125,115,282,Ordinary,50.0,Fairy,68,Trace,3,259,80,48.4,518,3 Sp. Atk,Amorphous ,Telepathy,Slow,Synchronize,35,65,20,Psychic,Telepathy,50.0
+200,0.5,Water 1,Pond Skater,Bug ,32,50,52,283,Ordinary,50.0,Water,40,Rain Dish,3,54,65,1.7,269,1 Speed,Bug ,,Medium Fast,Swift Swim,50,30,15,Bug,,50.0
+75,0.8,Water 1,Eyeball,Bug ,62,100,82,284,Ordinary,50.0,Flying,70,Unnerve,3,159,80,3.6,454,"1 Sp. Atk, 1 Sp. Def",Bug ,,Medium Fast,Intimidate,50,60,15,Bug,,50.0
+255,0.4,Grass,Mushroom,Fairy ,60,40,60,285,Ordinary,50.0,,60,Poison Heal,3,59,35,4.5,295,1 HP,Fairy ,Quick Feet,Fluctuating,Effect Spore,50,40,15,Grass,Quick Feet,50.0
+90,1.2,Grass,Mushroom,Fairy ,80,60,60,286,Ordinary,50.0,Fighting,60,Poison Heal,3,161,70,39.2,460,2 Attack,Fairy ,Technician,Fluctuating,Effect Spore,50,130,15,Grass,Technician,50.0
+255,0.8,,Slacker,Field,60,35,35,287,Ordinary,50.0,,60,,3,56,30,24.0,280,1 HP,Field,,Slow,Truant,50,60,15,Normal,,50.0
+120,1.4,,Wild Monkey,Field,80,55,55,288,Ordinary,50.0,,80,,3,154,90,46.5,440,2 Speed,Field,,Slow,Vital Spirit,50,80,15,Normal,,50.0
+45,2.0,,Lazy,Field,100,95,65,289,Ordinary,50.0,,150,,3,285,100,130.5,670,3 HP,Field,,Slow,Truant,50,160,15,Normal,,50.0
+255,0.5,,Trainee,Bug,90,30,30,290,Ordinary,50.0,Ground,31,Run Away,3,53,40,5.5,266,1 Defense,Bug,,Erratic,Compound Eyes,50,45,15,Bug,,50.0
+120,0.8,,Ninja,Bug,45,50,50,291,Ordinary,50.0,Flying,61,Infiltrator,3,160,160,12.0,456,2 Speed,Bug,,Erratic,Speed Boost,50,90,15,Bug,,50.0
+45,0.8,,Shed,Mineral,45,30,30,292,Ordinary,,Ghost,1,,3,83,40,1.2,236,2 HP,Mineral,,Erratic,Wonder Guard,50,90,15,Bug,,
+190,0.6,Monster,Whisper,Field ,23,51,23,293,Ordinary,50.0,,64,Rattled,3,48,28,16.3,240,1 HP,Field ,,Medium Slow,Soundproof,50,51,20,Normal,,50.0
+120,1.0,Monster,Big Voice,Field ,43,71,43,294,Ordinary,50.0,,84,Scrappy,3,126,48,40.5,360,2 HP,Field ,,Medium Slow,Soundproof,50,71,20,Normal,,50.0
+45,1.5,Monster,Loud Noise,Field ,63,91,73,295,Ordinary,50.0,,104,Scrappy,3,221,68,84.0,490,3 HP,Field ,,Medium Slow,Soundproof,50,91,20,Normal,,50.0
+180,1.0,,Guts,Human-Like,30,20,30,296,Ordinary,25.0,,72,Guts,3,47,25,86.4,237,1 HP,Human-Like,Sheer Force,Fluctuating,Thick Fat,50,60,20,Fighting,Sheer Force,75.0
+200,2.3,,Arm Thrust,Human-Like,60,40,60,297,Ordinary,25.0,,144,Guts,3,166,50,253.8,474,2 HP,Human-Like,Sheer Force,Fluctuating,Thick Fat,50,120,20,Fighting,Sheer Force,75.0
+150,0.2,,Polka Dot,Undiscovered,40,20,40,298,Baby Pokemon,75.0,Fairy,50,Huge Power,3,38,20,2.0,190,1 HP,Undiscovered,Sap Sipper,Fast,Thick Fat,50,20,10,Normal,Sap Sipper,25.0
+255,1.0,,Compass,Mineral,135,45,90,299,Ordinary,50.0,,30,Magnet Pull,3,75,30,97.0,375,1 Defense,Mineral,Sand Force,Medium Fast,Sturdy,50,45,20,Rock,Sand Force,50.0
+255,0.6,Field,Kitten,Fairy ,45,35,35,300,Ordinary,75.0,,50,Normalize,3,52,50,11.0,260,1 Speed,Fairy ,Wonder Skin,Fast,Cute Charm,50,45,15,Normal,Wonder Skin,25.0
+60,1.1,Field,Prim,Fairy ,65,55,55,301,Ordinary,75.0,,70,Normalize,3,140,90,32.6,400,"1 HP, 1 Speed",Fairy ,Wonder Skin,Fast,Cute Charm,50,65,15,Normal,Wonder Skin,25.0
+45,0.5,,Darkness,Human-Like,75,65,65,302,Ordinary,50.0,Ghost,50,Stall,3,133,50,11.0,380,"1 Attack, 1 Defense",Human-Like,Prankster,Medium Slow,Keen Eye,35,75,25,Dark,Prankster,50.0
+45,0.6,Field,Deceiver,Fairy ,85,55,55,303,Ordinary,50.0,Fairy,50,Intimidate,3,133,50,11.5,380,"1 Attack, 1 Defense",Fairy ,Sheer Force,Fast,Hyper Cutter,50,85,20,Steel,Sheer Force,50.0
+180,0.4,,Iron Armor,Monster,100,40,40,304,Ordinary,50.0,Rock,50,Rock Head,3,66,30,60.0,330,1 Defense,Monster,Heavy Metal,Slow,Sturdy,35,70,35,Steel,Heavy Metal,50.0
+90,0.9,,Iron Armor,Monster,140,50,50,305,Ordinary,50.0,Rock,60,Rock Head,3,151,40,120.0,430,2 Defense,Monster,Heavy Metal,Slow,Sturdy,35,90,35,Steel,Heavy Metal,50.0
+45,2.1,,Iron Armor,Monster,180,60,60,306,Ordinary,50.0,Rock,70,Rock Head,3,239,50,360.0,530,3 Defense,Monster,Heavy Metal,Slow,Sturdy,35,110,35,Steel,Heavy Metal,50.0
+180,0.6,,Meditate,Human-Like,55,40,55,307,Ordinary,50.0,Psychic,30,Telepathy,3,56,60,11.2,280,1 Speed,Human-Like,,Medium Fast,Pure Power,50,40,20,Fighting,,50.0
+90,1.3,,Meditate,Human-Like,75,60,75,308,Ordinary,50.0,Psychic,60,Telepathy,3,144,80,31.5,410,2 Speed,Human-Like,,Medium Fast,Pure Power,50,60,20,Fighting,,50.0
+120,0.6,,Lightning,Field,40,65,40,309,Ordinary,50.0,,40,Lightning Rod,3,59,65,15.2,295,1 Speed,Field,Minus,Slow,Static,50,45,20,Electric,Minus,50.0
+45,1.5,,Discharge,Field,60,105,60,310,Ordinary,50.0,,70,Lightning Rod,3,166,105,40.2,475,2 Speed,Field,Minus,Slow,Static,50,75,20,Electric,Minus,50.0
+200,0.4,,Cheering,Fairy,40,85,75,311,Ordinary,50.0,,60,Lightning Rod,3,142,95,4.2,405,1 Speed,Fairy,,Medium Fast,Plus,50,50,20,Electric,,50.0
+200,0.4,,Cheering,Fairy,50,75,85,312,Ordinary,50.0,,60,Volt Absorb,3,142,95,4.2,405,1 Speed,Fairy,,Medium Fast,Minus,50,40,20,Electric,,50.0
+150,0.7,Human-Like,Firefly,Bug ,75,47,85,313,Ordinary,0.0,,65,Swarm,3,151,85,17.7,430,1 Speed,Bug ,Prankster,Erratic,Illuminate,50,73,15,Bug,Prankster,100.0
+150,0.6,Human-Like,Firefly,Bug ,75,73,85,314,Ordinary,100.0,,65,Tinted Lens,3,151,85,17.7,430,1 Speed,Bug ,Prankster,Fluctuating,Oblivious,50,47,15,Bug,Prankster,0.0
+150,0.3,Grass,Thorn,Fairy ,45,100,80,315,Ordinary,50.0,Poison,50,Poison Point,3,140,65,2.0,400,2 Sp. Atk,Fairy ,Leaf Guard,Medium Slow,Natural Cure,50,60,20,Grass,Leaf Guard,50.0
+225,0.4,,Stomach,Amorphous,53,43,53,316,Ordinary,50.0,,70,Sticky Hold,3,60,40,10.3,302,1 HP,Amorphous,Gluttony,Fluctuating,Liquid Ooze,50,43,20,Poison,Gluttony,50.0
+75,1.7,,Poison Bag,Amorphous,83,73,83,317,Ordinary,50.0,,100,Sticky Hold,3,163,55,80.0,467,2 HP,Amorphous,Gluttony,Fluctuating,Liquid Ooze,50,73,20,Poison,Gluttony,50.0
+225,0.8,,Savage,Water 2,20,65,20,318,Ordinary,50.0,Dark,45,Speed Boost,3,61,65,20.8,305,1 Attack,Water 2,,Slow,Rough Skin,35,90,20,Water,,50.0
+60,1.8,,Brutal,Water 2,40,95,40,319,Ordinary,50.0,Dark,70,Speed Boost,3,161,95,88.8,460,2 Attack,Water 2,,Slow,Rough Skin,35,120,20,Water,,50.0
+125,2.0,Water 2,Ball Whale,Field ,35,70,35,320,Ordinary,50.0,,130,Oblivious,3,80,60,130.0,400,1 HP,Field ,Pressure,Fluctuating,Water Veil,50,70,40,Water,Pressure,50.0
+60,14.5,Water 2,Float Whale,Field ,45,90,45,321,Ordinary,50.0,,170,Oblivious,3,175,60,398.0,500,2 HP,Field ,Pressure,Fluctuating,Water Veil,50,90,40,Water,Pressure,50.0
+255,0.7,,Numb,Field,40,65,45,322,Ordinary,50.0,Ground,60,Simple,3,61,35,24.0,305,1 Sp. Atk,Field,Own Tempo,Medium Fast,Oblivious,50,60,20,Fire,Own Tempo,50.0
+150,1.9,,Eruption,Field,70,105,75,323,Ordinary,50.0,Ground,70,Solid Rock,3,161,40,220.0,460,"1 Attack, 1 Sp. Atk",Field,Anger Point,Medium Fast,Magma Armor,50,100,20,Fire,Anger Point,50.0
+90,0.5,,Coal,Field,140,85,70,324,Ordinary,50.0,,70,Drought,3,165,20,80.4,470,2 Defense,Field,Shell Armor,Medium Fast,White Smoke,50,85,20,Fire,Shell Armor,50.0
+255,0.7,,Bounce,Field,35,70,80,325,Ordinary,50.0,,60,Own Tempo,3,66,60,30.6,330,1 Sp. Def,Field,Gluttony,Fast,Thick Fat,50,25,20,Psychic,Gluttony,50.0
+60,0.9,,Manipulate,Field,65,90,110,326,Ordinary,50.0,,80,Own Tempo,3,165,80,71.5,470,2 Sp. Def,Field,Gluttony,Fast,Thick Fat,50,45,20,Psychic,Gluttony,50.0
+255,1.1,Human-Like,Spot Panda,Field ,60,60,60,327,Ordinary,50.0,,60,Tangled Feet,3,126,60,5.0,360,1 Sp. Atk,Field ,Contrary,Fast,Own Tempo,50,60,15,Normal,Contrary,50.0
+255,0.7,Dragon,Ant Pit,Bug ,45,45,45,328,Ordinary,50.0,,45,Arena Trap,3,58,10,15.0,290,1 Attack,Bug ,Sheer Force,Medium Slow,Hyper Cutter,50,100,20,Ground,Sheer Force,50.0
+120,1.1,Dragon,Vibration,Bug ,50,50,50,329,Ordinary,50.0,Dragon,50,,3,119,70,15.3,340,"1 Attack, 1 Speed",Bug ,,Medium Slow,Levitate,50,70,20,Ground,,50.0
+45,2.0,Dragon,Mystic,Bug ,80,80,80,330,Ordinary,50.0,Dragon,80,,3,234,100,82.0,520,"1 Attack, 2 Speed",Bug ,,Medium Slow,Levitate,50,100,20,Ground,,50.0
+190,0.4,Human-Like,Cactus,Grass ,40,85,40,331,Ordinary,50.0,,50,Water Absorb,3,67,35,51.3,335,1 Sp. Atk,Grass ,,Medium Slow,Sand Veil,35,85,20,Grass,,50.0
+60,1.3,Human-Like,Scarecrow,Grass ,60,115,60,332,Ordinary,50.0,Dark,70,Water Absorb,3,166,55,77.4,475,"1 Attack, 1 Sp. Atk",Grass ,,Medium Slow,Sand Veil,35,115,20,Grass,,50.0
+255,0.4,Flying,Cotton Bird,Dragon ,60,40,75,333,Ordinary,50.0,Flying,45,Cloud Nine,3,62,50,1.2,310,1 Sp. Def,Dragon ,,Erratic,Natural Cure,50,40,20,Normal,,50.0
+45,1.1,Flying,Humming,Dragon ,90,70,105,334,Ordinary,50.0,Flying,75,Cloud Nine,3,172,80,20.6,490,2 Sp. Def,Dragon ,,Erratic,Natural Cure,50,70,20,Dragon,,50.0
+90,1.3,,Cat Ferret,Field,60,60,60,335,Ordinary,50.0,,73,Toxic Boost,3,160,90,40.3,458,2 Attack,Field,,Erratic,Immunity,50,115,20,Normal,,50.0
+90,2.7,Field,Fang Snake,Dragon ,60,100,60,336,Ordinary,50.0,,73,Infiltrator,3,160,65,52.5,458,"1 Attack, 1 Sp. Atk",Dragon ,,Fluctuating,Shed Skin,50,100,20,Poison,,50.0
+45,1.0,,Meteorite,Mineral,65,95,85,337,Ordinary,,Psychic,90,,3,161,70,168.0,460,2 Sp. Atk,Mineral,,Fast,Levitate,50,55,25,Rock,,
+45,1.2,,Meteorite,Mineral,85,55,65,338,Ordinary,,Psychic,90,,3,161,70,154.0,460,2 Attack,Mineral,,Fast,Levitate,50,95,25,Rock,,
+190,0.4,,Whiskers,Water 2,43,46,41,339,Ordinary,50.0,Ground,50,Anticipation,3,58,60,1.9,288,1 HP,Water 2,Hydration,Medium Fast,Oblivious,50,48,20,Water,Hydration,50.0
+75,0.9,,Whiskers,Water 2,73,76,71,340,Ordinary,50.0,Ground,110,Anticipation,3,164,60,23.6,468,2 HP,Water 2,Hydration,Medium Fast,Oblivious,50,78,20,Water,Hydration,50.0
+205,0.6,Water 3,Ruffian,Water 1 ,65,50,35,341,Ordinary,50.0,,43,Shell Armor,3,62,35,11.5,308,1 Attack,Water 1 ,Adaptability,Fluctuating,Hyper Cutter,50,80,15,Water,Adaptability,50.0
+155,1.1,Water 3,Rogue,Water 1 ,85,90,55,342,Ordinary,50.0,Dark,63,Shell Armor,3,164,55,32.8,468,2 Attack,Water 1 ,Adaptability,Fluctuating,Hyper Cutter,50,120,15,Water,Adaptability,50.0
+255,0.5,,Clay Doll,Mineral,55,40,70,343,Ordinary,,Psychic,40,,3,60,55,21.5,300,1 Sp. Def,Mineral,,Medium Fast,Levitate,50,40,20,Ground,,
+90,1.5,,Clay Doll,Mineral,105,70,120,344,Ordinary,,Psychic,60,,3,175,75,108.0,500,2 Sp. Def,Mineral,,Medium Fast,Levitate,50,70,20,Ground,,
+45,1.0,,Sea Lily,Water 3,77,61,87,345,Fossil,12.5,Grass,66,Storm Drain,3,71,23,23.8,355,1 Sp. Def,Water 3,,Erratic,Suction Cups,50,41,30,Rock,,87.5
+45,1.5,,Barnacle,Water 3,97,81,107,346,Fossil,12.5,Grass,86,Storm Drain,3,173,43,60.4,495,2 Sp. Def,Water 3,,Erratic,Suction Cups,50,81,30,Rock,,87.5
+45,0.7,,Old Shrimp,Water 3,50,40,50,347,Fossil,12.5,Bug,45,Swift Swim,3,71,75,12.5,355,1 Attack,Water 3,,Erratic,Battle Armor,50,95,30,Rock,,87.5
+45,1.5,,Plate,Water 3,100,70,80,348,Fossil,12.5,Bug,75,Swift Swim,3,173,45,68.2,495,2 Attack,Water 3,,Erratic,Battle Armor,50,125,30,Rock,,87.5
+255,0.6,Water 1,Fish,Dragon ,20,10,55,349,Ordinary,50.0,,20,Oblivious,3,40,80,7.4,200,1 Speed,Dragon ,Adaptability,Erratic,Swift Swim,50,15,20,Water,Adaptability,50.0
+60,6.2,Water 1,Tender,Dragon ,79,100,125,350,Ordinary,50.0,,95,Competitive,3,189,81,162.0,540,2 Sp. Def,Dragon ,Cute Charm,Erratic,Marvel Scale,50,60,20,Water,Cute Charm,50.0
+45,0.3,Fairy,Weather,Amorphous ,70,70,70,351,Ordinary,50.0,,70,,3,147,70,0.8,420,1 HP,Amorphous ,,Medium Fast,Forecast,50,70,25,Normal,,50.0
+200,1.0,,Color Swap,Field,70,60,120,352,Ordinary,50.0,,60,Protean,3,154,40,22.0,440,1 Sp. Def,Field,,Medium Slow,Color Change,50,90,20,Normal,,50.0
+225,0.6,,Puppet,Amorphous,35,63,33,353,Ordinary,50.0,,44,Frisk,3,59,45,2.3,295,1 Attack,Amorphous,Cursed Body,Fast,Insomnia,35,75,25,Ghost,Cursed Body,50.0
+45,1.1,,Marionette,Amorphous,65,83,63,354,Ordinary,50.0,,64,Frisk,3,159,65,12.5,455,2 Attack,Amorphous,Cursed Body,Fast,Insomnia,35,115,25,Ghost,Cursed Body,50.0
+190,0.8,,Requiem,Amorphous,90,30,90,355,Ordinary,50.0,,20,Frisk,3,59,25,15.0,295,1 Sp. Def,Amorphous,,Fast,Levitate,35,40,25,Ghost,,50.0
+90,1.6,,Beckon,Amorphous,130,60,130,356,Ordinary,50.0,,40,Frisk,3,159,25,30.6,455,"1 Defense, 1 Sp. Def",Amorphous,,Fast,Pressure,35,70,25,Ghost,,50.0
+200,2.0,Monster,Fruit,Grass ,83,72,87,357,Ordinary,50.0,Flying,99,Solar Power,3,161,51,100.0,460,2 HP,Grass ,Harvest,Slow,Chlorophyll,50,68,25,Grass,Harvest,50.0
+45,0.6,,Wind Chime,Amorphous,80,95,90,358,Ordinary,50.0,,75,,3,159,65,1.0,455,"1 Sp. Atk, 1 Sp. Def",Amorphous,,Fast,Levitate,50,50,25,Psychic,,50.0
+30,1.2,,Disaster,Field,60,75,60,359,Ordinary,50.0,,65,Super Luck,3,163,75,47.0,465,2 Attack,Field,Justified,Medium Slow,Pressure,35,130,25,Dark,Justified,50.0
+125,0.6,,Bright,Undiscovered,48,23,48,360,Baby Pokemon,50.0,,95,Telepathy,3,52,23,14.0,260,1 HP,Undiscovered,,Medium Fast,Shadow Tag,50,23,20,Psychic,,50.0
+190,0.7,Mineral,Snow Hat,Fairy ,50,50,50,361,Ordinary,50.0,,50,Ice Body,3,60,50,16.8,300,1 HP,Fairy ,Moody,Medium Fast,Inner Focus,50,50,20,Ice,Moody,50.0
+75,1.5,Mineral,Face,Fairy ,80,80,80,362,Ordinary,50.0,,80,Ice Body,3,168,80,256.5,480,2 HP,Fairy ,Moody,Medium Fast,Inner Focus,50,80,20,Ice,Moody,50.0
+255,0.8,Water 1,Clap,Field ,50,55,50,363,Ordinary,50.0,Water,70,Ice Body,3,58,25,39.5,290,1 HP,Field ,Oblivious,Medium Slow,Thick Fat,50,40,20,Ice,Oblivious,50.0
+120,1.1,Water 1,Ball Roll,Field ,70,75,70,364,Ordinary,50.0,Water,90,Ice Body,3,144,45,87.6,410,2 HP,Field ,Oblivious,Medium Slow,Thick Fat,50,60,20,Ice,Oblivious,50.0
+45,1.4,Water 1,Ice Break,Field ,90,95,90,365,Ordinary,50.0,Water,110,Ice Body,3,239,65,150.6,530,3 HP,Field ,Oblivious,Medium Slow,Thick Fat,50,80,20,Ice,Oblivious,50.0
+255,0.4,,Bivalve,Water 1,85,74,55,366,Ordinary,50.0,,35,Rattled,3,69,32,52.5,345,1 Defense,Water 1,,Erratic,Shell Armor,50,64,20,Water,,50.0
+60,1.7,,Deep Sea,Water 1,105,94,75,367,Ordinary,50.0,,55,Water Veil,3,170,52,27.0,485,"1 Attack, 1 Defense",Water 1,,Erratic,Swift Swim,50,104,20,Water,,50.0
+60,1.8,,South Sea,Water 1,105,114,75,368,Ordinary,50.0,,55,Hydration,3,170,52,22.6,485,2 Sp. Atk,Water 1,,Erratic,Swift Swim,50,84,20,Water,,50.0
+25,1.0,Water 2,Longevity,Water 1 ,130,45,65,369,Ordinary,12.5,Rock,100,Rock Head,3,170,55,23.4,485,"1 HP, 1 Defense",Water 1 ,Sturdy,Slow,Swift Swim,50,90,40,Water,Sturdy,87.5
+225,0.6,,Rendezvous,Water 2,55,40,65,370,Ordinary,75.0,,43,Hydration,3,116,97,8.7,330,1 Speed,Water 2,,Fast,Swift Swim,50,30,20,Water,,25.0
+45,0.6,,Rock Head,Dragon,60,40,30,371,Ordinary,50.0,,45,Sheer Force,3,60,50,42.1,300,1 Attack,Dragon,,Slow,Rock Head,35,75,40,Dragon,,50.0
+45,1.1,,Endurance,Dragon,100,60,50,372,Ordinary,50.0,,65,Overcoat,3,147,50,110.5,420,2 Defense,Dragon,,Slow,Rock Head,35,95,40,Dragon,,50.0
+45,1.5,,Dragon,Dragon,80,110,80,373,Ordinary,50.0,Flying,95,Moxie,3,300,100,102.6,600,3 Attack,Dragon,,Slow,Intimidate,35,135,40,Dragon,,50.0
+3,0.6,,Iron Ball,Mineral,80,35,60,374,Ordinary,,Psychic,40,Light Metal,3,60,30,95.2,300,1 Defense,Mineral,,Slow,Clear Body,35,55,40,Steel,,
+3,1.2,,Iron Claw,Mineral,100,55,80,375,Ordinary,,Psychic,60,Light Metal,3,147,50,202.5,420,2 Defense,Mineral,,Slow,Clear Body,35,75,40,Steel,,
+3,1.6,,Iron Leg,Mineral,130,95,90,376,Ordinary,,Psychic,80,Light Metal,3,270,70,550.0,600,3 Defense,Mineral,,Slow,Clear Body,35,135,40,Steel,,
+3,1.7,,Rock Peak,Undiscovered,200,50,100,377,Legendary,,,80,Sturdy,3,261,50,230.0,580,3 Defense,Undiscovered,,Slow,Clear Body,35,100,80,Rock,,
+3,1.8,,Iceberg,Undiscovered,100,100,200,378,Legendary,,,80,Ice Body,3,261,50,175.0,580,3 Sp. Def,Undiscovered,,Slow,Clear Body,35,50,80,Ice,,
+3,1.9,,Iron,Undiscovered,150,75,150,379,Legendary,,,80,Light Metal,3,261,50,205.0,580,"2 Defense, 1 Sp. Def",Undiscovered,,Slow,Clear Body,35,75,80,Steel,,
+3,1.4,,Eon,Undiscovered,90,110,130,380,Legendary,100.0,Psychic,80,,3,270,110,40.0,600,3 Sp. Def,Undiscovered,,Slow,Levitate,90,80,120,Dragon,,0.0
+3,2.0,,Eon,Undiscovered,80,130,110,381,Legendary,0.0,Psychic,80,,3,270,110,60.0,600,3 Sp. Atk,Undiscovered,,Slow,Levitate,90,90,120,Dragon,,100.0
+3,4.5,,Sea Basin,Undiscovered,90,150,140,382,Legendary,,,100,,3,335,90,352.0,670,3 Sp. Atk,Undiscovered,,Slow,Drizzle,0,100,120,Water,,
+3,3.5,,Continent,Undiscovered,140,100,90,383,Legendary,,,100,,3,335,90,950.0,670,3 Attack,Undiscovered,,Slow,Drought,0,150,120,Ground,,
+45,7.0,,Sky High,Undiscovered,90,150,90,384,Legendary,,Flying,105,,3,340,95,206.5,680,"2 Attack, 1 Sp. Atk",Undiscovered,,Slow,Air Lock,0,150,120,Dragon,,
+3,0.3,,Wish,Undiscovered,100,100,100,385,Mythical,,Psychic,100,,3,270,100,1.1,600,3 HP,Undiscovered,,Slow,Serene Grace,100,100,120,Steel,,
+3,1.7,,DNA,Undiscovered,50,150,50,386,Mythical,,,50,,3,270,150,60.8,600,"1 Attack, 1 Sp. Atk, 1 Speed",Undiscovered,,Slow,Pressure,0,150,120,Psychic,,
+45,0.4,Monster,Tiny Leaf,Grass ,64,45,55,387,Ordinary,12.5,,55,Shell Armor,4,64,31,10.2,318,1 Attack,Grass ,,Medium Slow,Overgrow,50,68,20,Grass,,87.5
+45,1.1,Monster,Grove,Grass ,85,55,65,388,Ordinary,12.5,,75,Shell Armor,4,142,36,97.0,405,"1 Attack, 1 Defense",Grass ,,Medium Slow,Overgrow,50,89,20,Grass,,87.5
+45,2.2,Monster,Continent,Grass ,105,75,85,389,Ordinary,12.5,Ground,95,Shell Armor,4,236,56,310.0,525,"2 Attack, 1 Defense",Grass ,,Medium Slow,Overgrow,50,109,20,Grass,,87.5
+45,0.5,Human-Like,Chimp,Field ,44,58,44,390,Ordinary,12.5,,44,Iron Fist,4,62,61,6.2,309,1 Speed,Field ,,Medium Slow,Blaze,50,58,20,Fire,,87.5
+45,0.9,Human-Like,Playful,Field ,52,78,52,391,Ordinary,12.5,Fighting,64,Iron Fist,4,142,81,22.0,405,"1 Sp. Atk, 1 Speed",Field ,,Medium Slow,Blaze,50,78,20,Fire,,87.5
+45,1.2,Human-Like,Flame,Field ,71,104,71,392,Ordinary,12.5,Fighting,76,Iron Fist,4,240,108,55.0,534,"1 Attack, 1 Sp. Atk, 1 Speed",Field ,,Medium Slow,Blaze,50,104,20,Fire,,87.5
+45,0.4,Water 1,Penguin,Field ,53,61,56,393,Ordinary,12.5,,53,Defiant,4,63,40,5.2,314,1 Sp. Atk,Field ,,Medium Slow,Torrent,50,51,20,Water,,87.5
+45,0.8,Water 1,Penguin,Field ,68,81,76,394,Ordinary,12.5,,64,Defiant,4,142,50,23.0,405,2 Sp. Atk,Field ,,Medium Slow,Torrent,50,66,20,Water,,87.5
+45,1.7,Water 1,Emperor,Field ,88,111,101,395,Ordinary,12.5,Steel,84,Defiant,4,239,60,84.5,530,3 Sp. Atk,Field ,,Medium Slow,Torrent,50,86,20,Water,,87.5
+255,0.3,,Starling,Flying,30,30,30,396,Ordinary,50.0,Flying,40,Reckless,4,49,60,2.0,245,1 Speed,Flying,,Medium Slow,Keen Eye,50,55,15,Normal,,50.0
+120,0.6,,Starling,Flying,50,40,40,397,Ordinary,50.0,Flying,55,Reckless,4,119,80,15.5,340,2 Speed,Flying,,Medium Slow,Intimidate,50,75,15,Normal,,50.0
+45,1.2,,Predator,Flying,70,50,60,398,Ordinary,50.0,Flying,85,Reckless,4,243,100,24.9,485,3 Attack,Flying,,Medium Slow,Intimidate,50,120,15,Normal,,50.0
+255,0.5,Water 1,Plump Mouse,Field ,40,35,40,399,Ordinary,50.0,,59,Unaware,4,50,31,20.0,250,1 HP,Field ,Moody,Medium Fast,Simple,50,45,15,Normal,Moody,50.0
+127,1.0,Water 1,Beaver,Field ,60,55,60,400,Ordinary,50.0,Water,79,Unaware,4,144,71,31.5,410,2 Attack,Field ,Moody,Medium Fast,Simple,50,85,15,Normal,Moody,50.0
+255,0.3,,Cricket,Bug,41,25,41,401,Ordinary,50.0,,37,Run Away,4,39,25,2.2,194,1 Defense,Bug,,Medium Slow,Shed Skin,50,25,15,Bug,,50.0
+45,1.0,,Cricket,Bug,51,55,51,402,Ordinary,50.0,,77,Technician,4,134,65,25.5,384,2 Attack,Bug,,Medium Slow,Swarm,50,85,15,Bug,,50.0
+235,0.5,,Flash,Field,34,40,34,403,Ordinary,50.0,,45,Intimidate,4,53,45,9.5,263,1 Attack,Field,Guts,Medium Slow,Rivalry,50,65,20,Electric,Guts,50.0
+120,0.9,,Spark,Field,49,60,49,404,Ordinary,50.0,,60,Intimidate,4,127,60,30.5,363,2 Attack,Field,Guts,Medium Slow,Rivalry,100,85,20,Electric,Guts,50.0
+45,1.4,,Gleam Eyes,Field,79,95,79,405,Ordinary,50.0,,80,Intimidate,4,262,70,42.0,523,3 Attack,Field,Guts,Medium Slow,Rivalry,50,120,20,Electric,Guts,50.0
+255,0.2,,Bud,Undiscovered,35,50,70,406,Baby Pokemon,50.0,Poison,40,Poison Point,4,56,55,1.2,280,1 Sp. Atk,Undiscovered,Leaf Guard,Medium Slow,Natural Cure,50,30,20,Grass,Leaf Guard,50.0
+75,0.9,Grass,Bouquet,Fairy ,65,125,105,407,Ordinary,50.0,Poison,60,Poison Point,4,232,90,14.5,515,3 Sp. Atk,Fairy ,Technician,Medium Slow,Natural Cure,50,70,20,Grass,Technician,50.0
+45,0.9,,Head Butt,Monster,40,30,30,408,Fossil,12.5,,67,Sheer Force,4,70,58,31.5,350,1 Attack,Monster,,Erratic,Mold Breaker,50,125,30,Rock,,87.5
+45,1.6,,Head Butt,Monster,60,65,50,409,Fossil,12.5,,97,Sheer Force,4,173,58,102.5,495,2 Attack,Monster,,Erratic,Mold Breaker,50,165,30,Rock,,87.5
+45,0.5,,Shield,Monster,118,42,88,410,Fossil,12.5,Steel,30,Soundproof,4,70,30,57.0,350,1 Defense,Monster,,Erratic,Sturdy,50,42,30,Rock,,87.5
+45,1.3,,Shield,Monster,168,47,138,411,Fossil,12.5,Steel,60,Soundproof,4,173,30,149.5,495,2 Defense,Monster,,Erratic,Sturdy,50,52,30,Rock,,87.5
+120,0.2,,Bagworm,Bug,45,29,45,412,Ordinary,50.0,,40,Overcoat,4,45,36,3.4,224,1 Sp. Def,Bug,,Medium Fast,Shed Skin,50,29,15,Bug,,50.0
+45,0.5,,Bagworm,Bug,85,79,105,413,Ordinary,100.0,Grass,60,Overcoat,4,148,36,6.5,424,2 Sp. Def,Bug,,Medium Fast,Anticipation,50,59,15,Bug,,0.0
+45,0.9,,Moth,Bug,50,94,50,414,Ordinary,0.0,Flying,70,Tinted Lens,4,148,66,23.3,424,"1 Attack, 1 Sp. Atk",Bug,,Medium Fast,Swarm,50,94,15,Bug,,100.0
+120,0.3,,Tiny Bee,Bug,42,30,42,415,Ordinary,12.5,Flying,30,Hustle,4,49,70,5.5,244,1 Speed,Bug,,Medium Slow,Honey Gather,50,30,15,Bug,,87.5
+45,1.2,,Beehive,Bug,102,80,102,416,Ordinary,100.0,Flying,70,Unnerve,4,166,40,38.5,474,"1 Defense, 1 Sp. Def",Bug,,Medium Slow,Pressure,50,80,15,Bug,,0.0
+200,0.4,Field,EleSquirrel,Fairy ,70,45,90,417,Ordinary,50.0,,60,Pickup,4,142,95,3.9,405,1 Speed,Fairy ,Volt Absorb,Medium Fast,Run Away,100,45,10,Electric,Volt Absorb,50.0
+190,0.7,Water 1,Sea Weasel,Field ,35,60,30,418,Ordinary,50.0,,55,Water Veil,4,66,85,29.5,330,1 Speed,Field ,,Medium Fast,Swift Swim,50,65,20,Water,,50.0
+75,1.1,Water 1,Sea Weasel,Field ,55,85,50,419,Ordinary,50.0,,85,Water Veil,4,173,115,33.5,495,2 Speed,Field ,,Medium Fast,Swift Swim,50,105,20,Water,,50.0
+190,0.4,Grass,Cherry,Fairy ,45,62,53,420,Ordinary,50.0,,45,,4,55,35,3.3,275,1 Sp. Atk,Fairy ,,Medium Fast,Chlorophyll,50,35,20,Grass,,50.0
+75,0.5,Grass,Blossom,Fairy ,70,87,78,421,Ordinary,50.0,,70,,4,158,85,9.3,450,2 Sp. Atk,Fairy ,,Medium Fast,Flower Gift,50,60,20,Grass,,50.0
+190,0.3,Water 1,Sea Slug,Amorphous ,48,57,62,422,Ordinary,50.0,,76,Storm Drain,4,65,34,6.3,325,1 HP,Amorphous ,Sand Force,Medium Fast,Sticky Hold,50,48,20,Water,Sand Force,50.0
+75,0.9,Water 1,Sea Slug,Amorphous ,68,92,82,423,Ordinary,50.0,Ground,111,Storm Drain,4,166,39,29.9,475,2 HP,Amorphous ,Sand Force,Medium Fast,Sticky Hold,50,83,20,Water,Sand Force,50.0
+45,1.2,,Long Tail,Field,66,60,66,424,Ordinary,50.0,,75,Pickup,4,169,115,20.3,482,2 Speed,Field,Skill Link,Fast,Technician,100,100,20,Normal,Skill Link,50.0
+125,0.4,,Balloon,Amorphous,34,60,44,425,Ordinary,50.0,Flying,90,Unburden,4,70,70,1.2,348,1 HP,Amorphous,Flare Boost,Fluctuating,Aftermath,50,50,30,Ghost,Flare Boost,50.0
+60,1.2,,Blimp,Amorphous,44,90,54,426,Ordinary,50.0,Flying,150,Unburden,4,174,80,15.0,498,2 HP,Amorphous,Flare Boost,Fluctuating,Aftermath,50,80,30,Ghost,Flare Boost,50.0
+190,0.4,Human-Like,Rabbit,Field ,44,44,56,427,Ordinary,50.0,,55,Klutz,4,70,85,5.5,350,1 Speed,Field ,Limber,Medium Fast,Run Away,0,66,20,Normal,Limber,50.0
+60,1.2,Human-Like,Rabbit,Field ,84,54,96,428,Ordinary,50.0,,65,Klutz,4,168,105,33.3,480,2 Speed,Field ,Limber,Medium Fast,Cute Charm,140,76,20,Normal,Limber,50.0
+45,0.9,,Magical,Amorphous,60,105,105,429,Ordinary,50.0,,60,,4,173,105,4.4,495,"1 Sp. Atk, 1 Sp. Def",Amorphous,,Fast,Levitate,35,60,25,Ghost,,50.0
+30,0.9,,Big Boss,Flying,52,105,52,430,Ordinary,50.0,Flying,100,Super Luck,4,177,71,27.3,505,2 Attack,Flying,Moxie,Medium Slow,Insomnia,35,125,20,Dark,Moxie,50.0
+190,0.5,,Catty,Field,42,42,37,431,Ordinary,75.0,,49,Own Tempo,4,62,85,3.9,310,1 Speed,Field,Keen Eye,Fast,Limber,50,55,20,Normal,Keen Eye,25.0
+75,1.0,,Tiger Cat,Field,64,64,59,432,Ordinary,75.0,,71,Own Tempo,4,158,112,43.8,452,2 Speed,Field,Defiant,Fast,Thick Fat,50,82,20,Normal,Defiant,25.0
+120,0.2,,Bell,Undiscovered,50,65,50,433,Baby Pokemon,50.0,,45,,4,57,45,0.6,285,1 Sp. Atk,Undiscovered,,Fast,Levitate,50,30,25,Psychic,,50.0
+225,0.4,,Skunk,Field,47,41,41,434,Ordinary,50.0,Dark,63,Aftermath,4,66,74,19.2,329,1 Speed,Field,Keen Eye,Medium Fast,Stench,50,63,20,Poison,Keen Eye,50.0
+60,1.0,,Skunk,Field,67,71,61,435,Ordinary,50.0,Dark,103,Aftermath,4,168,84,38.0,479,2 HP,Field,Keen Eye,Medium Fast,Stench,50,93,20,Poison,Keen Eye,50.0
+255,0.5,,Bronze,Mineral,86,24,86,436,Ordinary,,Psychic,57,Heatproof,4,60,23,60.5,300,1 Defense,Mineral,Heavy Metal,Medium Fast,Levitate,50,24,20,Steel,Heavy Metal,
+90,1.3,,Bronze Bell,Mineral,116,79,116,437,Ordinary,,Psychic,67,Heatproof,4,175,33,187.0,500,"1 Defense, 1 Sp. Def",Mineral,Heavy Metal,Medium Fast,Levitate,50,89,20,Steel,Heavy Metal,
+255,0.5,,Bonsai,Undiscovered,95,10,45,438,Baby Pokemon,50.0,,50,Rock Head,4,58,10,15.0,290,1 Defense,Undiscovered,Rattled,Medium Fast,Sturdy,50,80,20,Rock,Rattled,50.0
+145,0.6,,Mime,Undiscovered,45,70,90,439,Baby Pokemon,50.0,Fairy,20,Filter,4,62,60,13.0,310,1 Sp. Def,Undiscovered,Technician,Medium Fast,Soundproof,50,25,25,Psychic,Technician,50.0
+130,0.6,,Playhouse,Undiscovered,5,15,65,440,Baby Pokemon,100.0,,100,Serene Grace,4,110,30,24.4,220,1 HP,Undiscovered,Friend Guard,Fast,Natural Cure,140,5,40,Normal,Friend Guard,0.0
+30,0.5,,Music Note,Flying,45,92,42,441,Ordinary,50.0,Flying,76,Tangled Feet,4,144,91,1.9,411,1 Attack,Flying,Big Pecks,Medium Slow,Keen Eye,35,65,20,Normal,Big Pecks,50.0
+100,1.0,,Forbidden,Amorphous,108,92,108,442,Ordinary,50.0,Dark,50,Infiltrator,4,170,35,108.0,485,"1 Defense, 1 Sp. Def",Amorphous,,Medium Fast,Pressure,50,92,30,Ghost,,50.0
+45,0.7,Monster,Land Shark,Dragon ,45,40,45,443,Ordinary,50.0,Ground,58,Rough Skin,4,60,42,20.5,300,1 Attack,Dragon ,,Slow,Sand Veil,50,70,40,Dragon,,50.0
+45,1.4,Monster,Cave,Dragon ,65,50,55,444,Ordinary,50.0,Ground,68,Rough Skin,4,144,82,56.0,410,2 Attack,Dragon ,,Slow,Sand Veil,50,90,40,Dragon,,50.0
+45,1.9,Monster,Mach,Dragon ,95,80,85,445,Ordinary,50.0,Ground,108,Rough Skin,4,300,102,95.0,600,3 Attack,Dragon ,,Slow,Sand Veil,50,130,40,Dragon,,50.0
+50,0.6,,Big Eater,Undiscovered,40,40,85,446,Baby Pokemon,12.5,,135,Thick Fat,4,78,5,105.0,390,1 HP,Undiscovered,Gluttony,Slow,Pickup,50,85,40,Normal,Gluttony,87.5
+75,0.7,,Emanation,Undiscovered,40,35,40,447,Baby Pokemon,12.5,,40,Inner Focus,4,57,60,20.2,285,1 Attack,Undiscovered,Prankster,Medium Slow,Steadfast,50,70,25,Fighting,Prankster,87.5
+45,1.2,Human-Like,Aura,Field ,70,115,70,448,Ordinary,12.5,Steel,70,Inner Focus,4,184,90,54.0,525,"1 Attack, 1 Sp. Atk",Field ,Justified,Medium Slow,Steadfast,50,110,25,Fighting,Justified,87.5
+140,0.8,,Hippo,Field,78,38,42,449,Ordinary,50.0,,68,Sand Force,4,66,32,49.5,330,1 Defense,Field,,Slow,Sand Stream,50,72,30,Ground,,50.0
+60,2.0,,Heavyweight,Field,118,68,72,450,Ordinary,50.0,,108,Sand Force,4,184,47,300.0,525,2 Defense,Field,,Slow,Sand Stream,50,112,30,Ground,,50.0
+120,0.8,Water 3,Scorpion,Bug ,90,30,55,451,Ordinary,50.0,Bug,40,Sniper,4,66,65,12.0,330,1 Defense,Bug ,Keen Eye,Slow,Battle Armor,50,50,20,Poison,Keen Eye,50.0
+45,1.3,Water 3,Ogre Scorp,Bug ,110,60,75,452,Ordinary,50.0,Dark,70,Sniper,4,175,95,61.5,500,2 Defense,Bug ,Keen Eye,Slow,Battle Armor,50,90,20,Poison,Keen Eye,50.0
+140,0.7,,Toxic Mouth,Human-Like,40,61,40,453,Ordinary,50.0,Fighting,48,Dry Skin,4,60,50,23.0,300,1 Attack,Human-Like,Poison Touch,Medium Fast,Anticipation,100,61,10,Poison,Poison Touch,50.0
+75,1.3,,Toxic Mouth,Human-Like,65,86,65,454,Ordinary,50.0,Fighting,83,Dry Skin,4,172,85,44.4,490,2 Attack,Human-Like,Poison Touch,Medium Fast,Anticipation,50,106,20,Poison,Poison Touch,50.0
+200,1.4,,Bug Catcher,Grass,72,90,72,455,Ordinary,50.0,,74,,4,159,46,27.0,454,2 Attack,Grass,,Slow,Levitate,50,100,25,Grass,,50.0
+190,0.4,,Wing Fish,Water 2,56,49,61,456,Ordinary,50.0,,49,Storm Drain,4,66,66,7.0,330,1 Speed,Water 2,Water Veil,Erratic,Swift Swim,50,49,20,Water,Water Veil,50.0
+75,1.2,,Neon,Water 2,76,69,86,457,Ordinary,50.0,,69,Storm Drain,4,161,91,24.0,460,2 Speed,Water 2,Water Veil,Erratic,Swift Swim,50,69,20,Water,Water Veil,50.0
+25,1.0,,Kite,Undiscovered,50,60,120,458,Baby Pokemon,50.0,Flying,45,Water Absorb,4,69,50,65.0,345,1 Sp. Def,Undiscovered,Water Veil,Slow,Swift Swim,50,20,25,Water,Water Veil,50.0
+120,1.0,Monster,Frost Tree,Grass ,50,62,60,459,Ordinary,50.0,Ice,60,Soundproof,4,67,40,50.5,334,1 Attack,Grass ,,Slow,Snow Warning,50,62,20,Grass,,50.0
+60,2.2,Monster,Frost Tree,Grass ,75,92,85,460,Ordinary,50.0,Ice,90,Soundproof,4,173,60,135.5,494,"1 Attack, 1 Sp. Atk",Grass ,,Slow,Snow Warning,50,92,20,Grass,,50.0
+45,1.1,,Sharp Claw,Field,65,45,85,461,Ordinary,50.0,Ice,70,Pickpocket,4,179,125,34.0,510,"1 Attack, 1 Speed",Field,,Medium Slow,Pressure,35,120,20,Dark,,50.0
+30,1.2,,Magnet Area,Mineral,115,130,90,462,Ordinary,,Steel,70,Sturdy,4,268,60,180.0,535,3 Sp. Atk,Mineral,Analytic,Medium Fast,Magnet Pull,50,70,20,Electric,Analytic,
+30,1.7,,Licking,Monster,95,80,95,463,Ordinary,50.0,,110,Oblivious,4,180,50,140.0,515,3 HP,Monster,Cloud Nine,Medium Fast,Own Tempo,50,85,20,Normal,Cloud Nine,50.0
+30,2.4,Monster,Drill,Field ,130,55,55,464,Ordinary,50.0,Rock,115,Solid Rock,4,241,40,282.8,535,3 Attack,Field ,Reckless,Slow,Lightning Rod,50,140,20,Ground,Reckless,50.0
+30,2.0,,Vine,Grass,125,110,50,465,Ordinary,50.0,,100,Leaf Guard,4,187,50,128.6,535,2 Defense,Grass,Regenerator,Medium Fast,Chlorophyll,50,100,20,Grass,Regenerator,50.0
+30,1.8,,Thunderbolt,Human-Like,67,95,85,466,Ordinary,25.0,,75,Vital Spirit,4,243,95,138.6,540,3 Attack,Human-Like,,Medium Fast,Motor Drive,50,123,25,Electric,,75.0
+30,1.6,,Blast,Human-Like,67,125,95,467,Ordinary,25.0,,75,Vital Spirit,4,243,83,68.0,540,3 Sp. Atk,Human-Like,,Medium Fast,Flame Body,50,95,25,Fire,,75.0
+30,1.5,Flying,Jubilee,Fairy ,95,120,115,468,Ordinary,12.5,Flying,85,Serene Grace,4,245,80,38.0,545,"2 Sp. Atk, 1 Sp. Def",Fairy ,Super Luck,Fast,Hustle,50,50,10,Fairy,Super Luck,87.5
+30,1.9,,Ogre Darner,Bug,86,116,56,469,Ordinary,50.0,Flying,86,Tinted Lens,4,180,95,51.5,515,2 Attack,Bug,Frisk,Medium Fast,Speed Boost,50,76,20,Bug,Frisk,50.0
+45,1.0,,Verdant,Field,130,60,65,470,Ordinary,12.5,,65,Chlorophyll,4,184,95,25.5,525,2 Defense,Field,,Medium Fast,Leaf Guard,35,110,35,Grass,,87.5
+45,0.8,,Fresh Snow,Field,110,130,95,471,Ordinary,12.5,,65,Ice Body,4,184,65,25.9,525,2 Sp. Atk,Field,,Medium Fast,Snow Cloak,35,60,35,Ice,,87.5
+30,2.0,,Fang Scorp,Bug,125,45,75,472,Ordinary,50.0,Flying,75,Sand Veil,4,179,95,42.5,510,2 Defense,Bug,Poison Heal,Medium Slow,Hyper Cutter,50,95,20,Ground,Poison Heal,50.0
+50,2.5,,Twin Tusk,Field,80,70,60,473,Ordinary,50.0,Ground,110,Snow Cloak,4,239,80,291.0,530,3 Attack,Field,Thick Fat,Slow,Oblivious,50,130,20,Ice,Thick Fat,50.0
+30,0.9,,Virtual,Mineral,70,135,75,474,Ordinary,,,85,Download,4,241,90,34.0,535,3 Sp. Atk,Mineral,Analytic,Medium Fast,Adaptability,50,80,20,Normal,Analytic,
+45,1.6,Human-Like,Blade,Amorphous ,65,65,115,475,Ordinary,0.0,Fighting,68,Sharpness,4,259,80,52.0,518,3 Attack,Amorphous ,Justified,Slow,Steadfast,35,125,20,Psychic,Justified,100.0
+60,1.4,,Compass,Mineral,145,75,150,476,Ordinary,50.0,Steel,60,Magnet Pull,4,184,40,340.0,525,"1 Defense, 2 Sp. Def",Mineral,Sand Force,Medium Fast,Sturdy,50,55,20,Rock,Sand Force,50.0
+45,2.2,,Gripper,Amorphous,135,65,135,477,Ordinary,50.0,,45,Frisk,4,236,45,106.6,525,"1 Defense, 2 Sp. Def",Amorphous,,Fast,Pressure,35,100,25,Ghost,,50.0
+75,1.3,Mineral,Snow Land,Fairy ,70,80,70,478,Ordinary,100.0,Ghost,70,Cursed Body,4,168,110,26.6,480,2 Speed,Fairy ,,Medium Fast,Snow Cloak,50,80,20,Ice,,0.0
+45,0.3,,Plasma,Amorphous,77,95,77,479,Ordinary,,Ghost,50,,4,154,91,0.3,440,"1 Sp. Atk, 1 Speed",Amorphous,,Medium Fast,Levitate,50,50,20,Electric,,
+3,0.3,,Knowledge,Undiscovered,130,75,130,480,Legendary,,,75,,4,290,95,0.3,580,"2 Defense, 1 Sp. Def",Undiscovered,,Slow,Levitate,140,75,80,Psychic,,
+3,0.3,,Emotion,Undiscovered,105,105,105,481,Legendary,,,80,,4,290,80,0.3,580,"1 Attack, 1 Sp. Atk, 1 Sp. Def",Undiscovered,,Slow,Levitate,140,105,80,Psychic,,
+3,0.3,,Willpower,Undiscovered,70,125,70,482,Legendary,,,75,,4,290,115,0.3,580,"2 Attack, 1 Sp. Atk",Undiscovered,,Slow,Levitate,140,125,80,Psychic,,
+3,5.4,,Temporal,Undiscovered,120,150,100,483,Legendary,,Dragon,100,Telepathy,4,340,90,683.0,680,3 Sp. Atk,Undiscovered,,Slow,Pressure,0,120,120,Steel,,
+3,4.2,,Spatial,Undiscovered,100,150,120,484,Legendary,,Dragon,90,Telepathy,4,340,100,336.0,680,3 Sp. Atk,Undiscovered,,Slow,Pressure,0,120,120,Water,,
+3,1.7,,Lava Dome,Undiscovered,106,130,106,485,Legendary,50.0,Steel,91,Flame Body,4,300,77,430.0,600,3 Sp. Atk,Undiscovered,,Slow,Flash Fire,100,90,10,Fire,,50.0
+3,3.7,,Colossal,Undiscovered,110,80,110,486,Legendary,,,110,,4,302,100,420.0,670,3 Attack,Undiscovered,,Slow,Slow Start,0,160,120,Normal,,
+3,4.5,,Renegade,Undiscovered,120,100,120,487,Legendary,,Dragon,150,Telepathy,4,340,90,750.0,680,3 HP,Undiscovered,,Slow,Pressure,0,100,120,Ghost,,
+3,1.5,,Lunar,Undiscovered,110,75,120,488,Legendary,100.0,,120,,4,290,85,85.6,580,3 Sp. Def,Undiscovered,,Slow,Levitate,100,70,120,Psychic,,0.0
+30,0.4,Water 1,Sea Drifter,Fairy ,80,80,80,489,Mythical,,,80,,4,216,80,3.1,480,1 HP,Fairy ,,Slow,Hydration,50,80,40,Water,,
+3,0.3,Water 1,Seafaring,Fairy ,100,100,100,490,Mythical,,,100,,4,270,100,1.4,600,3 HP,Fairy ,,Slow,Hydration,50,100,10,Water,,
+3,1.5,,Pitch-Black,Undiscovered,90,135,90,491,Mythical,,,70,,4,270,125,50.5,600,"2 Sp. Atk, 1 Speed",Undiscovered,,Slow,Bad Dreams,0,90,120,Dark,,
+45,0.2,,Gratitude,Undiscovered,100,100,100,492,Mythical,,,100,,4,270,100,2.1,600,3 HP,Undiscovered,,Medium Slow,Natural Cure,100,100,120,Grass,,
+3,3.2,,Alpha,Undiscovered,120,120,120,493,Mythical,,,120,,4,360,120,320.0,720,3 HP,Undiscovered,,Slow,Multitype,0,120,120,Normal,,
+3,0.4,,Victory,Undiscovered,100,100,100,494,Mythical,,Fire,100,,5,270,100,4.0,600,3 HP,Undiscovered,,Slow,Victory Star,100,100,120,Psychic,,
+45,0.6,Grass,Grass Snake,Field ,55,45,55,495,Ordinary,12.5,,45,Contrary,5,62,63,8.1,308,1 Speed,Field ,,Medium Slow,Overgrow,50,45,20,Grass,,87.5
+45,0.8,Grass,Grass Snake,Field ,75,60,75,496,Ordinary,12.5,,60,Contrary,5,145,83,16.0,413,2 Speed,Field ,,Medium Slow,Overgrow,50,60,20,Grass,,87.5
+45,3.3,Grass,Regal,Field ,95,75,95,497,Ordinary,12.5,,75,Contrary,5,238,113,63.0,528,3 Speed,Field ,,Medium Slow,Overgrow,50,75,20,Grass,,87.5
+45,0.5,,Fire Pig,Field,45,45,45,498,Ordinary,12.5,,65,Thick Fat,5,62,45,9.9,308,1 HP,Field,,Medium Slow,Blaze,50,63,20,Fire,,87.5
+45,1.0,,Fire Pig,Field,55,70,55,499,Ordinary,12.5,Fighting,90,Thick Fat,5,146,55,55.5,418,2 Attack,Field,,Medium Slow,Blaze,50,93,20,Fire,,87.5
+45,1.6,,Mega Fire Pig,Field,65,100,65,500,Ordinary,12.5,Fighting,110,Reckless,5,238,65,150.0,528,3 Attack,Field,,Medium Slow,Blaze,50,123,20,Fire,,87.5
+45,0.5,,Sea Otter,Field,45,63,45,501,Ordinary,12.5,,55,Shell Armor,5,62,45,5.9,308,1 Sp. Atk,Field,,Medium Slow,Torrent,50,55,20,Water,,87.5
+45,0.8,,Discipline,Field,60,83,60,502,Ordinary,12.5,,75,Shell Armor,5,145,60,24.5,413,2 Sp. Atk,Field,,Medium Slow,Torrent,50,75,20,Water,,87.5
+45,1.5,,Formidable,Field,85,108,70,503,Ordinary,12.5,,95,Shell Armor,5,264,70,94.6,528,3 Sp. Atk,Field,,Medium Slow,Torrent,50,100,20,Water,,87.5
+255,0.5,,Scout,Field,39,35,39,504,Ordinary,50.0,,45,Keen Eye,5,51,42,11.6,255,1 Attack,Field,Analytic,Medium Fast,Run Away,50,55,15,Normal,Analytic,50.0
+255,1.1,,Lookout,Field,69,60,69,505,Ordinary,50.0,,60,Keen Eye,5,147,77,27.0,420,2 Attack,Field,Analytic,Medium Fast,Illuminate,50,85,20,Normal,Analytic,50.0
+255,0.4,,Puppy,Field,45,25,45,506,Ordinary,50.0,,45,Pickup,5,55,55,4.1,275,1 Attack,Field,Run Away,Medium Slow,Vital Spirit,50,60,15,Normal,Run Away,50.0
+120,0.9,,Loyal Dog,Field,65,35,65,507,Ordinary,50.0,,65,Sand Rush,5,130,60,14.7,370,2 Attack,Field,Scrappy,Medium Slow,Intimidate,50,80,15,Normal,Scrappy,50.0
+45,1.2,,Big-Hearted,Field,90,45,90,508,Ordinary,50.0,,85,Sand Rush,5,225,80,61.0,500,3 Attack,Field,Scrappy,Medium Slow,Intimidate,50,110,15,Normal,Scrappy,50.0
+255,0.4,,Devious,Field,37,50,37,509,Ordinary,50.0,,41,Unburden,5,56,66,10.1,281,1 Speed,Field,Prankster,Medium Fast,Limber,50,50,20,Dark,Prankster,50.0
+90,1.1,,Cruel,Field,50,88,50,510,Ordinary,50.0,,64,Unburden,5,156,106,37.5,446,2 Speed,Field,Prankster,Medium Fast,Limber,50,88,20,Dark,Prankster,50.0
+190,0.6,,Grass Monkey,Field,48,53,48,511,Ordinary,12.5,,50,Overgrow,5,63,64,10.5,316,1 Speed,Field,,Medium Fast,Gluttony,50,53,20,Grass,,87.5
+75,1.1,,Thorn Monkey,Field,63,98,63,512,Ordinary,12.5,,75,Overgrow,5,174,101,30.5,498,2 Speed,Field,,Medium Fast,Gluttony,50,98,20,Grass,,87.5
+190,0.6,,High Temp,Field,48,53,48,513,Ordinary,12.5,,50,Blaze,5,63,64,11.0,316,1 Speed,Field,,Medium Fast,Gluttony,50,53,20,Fire,,87.5
+75,1.0,,Ember,Field,63,98,63,514,Ordinary,12.5,,75,Blaze,5,174,101,28.0,498,2 Speed,Field,,Medium Fast,Gluttony,50,98,20,Fire,,87.5
+190,0.6,,Spray,Field,48,53,48,515,Ordinary,12.5,,50,Torrent,5,63,64,13.5,316,1 Speed,Field,,Medium Fast,Gluttony,50,53,20,Water,,87.5
+75,1.0,,Geyser,Field,63,98,63,516,Ordinary,12.5,,75,Torrent,5,174,101,29.0,498,2 Speed,Field,,Medium Fast,Gluttony,50,98,20,Water,,87.5
+190,0.6,,Dream Eater,Field,45,67,55,517,Ordinary,50.0,,76,Synchronize,5,58,24,23.3,292,1 HP,Field,Telepathy,Fast,Forewarn,50,25,10,Psychic,Telepathy,50.0
+75,1.1,,Drowsing,Field,85,107,95,518,Ordinary,50.0,,116,Synchronize,5,170,29,60.5,487,2 HP,Field,Telepathy,Fast,Forewarn,50,55,10,Psychic,Telepathy,50.0
+255,0.3,,Tiny Pigeon,Flying,50,36,30,519,Ordinary,50.0,Flying,50,Super Luck,5,53,43,2.1,264,1 Attack,Flying,Rivalry,Medium Slow,Big Pecks,50,55,15,Normal,Rivalry,50.0
+120,0.6,,Wild Pigeon,Flying,62,50,42,520,Ordinary,50.0,Flying,62,Super Luck,5,125,65,15.0,358,2 Attack,Flying,Rivalry,Medium Slow,Big Pecks,50,77,15,Normal,Rivalry,50.0
+45,1.2,,Proud,Flying,80,65,55,521,Ordinary,50.0,Flying,80,Super Luck,5,220,93,29.0,488,3 Attack,Flying,Rivalry,Medium Slow,Big Pecks,50,115,15,Normal,Rivalry,50.0
+190,0.8,,Electrified,Field,32,50,32,522,Ordinary,50.0,,45,Motor Drive,5,59,76,29.8,295,1 Speed,Field,Sap Sipper,Medium Fast,Lightning Rod,50,60,20,Electric,Sap Sipper,50.0
+75,1.6,,Thunderbolt,Field,63,80,63,523,Ordinary,50.0,,75,Motor Drive,5,174,116,79.5,497,2 Speed,Field,Sap Sipper,Medium Fast,Lightning Rod,50,100,20,Electric,Sap Sipper,50.0
+255,0.4,,Mantle,Mineral,85,25,25,524,Ordinary,50.0,,55,Weak Armor,5,56,15,18.0,280,1 Defense,Mineral,Sand Force,Medium Slow,Sturdy,50,75,15,Rock,Sand Force,50.0
+120,0.9,,Ore,Mineral,105,50,40,525,Ordinary,50.0,,70,Weak Armor,5,137,20,102.0,390,"1 Attack, 1 Defense",Mineral,Sand Force,Medium Slow,Sturdy,50,105,15,Rock,Sand Force,50.0
+45,1.7,,Compressed,Mineral,130,60,80,526,Ordinary,50.0,,85,Sand Stream,5,232,25,260.0,515,3 Attack,Mineral,Sand Force,Medium Slow,Sturdy,50,135,15,Rock,Sand Force,50.0
+190,0.4,Flying,Bat,Field ,43,55,43,527,Ordinary,50.0,Flying,65,Klutz,5,65,72,2.1,323,1 Speed,Field ,Simple,Medium Fast,Unaware,50,45,15,Psychic,Simple,50.0
+45,0.9,Flying,Courting,Field ,55,77,55,528,Ordinary,50.0,Flying,67,Klutz,5,149,114,10.5,425,2 Speed,Field ,Simple,Medium Fast,Unaware,50,57,15,Psychic,Simple,50.0
+120,0.3,,Mole,Field,40,30,45,529,Ordinary,50.0,,60,Sand Force,5,66,68,8.5,328,1 Attack,Field,Mold Breaker,Medium Fast,Sand Rush,50,85,20,Ground,Mold Breaker,50.0
+60,0.7,,Subterrene,Field,60,50,65,530,Ordinary,50.0,Steel,110,Sand Force,5,178,88,40.4,508,2 Attack,Field,Mold Breaker,Medium Fast,Sand Rush,50,135,20,Ground,Mold Breaker,50.0
+255,1.1,,Hearing,Fairy,86,60,86,531,Ordinary,50.0,,103,Regenerator,5,390,50,31.0,445,2 HP,Fairy,Klutz,Fast,Healer,50,60,20,Normal,Klutz,50.0
+180,0.6,,Muscular,Human-Like,55,25,35,532,Ordinary,25.0,,75,Sheer Force,5,61,35,12.5,305,1 Attack,Human-Like,Iron Fist,Medium Slow,Guts,70,80,20,Fighting,Iron Fist,75.0
+90,1.2,,Muscular,Human-Like,85,40,50,533,Ordinary,25.0,,85,Sheer Force,5,142,40,40.0,405,2 Attack,Human-Like,Iron Fist,Medium Slow,Guts,50,105,20,Fighting,Iron Fist,75.0
+45,1.4,,Muscular,Human-Like,95,55,65,534,Ordinary,25.0,,105,Sheer Force,5,227,45,87.0,505,3 Attack,Human-Like,Iron Fist,Medium Slow,Guts,50,140,20,Fighting,Iron Fist,75.0
+255,0.5,,Tadpole,Water 1,40,50,40,535,Ordinary,50.0,,50,Hydration,5,59,64,4.5,294,1 Speed,Water 1,Water Absorb,Medium Slow,Swift Swim,50,50,20,Water,Water Absorb,50.0
+120,0.8,,Vibration,Water 1,55,65,55,536,Ordinary,50.0,Ground,75,Hydration,5,134,69,17.0,384,2 HP,Water 1,Water Absorb,Medium Slow,Swift Swim,50,65,20,Water,Water Absorb,50.0
+45,1.5,,Vibration,Water 1,75,85,75,537,Ordinary,50.0,Ground,105,Poison Touch,5,229,74,62.0,509,3 HP,Water 1,Water Absorb,Medium Slow,Swift Swim,50,95,20,Water,Water Absorb,50.0
+45,1.3,,Judo,Human-Like,85,30,85,538,Ordinary,0.0,,120,Inner Focus,5,163,45,55.5,465,2 HP,Human-Like,Mold Breaker,Medium Fast,Guts,50,100,20,Fighting,Mold Breaker,100.0
+45,1.4,,Karate,Human-Like,75,30,75,539,Ordinary,0.0,,75,Inner Focus,5,163,85,51.0,465,2 Attack,Human-Like,Mold Breaker,Medium Fast,Sturdy,50,125,20,Fighting,Mold Breaker,100.0
+255,0.3,,Sewing,Bug,70,40,60,540,Ordinary,50.0,Grass,45,Chlorophyll,5,62,42,2.5,310,1 Defense,Bug,Overcoat,Medium Slow,Swarm,50,53,15,Bug,Overcoat,50.0
+120,0.5,,Leaf-Wrapped,Bug,90,50,80,541,Ordinary,50.0,Grass,55,Chlorophyll,5,133,42,7.3,380,2 Defense,Bug,Overcoat,Medium Slow,Leaf Guard,50,63,15,Bug,Overcoat,50.0
+45,1.2,,Nurturing,Bug,80,70,80,542,Ordinary,50.0,Grass,75,Chlorophyll,5,225,92,20.5,500,3 Attack,Bug,Overcoat,Medium Slow,Swarm,50,103,15,Bug,Overcoat,50.0
+255,0.4,,Centipede,Bug,59,30,39,543,Ordinary,50.0,Poison,30,Swarm,5,52,57,5.3,260,1 Defense,Bug,Speed Boost,Medium Slow,Poison Point,50,45,15,Bug,Speed Boost,50.0
+120,1.2,,Curlipede,Bug,99,40,79,544,Ordinary,50.0,Poison,40,Swarm,5,126,47,58.5,360,2 Defense,Bug,Speed Boost,Medium Slow,Poison Point,50,55,15,Bug,Speed Boost,50.0
+45,2.5,,Megapede,Bug,89,55,69,545,Ordinary,50.0,Poison,60,Swarm,5,218,112,200.5,485,3 Speed,Bug,Speed Boost,Medium Slow,Poison Point,50,100,20,Bug,Speed Boost,50.0
+190,0.3,Grass,Cotton Puff,Fairy ,60,37,50,546,Ordinary,50.0,Fairy,40,Infiltrator,5,56,66,0.6,280,1 Speed,Fairy ,Chlorophyll,Medium Fast,Prankster,50,27,20,Grass,Chlorophyll,50.0
+75,0.7,Grass,Windveiled,Fairy ,85,77,75,547,Ordinary,50.0,Fairy,60,Infiltrator,5,168,116,6.6,480,2 Speed,Fairy ,Chlorophyll,Medium Fast,Prankster,50,67,20,Grass,Chlorophyll,50.0
+190,0.5,,Bulb,Grass,50,70,50,548,Ordinary,100.0,,45,Own Tempo,5,56,30,6.6,280,1 Sp. Atk,Grass,Leaf Guard,Medium Fast,Chlorophyll,50,35,20,Grass,Leaf Guard,0.0
+75,1.1,,Flowering,Grass,75,110,75,549,Ordinary,100.0,,70,Own Tempo,5,168,90,16.3,480,2 Sp. Atk,Grass,Leaf Guard,Medium Fast,Chlorophyll,50,60,20,Grass,Leaf Guard,0.0
+25,1.0,,Hostile,Water 2,65,80,55,550,Ordinary,50.0,,70,Adaptability,5,161,98,18.0,460,2 Speed,Water 2,Mold Breaker,Medium Fast,Reckless,50,92,40,Water,Mold Breaker,50.0
+180,0.7,,Desert Croc,Field,35,35,35,551,Ordinary,50.0,Dark,50,Moxie,5,58,65,15.2,292,1 Attack,Field,Anger Point,Medium Slow,Intimidate,50,72,20,Ground,Anger Point,50.0
+90,1.0,,Desert Croc,Field,45,45,45,552,Ordinary,50.0,Dark,60,Moxie,5,123,74,33.4,351,2 Attack,Field,Anger Point,Medium Slow,Intimidate,50,82,20,Ground,Anger Point,50.0
+45,1.5,,Intimidation,Field,80,65,70,553,Ordinary,50.0,Dark,95,Moxie,5,260,92,96.3,519,3 Attack,Field,Anger Point,Medium Slow,Intimidate,50,117,20,Ground,Anger Point,50.0
+120,0.6,,Zen Charm,Field,45,15,45,554,Ordinary,50.0,,70,Inner Focus,5,63,50,37.5,315,1 Attack,Field,,Medium Slow,Hustle,50,90,20,Fire,,50.0
+60,1.3,,Blazing,Field,55,30,55,555,Ordinary,50.0,,105,Zen Mode,5,168,95,92.9,480,2 Attack,Field,,Medium Slow,Sheer Force,50,140,20,Fire,,50.0
+255,1.0,,Cactus,Grass,67,106,67,556,Ordinary,50.0,,75,Chlorophyll,5,161,60,28.0,461,2 Sp. Atk,Grass,Storm Drain,Medium Fast,Water Absorb,50,86,20,Grass,Storm Drain,50.0
+190,0.3,Mineral,Rock Inn,Bug ,85,35,35,557,Ordinary,50.0,Rock,50,Shell Armor,5,65,55,14.5,325,1 Defense,Bug ,Weak Armor,Medium Fast,Sturdy,50,65,20,Bug,Weak Armor,50.0
+75,1.4,Mineral,Stone Home,Bug ,125,65,75,558,Ordinary,50.0,Rock,70,Shell Armor,5,170,45,200.0,485,2 Defense,Bug ,Weak Armor,Medium Fast,Sturdy,50,105,20,Bug,Weak Armor,50.0
+180,0.6,Field,Shedding,Dragon ,70,35,70,559,Ordinary,50.0,Fighting,50,Moxie,5,70,48,11.8,348,1 Attack,Dragon ,Intimidate,Medium Fast,Shed Skin,35,75,15,Dark,Intimidate,50.0
+90,1.1,Field,Hoodlum,Dragon ,115,45,115,560,Ordinary,50.0,Fighting,65,Moxie,5,171,58,30.0,488,"1 Defense, 1 Sp. Def",Dragon ,Intimidate,Medium Fast,Shed Skin,50,90,15,Dark,Intimidate,50.0
+45,1.4,,Avianoid,Flying,80,103,80,561,Ordinary,50.0,Flying,72,Magic Guard,5,172,97,14.0,490,2 Sp. Atk,Flying,Tinted Lens,Medium Fast,Wonder Skin,50,58,20,Psychic,Tinted Lens,50.0
+190,0.5,Mineral,Spirit,Amorphous ,85,55,65,562,Ordinary,50.0,,38,,5,61,30,1.5,303,1 Defense,Amorphous ,,Medium Fast,Mummy,50,30,25,Ghost,,50.0
+90,1.7,Mineral,Coffin,Amorphous ,145,95,105,563,Ordinary,50.0,,58,,5,169,30,76.5,483,2 Defense,Amorphous ,,Medium Fast,Mummy,50,50,25,Ghost,,50.0
+45,0.7,Water 3,Prototurtle,Water 1 ,103,53,45,564,Fossil,12.5,Rock,54,Sturdy,5,71,22,16.5,355,1 Defense,Water 1 ,Swift Swim,Medium Fast,Solid Rock,50,78,30,Water,Swift Swim,87.5
+45,1.2,Water 3,Prototurtle,Water 1 ,133,83,65,565,Fossil,12.5,Rock,74,Sturdy,5,173,32,81.0,495,2 Defense,Water 1 ,Swift Swim,Medium Fast,Solid Rock,50,108,30,Water,Swift Swim,87.5
+45,0.5,Water 3,First Bird,Flying ,45,74,45,566,Fossil,12.5,Flying,55,,5,71,70,9.5,401,1 Attack,Flying ,,Medium Fast,Defeatist,50,112,30,Rock,,87.5
+45,1.4,Water 3,First Bird,Flying ,65,112,65,567,Fossil,12.5,Flying,75,,5,177,110,32.0,567,2 Attack,Flying ,,Medium Fast,Defeatist,50,140,30,Rock,,87.5
+190,0.6,,Trash Bag,Mineral,62,40,62,568,Ordinary,50.0,,50,Sticky Hold,5,66,65,31.0,329,1 Speed,Mineral,Aftermath,Medium Fast,Stench,50,50,20,Poison,Aftermath,50.0
+60,1.9,,Trash Heap,Mineral,82,60,82,569,Ordinary,50.0,,80,Weak Armor,5,166,75,107.3,474,2 Attack,Mineral,Aftermath,Medium Fast,Stench,50,95,20,Poison,Aftermath,50.0
+75,0.7,,Tricky Fox,Field,40,80,40,570,Ordinary,12.5,,40,,5,66,65,12.5,330,1 Sp. Atk,Field,,Medium Slow,Illusion,50,65,25,Dark,,87.5
+45,1.6,,Illusion Fox,Field,60,120,60,571,Ordinary,12.5,,60,,5,179,105,81.1,510,2 Sp. Atk,Field,,Medium Slow,Illusion,50,105,20,Dark,,87.5
+255,0.4,,Chinchilla,Field,40,40,40,572,Ordinary,75.0,,55,Technician,5,60,75,5.8,300,1 Speed,Field,Skill Link,Fast,Cute Charm,50,50,15,Normal,Skill Link,25.0
+60,0.5,,Scarf,Field,60,65,60,573,Ordinary,75.0,,75,Technician,5,165,115,7.5,470,2 Speed,Field,Skill Link,Fast,Cute Charm,50,95,15,Normal,Skill Link,25.0
+200,0.4,,Fixation,Human-Like,50,55,65,574,Ordinary,75.0,,45,Competitive,5,58,45,5.8,290,1 Sp. Def,Human-Like,Shadow Tag,Medium Slow,Frisk,50,30,20,Psychic,Shadow Tag,25.0
+100,0.7,,Manipulate,Human-Like,70,75,85,575,Ordinary,75.0,,60,Competitive,5,137,55,18.0,390,2 Sp. Def,Human-Like,Shadow Tag,Medium Slow,Frisk,50,45,20,Psychic,Shadow Tag,25.0
+50,1.5,,Astral Body,Human-Like,95,95,110,576,Ordinary,75.0,,70,Competitive,5,245,65,44.0,490,3 Sp. Def,Human-Like,Shadow Tag,Medium Slow,Frisk,50,55,20,Psychic,Shadow Tag,25.0
+200,0.3,,Cell,Amorphous,40,105,50,577,Ordinary,50.0,,45,Magic Guard,5,58,20,1.0,290,1 Sp. Atk,Amorphous,Regenerator,Medium Slow,Overcoat,50,30,20,Psychic,Regenerator,50.0
+100,0.6,,Mitosis,Amorphous,50,125,60,578,Ordinary,50.0,,65,Magic Guard,5,130,30,8.0,370,2 Sp. Atk,Amorphous,Regenerator,Medium Slow,Overcoat,50,40,20,Psychic,Regenerator,50.0
+50,1.0,,Multiplying,Amorphous,75,125,85,579,Ordinary,50.0,,110,Magic Guard,5,221,30,20.1,490,3 Sp. Atk,Amorphous,Regenerator,Medium Slow,Overcoat,50,65,20,Psychic,Regenerator,50.0
+190,0.5,Water 1,Water Bird,Flying ,50,44,50,580,Ordinary,50.0,Flying,62,Big Pecks,5,61,55,5.5,305,1 HP,Flying ,Hydration,Medium Fast,Keen Eye,50,44,20,Water,Hydration,50.0
+45,1.3,Water 1,White Bird,Flying ,63,87,63,581,Ordinary,50.0,Flying,75,Big Pecks,5,166,98,24.2,473,2 Speed,Flying ,Hydration,Medium Fast,Keen Eye,50,87,20,Water,Hydration,50.0
+255,0.4,,Fresh Snow,Mineral,50,65,60,582,Ordinary,50.0,,36,Snow Cloak,5,61,44,5.7,305,1 Sp. Atk,Mineral,Weak Armor,Slow,Ice Body,50,50,20,Ice,Weak Armor,50.0
+120,1.1,,Icy Snow,Mineral,65,80,75,583,Ordinary,50.0,,51,Snow Cloak,5,138,59,41.0,395,2 Sp. Atk,Mineral,Weak Armor,Slow,Ice Body,50,65,20,Ice,Weak Armor,50.0
+45,1.3,,Snowstorm,Mineral,85,110,95,584,Ordinary,50.0,,71,Snow Warning,5,241,79,57.5,535,3 Sp. Atk,Mineral,Weak Armor,Slow,Ice Body,50,95,20,Ice,Weak Armor,50.0
+190,0.6,,Season,Field,50,40,50,585,Ordinary,50.0,Grass,60,Sap Sipper,5,67,75,19.5,335,1 Speed,Field,Serene Grace,Medium Fast,Chlorophyll,50,60,20,Normal,Serene Grace,50.0
+75,1.9,,Season,Field,70,60,70,586,Ordinary,50.0,Grass,80,Sap Sipper,5,166,95,92.5,475,2 Attack,Field,Serene Grace,Medium Fast,Chlorophyll,50,100,20,Normal,Serene Grace,50.0
+200,0.4,,Sky Squirrel,Field,60,75,60,587,Ordinary,50.0,Flying,55,Motor Drive,5,150,103,5.0,428,2 Speed,Field,,Medium Fast,Static,50,75,20,Electric,,50.0
+200,0.5,,Clamping,Bug,45,40,45,588,Ordinary,50.0,,50,Shed Skin,5,63,60,5.9,315,1 Attack,Bug,No Guard,Medium Fast,Swarm,50,75,15,Bug,No Guard,50.0
+75,1.0,,Cavalry,Bug,105,60,105,589,Ordinary,50.0,Steel,70,Shell Armor,5,173,20,33.0,495,2 Attack,Bug,Overcoat,Medium Fast,Swarm,50,135,15,Bug,Overcoat,50.0
+190,0.2,,Mushroom,Grass,45,55,55,590,Ordinary,50.0,Poison,69,Regenerator,5,59,15,1.0,294,1 HP,Grass,,Medium Fast,Effect Spore,50,55,20,Grass,,50.0
+75,0.6,,Mushroom,Grass,70,85,80,591,Ordinary,50.0,Poison,114,Regenerator,5,162,30,10.5,464,2 HP,Grass,,Medium Fast,Effect Spore,50,85,20,Grass,,50.0
+190,1.2,,Floating,Amorphous,50,65,85,592,Ordinary,50.0,Ghost,55,Cursed Body,5,67,40,33.0,335,1 Sp. Def,Amorphous,Damp,Medium Fast,Water Absorb,50,40,20,Water,Damp,50.0
+60,2.2,,Floating,Amorphous,70,85,105,593,Ordinary,50.0,Ghost,100,Cursed Body,5,168,60,135.0,480,2 Sp. Def,Amorphous,Damp,Medium Fast,Water Absorb,50,60,20,Water,Damp,50.0
+75,1.2,Water 2,Caring,Water 1 ,80,40,45,594,Ordinary,50.0,,165,Hydration,5,165,65,31.6,470,2 HP,Water 1 ,Regenerator,Fast,Healer,50,75,40,Water,Regenerator,50.0
+190,0.1,,Attaching,Bug,50,57,50,595,Ordinary,50.0,Electric,50,Unnerve,5,64,65,0.6,319,1 Speed,Bug,Swarm,Medium Fast,Compound Eyes,50,47,20,Bug,Swarm,50.0
+75,0.8,,EleSpider,Bug,60,97,60,596,Ordinary,50.0,Electric,70,Unnerve,5,165,108,14.3,472,2 Speed,Bug,Swarm,Medium Fast,Compound Eyes,50,77,20,Bug,Swarm,50.0
+255,0.6,Mineral,Thorn Seed,Grass ,91,24,86,597,Ordinary,50.0,Steel,44,,5,61,10,18.8,305,1 Defense,Grass ,,Medium Fast,Iron Barbs,50,50,20,Grass,,50.0
+90,1.0,Mineral,Thorn Pod,Grass ,131,54,116,598,Ordinary,50.0,Steel,74,Anticipation,5,171,20,110.0,489,2 Defense,Grass ,,Medium Fast,Iron Barbs,50,94,20,Grass,,50.0
+130,0.3,,Gear,Mineral,70,45,60,599,Ordinary,,,40,Minus,5,60,30,21.0,300,1 Defense,Mineral,Clear Body,Medium Slow,Plus,50,55,20,Steel,Clear Body,
+60,0.6,,Gear,Mineral,95,70,85,600,Ordinary,,,60,Minus,5,154,50,51.0,440,2 Defense,Mineral,Clear Body,Medium Slow,Plus,50,80,20,Steel,Clear Body,
+30,0.6,,Gear,Mineral,115,70,85,601,Ordinary,,,60,Minus,5,234,90,81.0,520,3 Defense,Mineral,Clear Body,Medium Slow,Plus,50,100,20,Steel,Clear Body,
+190,0.2,,EleFish,Amorphous,40,45,40,602,Ordinary,50.0,,35,,5,55,60,0.3,275,1 Speed,Amorphous,,Slow,Levitate,50,55,20,Electric,,50.0
+60,1.2,,EleFish,Amorphous,70,75,70,603,Ordinary,50.0,,65,,5,142,40,22.0,405,2 Attack,Amorphous,,Slow,Levitate,50,85,20,Electric,,50.0
+30,2.1,,EleFish,Amorphous,80,105,80,604,Ordinary,50.0,,85,,5,258,50,80.5,515,3 Attack,Amorphous,,Slow,Levitate,50,115,20,Electric,,50.0
+255,0.5,,Cerebral,Human-Like,55,85,55,605,Ordinary,50.0,,55,Synchronize,5,67,30,9.0,335,1 Sp. Atk,Human-Like,Analytic,Medium Fast,Telepathy,50,55,20,Psychic,Analytic,50.0
+90,1.0,,Cerebral,Human-Like,75,125,95,606,Ordinary,50.0,,75,Synchronize,5,170,40,34.5,485,2 Sp. Atk,Human-Like,Analytic,Medium Fast,Telepathy,50,75,20,Psychic,Analytic,50.0
+190,0.3,,Candle,Amorphous,55,65,55,607,Ordinary,50.0,Fire,50,Flame Body,5,55,20,3.1,275,1 Sp. Atk,Amorphous,Infiltrator,Medium Slow,Flash Fire,50,30,20,Ghost,Infiltrator,50.0
+90,0.6,,Lamp,Amorphous,60,95,60,608,Ordinary,50.0,Fire,60,Flame Body,5,130,55,13.0,370,2 Sp. Atk,Amorphous,Infiltrator,Medium Slow,Flash Fire,50,40,20,Ghost,Infiltrator,50.0
+45,1.0,,Luring,Amorphous,90,145,90,609,Ordinary,50.0,Fire,60,Flame Body,5,234,80,34.3,520,3 Sp. Atk,Amorphous,Infiltrator,Medium Slow,Flash Fire,50,55,20,Ghost,Infiltrator,50.0
+75,0.6,Monster,Tusk,Dragon ,60,30,40,610,Ordinary,50.0,,46,Mold Breaker,5,64,57,18.0,320,1 Attack,Dragon ,Unnerve,Slow,Rivalry,35,87,40,Dragon,Unnerve,50.0
+60,1.0,Monster,Axe Jaw,Dragon ,70,40,50,611,Ordinary,50.0,,66,Mold Breaker,5,144,67,36.0,410,2 Attack,Dragon ,Unnerve,Slow,Rivalry,35,117,40,Dragon,Unnerve,50.0
+45,1.8,Monster,Axe Jaw,Dragon ,90,60,70,612,Ordinary,50.0,,76,Mold Breaker,5,270,97,105.5,540,3 Attack,Dragon ,Unnerve,Slow,Rivalry,35,147,40,Dragon,Unnerve,50.0
+120,0.5,,Chill,Field,40,60,40,613,Ordinary,50.0,,55,Slush Rush,5,61,40,8.5,305,1 Attack,Field,Rattled,Medium Fast,Snow Cloak,50,70,20,Ice,Rattled,50.0
+60,2.6,,Freezing,Field,80,70,80,614,Ordinary,50.0,,95,Slush Rush,5,177,50,260.0,505,2 Attack,Field,Swift Swim,Medium Fast,Snow Cloak,50,130,20,Ice,Swift Swim,50.0
+25,1.1,,Crystallizing,Mineral,50,95,135,615,Ordinary,,,80,,5,180,105,148.0,515,2 Sp. Def,Mineral,,Medium Fast,Levitate,50,50,25,Ice,,
+200,0.4,,Snail,Bug,85,40,65,616,Ordinary,50.0,,50,Shell Armor,5,61,25,7.7,305,1 Defense,Bug,Overcoat,Medium Fast,Hydration,50,40,15,Bug,Overcoat,50.0
+75,0.8,,Shell Out,Bug,40,100,60,617,Ordinary,50.0,,80,Sticky Hold,5,173,145,25.3,495,2 Speed,Bug,Unburden,Medium Fast,Hydration,50,70,15,Bug,Unburden,50.0
+75,0.7,Water 1,Trap,Amorphous ,84,81,99,618,Ordinary,50.0,Electric,109,Limber,5,165,32,11.0,471,2 HP,Amorphous ,Sand Veil,Medium Fast,Static,70,66,20,Ground,Sand Veil,50.0
+180,0.9,Human-Like,Martial Arts,Field ,50,55,50,619,Ordinary,50.0,,45,Regenerator,5,70,65,20.0,350,1 Attack,Field ,Reckless,Medium Slow,Inner Focus,50,85,25,Fighting,Reckless,50.0
+45,1.4,Human-Like,Martial Arts,Field ,60,95,60,620,Ordinary,50.0,,65,Regenerator,5,179,105,35.5,510,2 Attack,Field ,Reckless,Medium Slow,Inner Focus,50,125,25,Fighting,Reckless,50.0
+45,1.6,Monster,Cave,Dragon ,90,60,90,621,Ordinary,50.0,,77,Sheer Force,5,170,48,139.0,485,2 Attack,Dragon ,Mold Breaker,Medium Fast,Rough Skin,50,120,30,Dragon,Mold Breaker,50.0
+190,1.0,,Automaton,Mineral,50,35,50,622,Ordinary,,Ghost,59,Klutz,5,61,35,92.0,303,1 Attack,Mineral,No Guard,Medium Fast,Iron Fist,50,74,25,Ground,No Guard,
+90,2.8,,Automaton,Mineral,80,55,80,623,Ordinary,,Ghost,89,Klutz,5,169,55,330.0,483,2 Attack,Mineral,No Guard,Medium Fast,Iron Fist,50,124,25,Ground,No Guard,
+120,0.5,,Sharp Blade,Human-Like,70,40,40,624,Ordinary,50.0,Steel,45,Inner Focus,5,68,60,10.2,340,1 Attack,Human-Like,Pressure,Medium Fast,Defiant,35,85,20,Dark,Pressure,50.0
+45,1.6,,Sword Blade,Human-Like,100,60,70,625,Ordinary,50.0,Steel,65,Inner Focus,5,172,70,70.0,490,2 Attack,Human-Like,Pressure,Medium Fast,Defiant,35,125,20,Dark,Pressure,50.0
+45,1.6,,Bash Buffalo,Field,95,40,95,626,Ordinary,50.0,,95,Sap Sipper,5,172,55,94.6,490,2 Attack,Field,Soundproof,Medium Fast,Reckless,50,110,20,Normal,Soundproof,50.0
+190,0.5,,Eaglet,Flying,50,37,50,627,Ordinary,0.0,Flying,70,Sheer Force,5,70,60,10.5,350,1 Attack,Flying,Hustle,Slow,Keen Eye,50,83,20,Normal,Hustle,100.0
+60,1.5,,Valiant,Flying,75,57,75,628,Ordinary,0.0,Flying,100,Sheer Force,5,179,80,41.0,510,2 Attack,Flying,Defiant,Slow,Keen Eye,50,123,20,Normal,Defiant,100.0
+190,0.5,,Diapered,Flying,75,45,65,629,Ordinary,100.0,Flying,70,Overcoat,5,74,60,9.0,370,1 Defense,Flying,Weak Armor,Slow,Big Pecks,35,55,20,Dark,Weak Armor,0.0
+60,1.2,,Bone Vulture,Flying,105,55,95,630,Ordinary,100.0,Flying,110,Overcoat,5,179,80,39.5,510,2 Sp. Atk,Flying,Weak Armor,Slow,Big Pecks,35,65,20,Dark,Weak Armor,0.0
+90,1.4,,Anteater,Field,66,105,66,631,Ordinary,50.0,,85,Flash Fire,5,169,65,58.0,484,2 Sp. Atk,Field,White Smoke,Medium Fast,Gluttony,50,97,20,Fire,White Smoke,50.0
+90,0.3,,Iron Ant,Bug,112,48,48,632,Ordinary,50.0,Steel,58,Hustle,5,169,109,33.0,484,2 Defense,Bug,Truant,Medium Fast,Swarm,50,109,20,Bug,Truant,50.0
+45,0.8,,Irate,Dragon,50,45,50,633,Ordinary,50.0,Dragon,52,,5,60,38,17.3,300,1 Attack,Dragon,,Slow,Hustle,35,65,40,Dark,,50.0
+45,1.4,,Hostile,Dragon,70,65,70,634,Ordinary,50.0,Dragon,72,,5,147,58,50.0,420,2 Attack,Dragon,,Slow,Hustle,35,85,40,Dark,,50.0
+45,1.8,,Brutal,Dragon,90,125,90,635,Ordinary,50.0,Dragon,92,,5,300,98,160.0,600,3 Sp. Atk,Dragon,,Slow,Levitate,35,105,40,Dark,,50.0
+45,1.1,,Torch,Bug,55,50,55,636,Ordinary,50.0,Fire,55,Swarm,5,72,60,28.8,360,1 Attack,Bug,,Slow,Flame Body,50,85,40,Bug,,50.0
+15,1.6,,Sun,Bug,65,135,105,637,Ordinary,50.0,Fire,85,Swarm,5,275,100,46.0,550,3 Sp. Atk,Bug,,Slow,Flame Body,50,60,40,Bug,,50.0
+3,2.1,,Iron Will,Undiscovered,129,90,72,638,Legendary,,Fighting,91,,5,261,108,250.0,580,3 Defense,Undiscovered,,Slow,Justified,35,90,80,Steel,,
+3,1.9,,Cavern,Undiscovered,90,72,90,639,Legendary,,Fighting,91,,5,261,108,260.0,580,3 Attack,Undiscovered,,Slow,Justified,35,129,80,Rock,,
+3,2.0,,Grassland,Undiscovered,72,90,129,640,Legendary,,Fighting,91,,5,261,108,200.0,580,3 Sp. Def,Undiscovered,,Slow,Justified,35,90,80,Grass,,
+3,1.5,,Cyclone,Undiscovered,70,125,80,641,Legendary,0.0,,79,Defiant,5,290,111,63.0,580,3 Attack,Undiscovered,,Slow,Prankster,90,115,120,Flying,,100.0
+3,1.5,,Bolt Strike,Undiscovered,70,125,80,642,Legendary,0.0,Flying,79,Defiant,5,290,111,61.0,580,3 Attack,Undiscovered,,Slow,Prankster,90,115,120,Electric,,100.0
+3,3.2,,Vast White,Undiscovered,100,150,120,643,Legendary,,Fire,100,,5,306,90,330.0,680,3 Sp. Atk,Undiscovered,,Slow,Turboblaze,0,120,120,Dragon,,
+3,2.9,,Deep Black,Undiscovered,120,120,100,644,Legendary,,Electric,100,,5,306,90,345.0,680,3 Attack,Undiscovered,,Slow,Teravolt,0,150,120,Dragon,,
+3,1.5,,Abundance,Undiscovered,90,115,80,645,Legendary,0.0,Flying,89,Sheer Force,5,300,101,68.0,600,3 Sp. Atk,Undiscovered,,Slow,Sand Force,90,125,120,Ground,,100.0
+3,3.0,,Boundary,Undiscovered,90,130,90,646,Legendary,,Ice,125,,5,297,95,325.0,660,"1 HP, 1 Attack, 1 Sp. Atk",Undiscovered,,Slow,Pressure,0,130,120,Dragon,,
+3,1.4,,Colt,Undiscovered,90,129,90,647,Mythical,,Fighting,91,,5,261,108,48.5,580,3 Sp. Atk,Undiscovered,,Slow,Justified,35,72,80,Water,,
+3,0.6,,Melody,Undiscovered,77,128,128,648,Mythical,,Psychic,100,,5,300,90,6.5,600,"1 Sp. Atk, 1 Sp. Def, 1 Speed",Undiscovered,,Slow,Serene Grace,100,77,120,Normal,,
+3,1.5,,Paleozoic,Undiscovered,95,120,95,649,Mythical,,Steel,71,,5,270,99,82.5,600,"1 Attack, 1 Sp. Atk, 1 Speed",Undiscovered,,Slow,Download,0,120,120,Bug,,
+45,0.4,,Spiny Nut,Field,65,48,45,650,Ordinary,12.5,,56,Bulletproof,6,63,38,9.0,313,1 Defense,Field,,Medium Slow,Overgrow,50,61,20,Grass,,87.5
+45,0.7,,Spiny Armor,Field,95,56,58,651,Ordinary,12.5,,61,Bulletproof,6,142,57,29.0,405,2 Defense,Field,,Medium Slow,Overgrow,50,78,20,Grass,,87.5
+45,1.6,,Spiny Armor,Field,122,74,75,652,Ordinary,12.5,Fighting,88,Bulletproof,6,265,64,90.0,530,3 Defense,Field,,Medium Slow,Overgrow,50,107,20,Grass,,87.5
+45,0.4,,Fox,Field,40,62,60,653,Ordinary,12.5,,40,Magician,6,61,60,9.4,307,1 Sp. Atk,Field,,Medium Slow,Blaze,50,45,20,Fire,,87.5
+45,1.0,,Fox,Field,58,90,70,654,Ordinary,12.5,,59,Magician,6,143,73,14.5,409,2 Sp. Atk,Field,,Medium Slow,Blaze,50,59,20,Fire,,87.5
+45,1.5,,Fox,Field,72,114,100,655,Ordinary,12.5,Psychic,75,Magician,6,267,104,39.0,534,3 Sp. Atk,Field,,Medium Slow,Blaze,50,69,20,Fire,,87.5
+45,0.3,,Bubble Frog,Water 1,40,62,44,656,Ordinary,12.5,,41,Protean,6,63,71,7.0,314,1 Speed,Water 1,,Medium Slow,Torrent,50,56,20,Water,,87.5
+45,0.6,,Bubble Frog,Water 1,52,83,56,657,Ordinary,12.5,,54,Protean,6,142,97,10.9,405,2 Speed,Water 1,,Medium Slow,Torrent,50,63,20,Water,,87.5
+45,1.5,,Ninja,Water 1,67,103,71,658,Ordinary,12.5,Dark,72,Protean,6,265,122,40.0,530,3 Speed,Water 1,,Medium Slow,Torrent,50,95,20,Water,,87.5
+255,0.4,,Digging,Field,38,32,36,659,Ordinary,50.0,,38,Cheek Pouch,6,47,57,5.0,237,1 Speed,Field,Huge Power,Medium Fast,Pickup,50,36,15,Normal,Huge Power,50.0
+127,1.0,,Digging,Field,77,50,77,660,Ordinary,50.0,Ground,85,Cheek Pouch,6,148,78,42.4,423,2 HP,Field,Huge Power,Medium Fast,Pickup,50,56,15,Normal,Huge Power,50.0
+255,0.3,,Tiny Robin,Flying,43,40,38,661,Ordinary,50.0,Flying,45,Gale Wings,6,56,62,1.7,278,1 Speed,Flying,,Medium Slow,Big Pecks,50,50,15,Normal,,50.0
+120,0.7,,Ember,Flying,55,56,52,662,Ordinary,50.0,Flying,62,Gale Wings,6,134,84,16.0,382,2 Speed,Flying,,Medium Slow,Flame Body,50,73,15,Fire,,50.0
+45,1.2,,Scorching,Flying,71,74,69,663,Ordinary,50.0,Flying,78,Gale Wings,6,175,126,24.5,499,3 Speed,Flying,,Medium Slow,Flame Body,50,81,15,Fire,,50.0
+255,0.3,,Scatterdust,Bug,40,27,25,664,Ordinary,50.0,,38,Compound Eyes,6,40,35,2.5,200,1 Defense,Bug,Friend Guard,Medium Fast,Shield Dust,50,35,15,Bug,Friend Guard,50.0
+120,0.3,,Scatterdust,Bug,60,27,30,665,Ordinary,50.0,,45,Friend Guard,6,75,29,8.4,213,2 Defense,Bug,,Medium Fast,Shed Skin,50,22,15,Bug,,50.0
+45,1.2,,Scale,Bug,50,90,50,666,Ordinary,50.0,Flying,80,Compound Eyes,6,206,89,17.0,411,"1 HP, 1 Sp. Atk, 1 Speed",Bug,Friend Guard,Medium Fast,Shield Dust,50,52,15,Bug,Friend Guard,50.0
+220,0.6,,Lion Cub,Field,58,73,54,667,Ordinary,87.5,Normal,62,Unnerve,6,74,72,13.5,369,1 Sp. Atk,Field,Moxie,Medium Slow,Rivalry,50,50,20,Fire,Moxie,12.5
+65,1.5,,Royal,Field,72,109,66,668,Ordinary,87.5,Normal,86,Unnerve,6,177,106,81.5,507,2 Sp. Atk,Field,Moxie,Medium Slow,Rivalry,50,68,20,Fire,Moxie,12.5
+225,0.1,,Single Bloom,Fairy,39,61,79,669,Ordinary,100.0,,44,Symbiosis,6,61,42,0.1,303,1 Sp. Def,Fairy,,Medium Fast,Flower Veil,50,38,20,Fairy,,0.0
+120,0.2,,Single Bloom,Fairy,47,75,98,670,Ordinary,100.0,,54,Symbiosis,6,130,52,0.9,371,2 Sp. Def,Fairy,,Medium Fast,Flower Veil,50,45,20,Fairy,,0.0
+45,1.1,,Garden,Fairy,68,112,154,671,Ordinary,100.0,,78,Symbiosis,6,276,75,10.0,552,3 Sp. Def,Fairy,,Medium Fast,Flower Veil,50,65,20,Fairy,,0.0
+200,0.9,,Mount,Field,48,62,57,672,Ordinary,50.0,,66,Grass Pelt,6,70,52,31.0,350,1 HP,Field,,Medium Fast,Sap Sipper,50,65,20,Grass,,50.0
+45,1.7,,Mount,Field,62,97,81,673,Ordinary,50.0,,123,Grass Pelt,6,186,68,91.0,531,2 HP,Field,,Medium Fast,Sap Sipper,50,100,20,Grass,,50.0
+220,0.6,Human-Like,Playful,Field ,62,46,48,674,Ordinary,50.0,,67,Mold Breaker,6,70,43,8.0,348,1 Attack,Field ,Scrappy,Medium Fast,Iron Fist,50,82,25,Fighting,Scrappy,50.0
+65,2.1,Human-Like,Daunting,Field ,78,69,71,675,Ordinary,50.0,Dark,95,Mold Breaker,6,173,58,136.0,495,2 Attack,Field ,Scrappy,Medium Fast,Iron Fist,50,124,25,Fighting,Scrappy,50.0
+160,1.2,,Poodle,Field,60,65,90,676,Ordinary,50.0,,75,,6,165,102,28.0,472,1 Speed,Field,,Medium Fast,Fur Coat,50,80,20,Normal,,50.0
+190,0.3,,Restraint,Field,54,63,60,677,Ordinary,50.0,,62,Infiltrator,6,71,68,3.5,355,1 Speed,Field,Own Tempo,Medium Fast,Keen Eye,50,48,20,Psychic,Own Tempo,50.0
+75,0.6,,Constraint,Field,76,83,81,678,Ordinary,0.0,,74,Infiltrator,6,163,104,8.5,466,2 Speed,Field,Prankster,Medium Fast,Keen Eye,50,48,20,Psychic,Prankster,100.0
+180,0.8,,Sword,Mineral,100,35,37,679,Ordinary,50.0,Ghost,45,,6,65,28,2.0,325,1 Defense,Mineral,,Medium Fast,No Guard,50,80,20,Steel,,50.0
+90,0.8,,Sword,Mineral,150,45,49,680,Ordinary,50.0,Ghost,59,,6,157,35,4.5,448,2 Defense,Mineral,,Medium Fast,No Guard,50,110,20,Steel,,50.0
+45,1.7,,Royal Sword,Mineral,140,50,140,681,Ordinary,50.0,Ghost,60,,6,234,60,53.0,500,"2 Defense, 1 Sp. Def",Mineral,,Medium Fast,Stance Change,50,50,20,Steel,,50.0
+200,0.2,,Perfume,Fairy,60,63,65,682,Ordinary,50.0,,78,Aroma Veil,6,68,23,0.5,341,1 HP,Fairy,,Medium Fast,Healer,50,52,20,Fairy,,50.0
+140,0.8,,Fragrance,Fairy,72,99,89,683,Ordinary,50.0,,101,Aroma Veil,6,162,29,15.5,462,2 HP,Fairy,,Medium Fast,Healer,50,72,20,Fairy,,50.0
+200,0.4,,Cotton Candy,Fairy,66,59,57,684,Ordinary,50.0,,62,Unburden,6,68,49,3.5,341,1 Defense,Fairy,,Medium Fast,Sweet Veil,50,48,20,Fairy,,50.0
+140,0.8,,Meringue,Fairy,86,85,75,685,Ordinary,50.0,,82,Unburden,6,168,72,5.0,480,2 Defense,Fairy,,Medium Fast,Sweet Veil,50,80,20,Fairy,,50.0
+190,0.4,Water 2,Revolving,Water 1 ,53,37,46,686,Ordinary,50.0,Psychic,53,Suction Cups,6,58,45,3.5,288,1 Attack,Water 1 ,Infiltrator,Medium Fast,Contrary,50,54,20,Dark,Infiltrator,50.0
+80,1.5,Water 2,Overturning,Water 1 ,88,68,75,687,Ordinary,50.0,Psychic,86,Suction Cups,6,169,73,47.0,482,2 Attack,Water 1 ,Infiltrator,Medium Fast,Contrary,50,92,20,Dark,Infiltrator,50.0
+120,0.5,,Two-Handed,Water 3,67,39,56,688,Ordinary,50.0,Water,42,Tough Claws,6,61,50,31.0,306,1 Attack,Water 3,Pickpocket,Medium Fast,Sniper,50,52,20,Rock,Pickpocket,50.0
+45,1.3,,Collective,Water 3,115,54,86,689,Ordinary,50.0,Water,72,Tough Claws,6,175,68,96.0,500,2 Attack,Water 3,Pickpocket,Medium Fast,Sniper,50,105,20,Rock,Pickpocket,50.0
+225,0.5,Water 1,Mock Kelp,Dragon ,60,60,60,690,Ordinary,50.0,Water,50,Poison Touch,6,64,30,7.3,320,1 Sp. Def,Dragon ,Adaptability,Medium Fast,Poison Point,50,60,20,Poison,Adaptability,50.0
+55,1.8,Water 1,Mock Kelp,Dragon ,90,97,123,691,Ordinary,50.0,Dragon,65,Poison Touch,6,173,44,81.5,494,2 Sp. Def,Dragon ,Adaptability,Medium Fast,Poison Point,50,75,20,Poison,Adaptability,50.0
+225,0.5,Water 3,Water Gun,Water 1 ,62,58,63,692,Ordinary,50.0,,50,,6,66,44,8.3,330,1 Sp. Atk,Water 1 ,,Slow,Mega Launcher,50,53,15,Water,,50.0
+55,1.3,Water 3,Howitzer,Water 1 ,88,120,89,693,Ordinary,50.0,,71,,6,100,59,35.3,500,2 Sp. Atk,Water 1 ,,Slow,Mega Launcher,50,73,15,Water,,50.0
+190,0.5,Monster,Generator,Dragon ,33,61,43,694,Ordinary,50.0,Normal,44,Sand Veil,6,58,70,6.0,289,1 Speed,Dragon ,Solar Power,Medium Fast,Dry Skin,50,38,20,Electric,Solar Power,50.0
+75,1.0,Monster,Generator,Dragon ,52,109,94,695,Ordinary,50.0,Normal,62,Sand Veil,6,168,109,21.0,481,"1 Sp. Atk, 1 Speed",Dragon ,Solar Power,Medium Fast,Dry Skin,50,55,20,Electric,Solar Power,50.0
+45,0.8,Monster,Royal Heir,Dragon ,77,45,45,696,Fossil,12.5,Dragon,58,Sturdy,6,72,48,26.0,362,1 Attack,Dragon ,,Medium Fast,Strong Jaw,50,89,30,Rock,,87.5
+45,2.5,Monster,Despot,Dragon ,119,69,59,697,Fossil,12.5,Dragon,82,Rock Head,6,182,71,270.0,521,2 Attack,Dragon ,,Medium Fast,Strong Jaw,50,121,30,Rock,,87.5
+45,1.3,,Tundra,Monster,50,67,63,698,Fossil,12.5,Ice,77,Snow Warning,6,72,46,25.2,362,1 HP,Monster,,Medium Fast,Refrigerate,50,59,30,Rock,,87.5
+45,2.7,,Tundra,Monster,72,99,92,699,Fossil,12.5,Ice,123,Snow Warning,6,104,58,225.0,521,2 HP,Monster,,Medium Fast,Refrigerate,50,77,30,Rock,,87.5
+45,1.0,,Intertwining,Field,65,110,130,700,Ordinary,12.5,,95,Pixilate,6,184,60,23.5,525,2 Sp. Def,Field,,Medium Fast,Cute Charm,50,65,35,Fairy,,87.5
+100,0.8,Human-Like,Wrestling,Flying ,75,74,63,701,Ordinary,50.0,Flying,78,Unburden,6,175,118,21.5,500,2 Attack,Flying ,Mold Breaker,Medium Fast,Limber,50,92,20,Fighting,Mold Breaker,50.0
+180,0.2,Field,Antenna,Fairy ,57,81,67,702,Ordinary,50.0,Fairy,67,Pickup,6,151,101,2.2,431,2 Speed,Fairy ,Plus,Medium Fast,Cheek Pouch,50,58,20,Electric,Plus,50.0
+60,0.3,Mineral,Jewel,Fairy ,150,50,150,703,Ordinary,,Fairy,50,Sturdy,6,100,50,5.7,500,"1 Defense, 1 Sp. Def",Fairy ,,Slow,Clear Body,50,50,25,Rock,,
+45,0.3,,Soft Tissue,Dragon,35,55,75,704,Ordinary,50.0,,45,Hydration,6,60,40,2.8,300,1 Sp. Def,Dragon,Gooey,Slow,Sap Sipper,35,50,40,Dragon,Gooey,50.0
+45,0.8,,Soft Tissue,Dragon,53,83,113,705,Ordinary,50.0,,68,Hydration,6,158,60,17.5,452,2 Sp. Def,Dragon,Gooey,Slow,Sap Sipper,35,75,40,Dragon,Gooey,50.0
+45,2.0,,Dragon,Dragon,70,110,150,706,Ordinary,50.0,,90,Hydration,6,300,80,150.5,600,3 Sp. Def,Dragon,Gooey,Slow,Sap Sipper,35,100,40,Dragon,Gooey,50.0
+75,0.2,,Key Ring,Mineral,91,80,87,707,Ordinary,50.0,Fairy,57,Magician,6,165,75,3.0,470,1 Defense,Mineral,,Fast,Prankster,50,80,20,Steel,,50.0
+120,0.4,Grass,Stump,Amorphous ,48,50,60,708,Ordinary,50.0,Grass,43,Frisk,6,62,38,7.0,309,1 Attack,Amorphous ,Harvest,Medium Fast,Natural Cure,50,70,20,Ghost,Harvest,50.0
+60,1.5,Grass,Elder Tree,Amorphous ,76,65,82,709,Ordinary,50.0,Grass,85,Frisk,6,166,56,71.0,474,2 Attack,Amorphous ,Harvest,Medium Fast,Natural Cure,50,110,20,Ghost,Harvest,50.0
+120,0.4,,Pumpkin,Amorphous,70,44,55,710,Ordinary,50.0,Grass,49,Frisk,6,67,51,5.0,335,1 Defense,Amorphous,Insomnia,Medium Fast,Pickup,50,66,20,Ghost,Insomnia,50.0
+60,0.9,,Pumpkin,Amorphous,122,58,75,711,Ordinary,50.0,Grass,65,Frisk,6,173,84,12.5,494,2 Defense,Amorphous,Insomnia,Medium Fast,Pickup,50,90,20,Ghost,Insomnia,50.0
+190,1.0,Monster,Ice Chunk,Mineral ,85,32,35,712,Ordinary,50.0,,55,Ice Body,6,61,28,99.5,304,1 Defense,Mineral ,Sturdy,Medium Fast,Own Tempo,50,69,20,Ice,Sturdy,50.0
+55,2.0,Monster,Iceberg,Mineral ,184,44,46,713,Ordinary,50.0,,95,Ice Body,6,180,28,505.0,514,2 Defense,Mineral ,Sturdy,Medium Fast,Own Tempo,50,117,20,Ice,Sturdy,50.0
+190,0.5,Flying,Sound Wave,Dragon ,35,45,40,714,Ordinary,50.0,Dragon,40,Infiltrator,6,49,55,8.0,245,1 Speed,Dragon ,Telepathy,Medium Fast,Frisk,50,30,20,Flying,Telepathy,50.0
+45,1.5,Flying,Sound Wave,Dragon ,80,97,80,715,Ordinary,50.0,Dragon,85,Infiltrator,6,187,123,85.0,535,2 Speed,Dragon ,Telepathy,Medium Fast,Frisk,50,70,20,Flying,Telepathy,50.0
+45,3.0,,Life,Undiscovered,95,131,98,716,Legendary,,,126,,6,306,99,215.0,680,3 HP,Undiscovered,,Slow,Fairy Aura,0,131,120,Fairy,,
+45,5.8,,Destruction,Undiscovered,95,131,98,717,Legendary,,Flying,126,,6,306,99,203.0,680,3 HP,Undiscovered,,Slow,Dark Aura,0,131,120,Dark,,
+3,5.0,,Order,Undiscovered,121,81,95,718,Legendary,,Ground,108,Power Construct,6,270,95,305.0,600,3 HP,Undiscovered,,Slow,Aura Break,0,100,120,Dragon,,
+3,0.7,,Jewel,Undiscovered,150,100,150,719,Mythical,,Fairy,50,,6,300,50,8.8,600,"1 Defense, 2 Sp. Def",Undiscovered,,Slow,Clear Body,50,100,25,Rock,,
+3,0.5,,Mischief,Undiscovered,60,150,130,720,Mythical,,Ghost,80,,6,300,70,9.0,600,3 Sp. Atk,Undiscovered,,Slow,Magician,100,110,120,Psychic,,
+3,1.7,,Steam,Undiscovered,120,130,90,721,Mythical,,Water,80,,6,300,70,195.0,600,3 Sp. Atk,Undiscovered,,Slow,Water Absorb,100,110,120,Fire,,
+45,0.3,,Grass Quill,Flying,55,50,50,722,Ordinary,12.5,Flying,68,Long Reach,7,64,42,1.5,320,1 HP,Flying,,Medium Slow,Overgrow,50,55,15,Grass,,87.5
+45,0.7,,Blade Quill,Flying,75,70,70,723,Ordinary,12.5,Flying,78,Long Reach,7,147,52,16.0,420,2 HP,Flying,,Medium Slow,Overgrow,50,75,15,Grass,,87.5
+45,1.6,,Arrow Quill,Flying,75,100,100,724,Ordinary,12.5,Ghost,78,Long Reach,7,265,70,36.6,530,3 Attack,Flying,,Medium Slow,Overgrow,50,107,15,Grass,,87.5
+45,0.4,,Fire Cat,Field,40,60,40,725,Ordinary,12.5,,45,Intimidate,7,64,70,4.3,320,1 Speed,Field,,Medium Slow,Blaze,50,65,15,Fire,,87.5
+45,0.7,,Fire Cat,Field,50,80,50,726,Ordinary,12.5,,65,Intimidate,7,147,90,25.0,420,2 Speed,Field,,Medium Slow,Blaze,50,85,15,Fire,,87.5
+45,1.8,,Heel,Field,90,80,90,727,Ordinary,12.5,Dark,95,Intimidate,7,239,60,83.0,530,3 Attack,Field,,Medium Slow,Blaze,50,115,15,Fire,,87.5
+45,0.4,Water 1,Sea Lion,Field ,54,66,56,728,Ordinary,12.5,,50,Liquid Voice,7,64,40,7.5,320,1 Sp. Atk,Field ,,Medium Slow,Torrent,50,54,15,Water,,87.5
+45,0.6,Water 1,Pop Star,Field ,69,91,81,729,Ordinary,12.5,,60,Liquid Voice,7,147,50,17.5,420,2 Sp. Atk,Field ,,Medium Slow,Torrent,50,69,15,Water,,87.5
+45,1.8,Water 1,Soloist,Field ,74,126,116,730,Ordinary,12.5,Fairy,80,Liquid Voice,7,239,60,44.0,530,3 Sp. Atk,Field ,,Medium Slow,Torrent,50,74,15,Water,,87.5
+255,0.3,,Woodpecker,Flying,30,30,30,731,Ordinary,50.0,Flying,35,Skill Link,7,53,65,1.2,265,1 Attack,Flying,Pickup,Medium Fast,Keen Eye,50,75,15,Normal,Pickup,50.0
+120,0.6,,Bugle Beak,Flying,50,40,50,732,Ordinary,50.0,Flying,55,Skill Link,7,124,75,14.8,355,2 Attack,Flying,Pickup,Medium Fast,Keen Eye,50,85,15,Normal,Pickup,50.0
+45,1.1,,Cannon,Flying,75,75,75,733,Ordinary,50.0,Flying,80,Skill Link,7,218,60,26.0,485,3 Attack,Flying,Sheer Force,Medium Fast,Keen Eye,50,120,15,Normal,Sheer Force,50.0
+255,0.4,,Loitering,Field,30,30,30,734,Ordinary,50.0,,48,Stakeout,7,51,45,6.0,253,1 Attack,Field,Adaptability,Medium Fast,Strong Jaw,50,70,15,Normal,Adaptability,50.0
+127,0.7,,Stakeout,Field,60,55,60,735,Ordinary,50.0,,88,Stakeout,7,146,45,14.2,418,2 Attack,Field,Adaptability,Medium Fast,Strong Jaw,50,110,15,Normal,Adaptability,50.0
+255,0.4,,Larva,Bug,45,55,45,736,Ordinary,50.0,,47,,7,60,46,4.4,300,1 Attack,Bug,,Medium Fast,Swarm,50,62,15,Bug,,50.0
+120,0.5,,Battery,Bug,95,55,75,737,Ordinary,50.0,Electric,57,,7,140,36,10.5,400,2 Defense,Bug,,Medium Fast,Battery,50,82,15,Bug,,50.0
+45,1.5,,Stag Beetle,Bug,90,145,75,738,Ordinary,50.0,Electric,77,,7,225,43,45.0,500,3 Sp. Atk,Bug,,Medium Fast,Levitate,50,70,15,Bug,,50.0
+225,0.6,,Boxing,Water 3,57,42,47,739,Ordinary,50.0,,47,Iron Fist,7,68,63,7.0,338,1 Attack,Water 3,Anger Point,Medium Fast,Hyper Cutter,50,82,20,Fighting,Anger Point,50.0
+60,1.7,,Woolly Crab,Water 3,77,62,67,740,Ordinary,50.0,Ice,97,Iron Fist,7,167,43,180.0,478,2 Attack,Water 3,Anger Point,Medium Fast,Hyper Cutter,50,132,20,Fighting,Anger Point,50.0
+45,0.6,,Dancing,Flying,70,98,70,741,Ordinary,75.0,Flying,75,,7,167,93,3.4,476,2 Sp. Atk,Flying,,Medium Fast,Dancer,50,70,20,Fire,,25.0
+190,0.1,Fairy,Bee Fly,Bug ,40,55,40,742,Ordinary,50.0,Fairy,40,Shield Dust,7,61,84,0.2,304,1 Speed,Bug ,Sweet Veil,Medium Fast,Honey Gather,50,45,20,Bug,Sweet Veil,50.0
+75,0.2,Fairy,Bee Fly,Bug ,60,95,70,743,Ordinary,50.0,Fairy,60,Shield Dust,7,162,124,0.5,464,2 Speed,Bug ,Sweet Veil,Medium Fast,Honey Gather,50,55,20,Bug,Sweet Veil,50.0
+190,0.5,,Puppy,Field,40,30,40,744,Ordinary,50.0,,45,Vital Spirit,7,56,60,9.2,280,1 Attack,Field,Steadfast,Medium Fast,Keen Eye,50,65,15,Rock,Steadfast,50.0
+90,0.8,,Wolf,Field,65,55,65,745,Ordinary,50.0,,75,Sand Rush,7,170,112,25.0,487,2 Attack,Field,Steadfast,Medium Fast,Keen Eye,50,115,15,Rock,Steadfast,50.0
+60,0.2,,Small Fry,Water 2,20,25,25,746,Ordinary,50.0,,45,,7,61,40,0.3,175,1 HP,Water 2,,Fast,Schooling,50,20,15,Water,,50.0
+190,0.4,,Brutal Star,Water 1,62,43,52,747,Ordinary,50.0,Water,50,Limber,7,61,45,8.0,305,1 Defense,Water 1,Regenerator,Medium Fast,Merciless,50,53,20,Poison,Regenerator,50.0
+75,0.7,,Brutal Star,Water 1,152,53,142,748,Ordinary,50.0,Water,50,Limber,7,173,35,14.5,495,2 Defense,Water 1,Regenerator,Medium Fast,Merciless,50,63,20,Poison,Regenerator,50.0
+190,1.0,,Donkey,Field,70,45,55,749,Ordinary,50.0,,70,Stamina,7,77,45,110.0,385,1 Attack,Field,Inner Focus,Medium Fast,Own Tempo,50,100,20,Ground,Inner Focus,50.0
+60,2.5,,Draft Horse,Field,100,55,85,750,Ordinary,50.0,,100,Stamina,7,175,35,920.0,500,2 Attack,Field,Inner Focus,Medium Fast,Own Tempo,50,125,20,Ground,Inner Focus,50.0
+200,0.3,Water 1,Water Bubble,Bug ,52,40,72,751,Ordinary,50.0,Bug,38,Water Absorb,7,54,27,4.0,269,1 Sp. Def,Bug ,,Medium Fast,Water Bubble,50,40,15,Water,,50.0
+100,1.8,Water 1,Water Bubble,Bug ,92,50,132,752,Ordinary,50.0,Bug,68,Water Absorb,7,159,42,82.0,454,2 Sp. Def,Bug ,,Medium Fast,Water Bubble,50,70,15,Water,,50.0
+190,0.3,,Sickle Grass,Grass,35,50,35,753,Ordinary,50.0,,40,Contrary,7,50,35,1.5,250,1 Attack,Grass,,Medium Fast,Leaf Guard,50,55,20,Grass,,50.0
+75,0.9,,Bloom Sickle,Grass,90,80,90,754,Ordinary,50.0,,70,Contrary,7,168,45,18.5,480,2 Attack,Grass,,Medium Fast,Leaf Guard,50,105,20,Grass,,50.0
+190,0.2,,Illuminating,Grass,55,65,75,755,Ordinary,50.0,Fairy,40,Effect Spore,7,57,15,1.5,285,1 Sp. Def,Grass,Rain Dish,Medium Fast,Illuminate,50,35,20,Grass,Rain Dish,50.0
+75,1.0,,Illuminating,Grass,80,90,100,756,Ordinary,50.0,Fairy,60,Effect Spore,7,142,30,11.5,405,2 Sp. Def,Grass,Rain Dish,Medium Fast,Illuminate,50,45,20,Grass,Rain Dish,50.0
+120,0.6,Monster,Toxic Lizard,Dragon ,40,71,40,757,Ordinary,12.5,Fire,48,Oblivious,7,64,77,4.8,320,1 Speed,Dragon ,,Medium Fast,Corrosion,50,44,20,Poison,,87.5
+45,1.2,Monster,Toxic Lizard,Dragon ,60,111,60,758,Ordinary,100.0,Fire,68,Oblivious,7,168,117,22.2,480,2 Speed,Dragon ,,Medium Fast,Corrosion,50,64,20,Poison,,0.0
+140,0.5,,Flailing,Field,50,45,50,759,Ordinary,50.0,Fighting,70,Klutz,7,68,50,6.8,340,1 Attack,Field,Cute Charm,Medium Fast,Fluffy,50,75,15,Normal,Cute Charm,50.0
+70,2.1,,Strong Arm,Field,80,55,60,760,Ordinary,50.0,Fighting,120,Klutz,7,175,60,135.0,500,2 Attack,Field,Unnerve,Medium Fast,Fluffy,50,125,15,Normal,Unnerve,50.0
+235,0.3,,Fruit,Grass,38,30,38,761,Ordinary,100.0,,42,Oblivious,7,42,32,3.2,210,1 HP,Grass,Sweet Veil,Medium Slow,Leaf Guard,50,30,20,Grass,Sweet Veil,0.0
+120,0.7,,Fruit,Grass,48,40,48,762,Ordinary,100.0,,52,Oblivious,7,102,62,8.2,290,2 Speed,Grass,Sweet Veil,Medium Slow,Leaf Guard,50,40,20,Grass,Sweet Veil,0.0
+45,1.2,,Fruit,Grass,98,50,98,763,Ordinary,100.0,,72,Queenly Majesty,7,255,72,21.4,510,3 Attack,Grass,Sweet Veil,Medium Slow,Leaf Guard,50,120,20,Grass,Sweet Veil,0.0
+60,0.1,,Posy Picker,Grass,90,82,110,764,Ordinary,75.0,,51,Triage,7,170,100,0.3,485,2 Sp. Def,Grass,Natural Cure,Fast,Flower Veil,50,52,20,Fairy,Natural Cure,25.0
+45,1.5,,Sage,Field,80,90,110,765,Ordinary,50.0,Psychic,90,Telepathy,7,172,60,76.0,490,2 Sp. Def,Field,Symbiosis,Slow,Inner Focus,50,60,20,Normal,Symbiosis,50.0
+45,2.0,,Teamwork,Field,90,40,60,766,Ordinary,50.0,,100,Defiant,7,172,80,82.8,490,2 Attack,Field,,Slow,Receiver,50,120,20,Fighting,,50.0
+90,0.5,Water 3,Turn Tail,Bug ,40,20,30,767,Ordinary,50.0,Water,25,,7,46,80,12.0,230,1 Speed,Bug ,,Medium Fast,Wimp Out,50,35,20,Bug,,50.0
+45,2.0,Water 3,Hard Scale,Bug ,140,60,90,768,Ordinary,50.0,Water,75,,7,186,40,108.0,530,2 Defense,Bug ,,Medium Fast,Emergency Exit,50,125,20,Bug,,50.0
+140,0.5,,Sand Heap,Amorphous,80,70,45,769,Ordinary,50.0,Ground,55,Sand Veil,7,64,15,70.0,320,1 Defense,Amorphous,,Medium Fast,Water Compaction,50,55,15,Ghost,,50.0
+60,1.3,,Sand Castle,Amorphous,110,100,75,770,Ordinary,50.0,Ground,85,Sand Veil,7,168,35,250.0,480,2 Defense,Amorphous,,Medium Fast,Water Compaction,50,75,15,Ghost,,50.0
+60,0.3,,Sea Cucumber,Water 1,130,30,130,771,Ordinary,50.0,,55,Unaware,7,144,5,1.2,410,2 Sp. Def,Water 1,,Fast,Innards Out,50,60,15,Water,,50.0
+3,1.9,,Synthetic,Undiscovered,95,95,95,772,Legendary,,,95,,7,107,59,120.5,534,2 HP,Undiscovered,,Slow,Battle Armor,0,95,120,Normal,,
+3,2.3,,Synthetic,Undiscovered,95,95,95,773,Legendary,,,95,,7,257,95,100.5,570,3 HP,Undiscovered,,Slow,RKS System,0,95,120,Normal,,
+30,0.3,,Meteor,Mineral,100,60,100,774,Ordinary,,Flying,60,,7,154,60,40.0,440,"1 Defense, 1 Sp. Def",Mineral,,Medium Slow,Shields Down,50,60,25,Rock,,
+45,0.4,,Drowsing,Field,65,75,95,775,Ordinary,50.0,,65,,7,168,65,19.9,480,2 Attack,Field,,Slow,Comatose,50,115,20,Normal,,50.0
+70,2.0,Monster,Blast Turtle,Dragon ,135,91,85,776,Ordinary,50.0,Dragon,60,,7,170,36,212.0,485,2 Defense,Dragon ,,Medium Fast,Shell Armor,50,78,20,Fire,,50.0
+180,0.3,Field,Roly-Poly,Fairy ,63,40,73,777,Ordinary,50.0,Steel,65,Lightning Rod,7,152,96,3.3,435,2 Attack,Fairy ,Sturdy,Medium Fast,Iron Barbs,50,98,10,Electric,Sturdy,50.0
+45,0.2,,Disguise,Amorphous,80,50,105,778,Ordinary,50.0,Fairy,55,,7,167,96,0.7,476,2 Sp. Def,Amorphous,,Medium Fast,Disguise,50,90,20,Ghost,,50.0
+80,0.9,,Gnash Teeth,Water 2,70,70,70,779,Ordinary,50.0,Psychic,68,Strong Jaw,7,166,92,19.0,475,2 Attack,Water 2,Wonder Skin,Medium Fast,Dazzling,50,105,15,Water,Wonder Skin,50.0
+70,3.0,Monster,Placid,Dragon ,85,135,91,780,Ordinary,50.0,Dragon,78,Sap Sipper,7,170,36,185.0,485,2 Sp. Atk,Dragon ,Cloud Nine,Medium Fast,Berserk,50,60,20,Normal,Cloud Nine,50.0
+25,3.9,,Sea Creeper,Mineral,100,86,90,781,Ordinary,,Grass,70,,7,181,40,210.0,517,2 Attack,Mineral,,Medium Fast,Steelworker,50,131,25,Ghost,,
+45,0.6,,Scaly,Dragon,65,45,45,782,Ordinary,50.0,,45,Soundproof,7,60,45,29.7,300,1 Defense,Dragon,Overcoat,Slow,Bulletproof,50,55,40,Dragon,Overcoat,50.0
+45,1.2,,Scaly,Dragon,90,65,70,783,Ordinary,50.0,Fighting,55,Soundproof,7,147,65,47.0,420,2 Defense,Dragon,Overcoat,Slow,Bulletproof,50,75,40,Dragon,Overcoat,50.0
+45,1.6,,Scaly,Dragon,125,100,105,784,Ordinary,50.0,Fighting,75,Soundproof,7,270,85,78.2,600,3 Defense,Dragon,Overcoat,Slow,Bulletproof,50,110,40,Dragon,Overcoat,50.0
+3,1.8,,Land Spirit,Undiscovered,85,95,75,785,Legendary,,Fairy,70,Telepathy,7,257,130,20.5,570,3 Speed,Undiscovered,,Slow,Electric Surge,50,115,15,Electric,,
+3,1.2,,Land Spirit,Undiscovered,75,130,115,786,Legendary,,Fairy,70,Telepathy,7,257,95,18.6,570,3 Sp. Atk,Undiscovered,,Slow,Psychic Surge,50,85,15,Psychic,,
+3,1.9,,Land Spirit,Undiscovered,115,85,95,787,Legendary,,Fairy,70,Telepathy,7,257,75,45.5,570,3 Attack,Undiscovered,,Slow,Grassy Surge,50,130,15,Grass,,
+3,1.3,,Land Spirit,Undiscovered,115,95,130,788,Legendary,,Fairy,70,Telepathy,7,257,85,21.2,570,3 Sp. Def,Undiscovered,,Slow,Misty Surge,50,75,15,Water,,
+45,0.2,,Nebula,Undiscovered,31,29,31,789,Legendary,,,43,,7,40,37,0.1,200,1 HP,Undiscovered,,Slow,Unaware,0,29,120,Psychic,,
+45,0.1,,Protostar,Undiscovered,131,29,131,790,Legendary,,,43,,7,140,37,999.9,400,"1 Defense, 1 Sp. Def",Undiscovered,,Slow,Sturdy,0,29,120,Psychic,,
+45,3.4,,Sunne,Undiscovered,107,113,89,791,Legendary,,Steel,137,,7,306,97,230.0,680,3 Attack,Undiscovered,,Slow,Full Metal Body,0,137,120,Psychic,,
+45,4.0,,Moone,Undiscovered,89,137,107,792,Legendary,,Ghost,137,,7,306,97,120.0,680,3 Sp. Atk,Undiscovered,,Slow,Shadow Shield,0,113,120,Psychic,,
+45,1.2,,Parasite,Undiscovered,47,127,131,793,Ultra Beast,,Poison,109,,7,257,103,55.5,570,3 Sp. Def,Undiscovered,,Slow,Beast Boost,0,53,120,Rock,,
+45,2.4,,Swollen,Undiscovered,139,53,53,794,Ultra Beast,,Fighting,107,,7,257,79,333.6,570,"1 Attack, 2 Defense",Undiscovered,,Slow,Beast Boost,0,139,120,Bug,,
+45,1.8,,Lissome,Undiscovered,37,137,37,795,Ultra Beast,,Fighting,71,,7,257,151,25.0,570,3 Speed,Undiscovered,,Slow,Beast Boost,0,137,120,Bug,,
+45,3.8,,Glowing,Undiscovered,71,173,71,796,Ultra Beast,,,83,,7,257,83,100.0,570,3 Sp. Atk,Undiscovered,,Slow,Beast Boost,0,89,120,Electric,,
+45,9.2,,Launch,Undiscovered,103,107,101,797,Ultra Beast,,Flying,97,,7,257,61,999.9,570,"1 Attack, 1 Defense, 1 Sp. Atk",Undiscovered,,Slow,Beast Boost,0,101,120,Steel,,
+45,0.3,,Drawn Sword,Undiscovered,131,59,31,798,Ultra Beast,,Steel,59,,7,257,109,0.1,570,3 Attack,Undiscovered,,Slow,Beast Boost,0,181,120,Grass,,
+45,5.5,,Junkivore,Undiscovered,53,97,53,799,Ultra Beast,,Dragon,223,,7,257,43,888.0,570,3 HP,Undiscovered,,Slow,Beast Boost,0,101,120,Dark,,
+255,2.4,,Prism,Undiscovered,101,127,89,800,Legendary,,,97,,7,270,79,230.0,600,"1 Attack, 2 Sp. Atk",Undiscovered,,Slow,Prism Armor,0,107,120,Psychic,,
+3,1.0,,Artificial,Undiscovered,115,130,115,801,Mythical,,Fairy,80,,7,300,65,80.5,600,3 Sp. Atk,Undiscovered,,Slow,Soul-Heart,0,95,120,Steel,,
+3,0.7,,Gloomdweller,Undiscovered,80,90,90,802,Mythical,,Ghost,90,,7,270,125,22.2,600,"2 Attack, 1 Speed",Undiscovered,,Slow,Technician,0,125,120,Fighting,,
+45,0.6,,Poison Pin,Undiscovered,67,73,67,803,Ultra Beast,,,67,,7,189,73,1.8,420,1 Speed,Undiscovered,,Slow,Beast Boost,0,73,120,Poison,,
+45,3.6,,Poison Pin,Undiscovered,73,127,73,804,Ultra Beast,,Dragon,73,,7,243,121,150.0,540,3 Sp. Atk,Undiscovered,,Slow,Beast Boost,0,73,120,Poison,,
+30,5.5,,Rampart,Undiscovered,211,53,101,805,Ultra Beast,,Steel,61,,7,257,13,820.0,570,3 Defense,Undiscovered,,Slow,Beast Boost,0,131,120,Rock,,
+30,1.8,,Fireworks,Undiscovered,53,151,79,806,Ultra Beast,,Ghost,53,,7,257,107,13.0,570,3 Sp. Atk,Undiscovered,,Slow,Beast Boost,0,127,120,Fire,,
+3,1.5,,Thunderclap,Undiscovered,75,102,80,807,Mythical,,,88,,7,270,143,44.5,600,3 Speed,Undiscovered,,Slow,Volt Absorb,0,112,120,Electric,,
+3,0.2,,Hex Nut,Undiscovered,65,55,35,808,Mythical,,,46,,7,150,34,8.0,300,1 Attack,Undiscovered,,Slow,Magnet Pull,0,65,120,Steel,,
+3,2.5,,Hex Nut,Undiscovered,143,80,65,809,Mythical,,,135,,7,300,34,800.0,600,3 Attack,Undiscovered,,Slow,Iron Fist,0,143,120,Steel,,
+45,0.3,Grass,Chimp,Field ,50,40,40,810,Ordinary,12.5,,50,Grassy Surge,8,62,65,5.0,310,1 Attack,Field ,,Medium Slow,Overgrow,50,65,20,Grass,,87.5
+45,0.7,Grass,Beat,Field ,70,55,60,811,Ordinary,12.5,,70,Grassy Surge,8,147,80,14.0,420,2 Attack,Field ,,Medium Slow,Overgrow,50,85,20,Grass,,87.5
+45,2.1,Grass,Drummer,Field ,90,60,70,812,Ordinary,12.5,,100,Grassy Surge,8,265,85,90.0,530,3 Attack,Field ,,Medium Slow,Overgrow,50,125,20,Grass,,87.5
+45,0.3,Human-Like,Rabbit,Field ,40,40,40,813,Ordinary,12.5,,50,Libero,8,62,69,4.5,310,1 Speed,Field ,,Medium Slow,Blaze,50,71,20,Fire,,87.5
+45,0.6,Human-Like,Rabbit,Field ,60,55,60,814,Ordinary,12.5,,65,Libero,8,147,94,9.0,420,2 Speed,Field ,,Medium Slow,Blaze,50,86,20,Fire,,87.5
+45,1.4,Human-Like,Striker,Field ,75,65,75,815,Ordinary,12.5,,80,Libero,8,265,119,33.0,530,3 Speed,Field ,,Medium Slow,Blaze,50,116,20,Fire,,87.5
+45,0.3,Water 1,Water Lizard,Field ,40,70,40,816,Ordinary,12.5,,50,Sniper,8,62,70,4.0,310,"1 Sp. Def, 1 Speed",Field ,,Medium Slow,Torrent,50,40,20,Water,,87.5
+45,0.7,Water 1,Water lizard,Field ,55,95,55,817,Ordinary,12.5,,65,Sniper,8,147,90,11.5,420,2 Sp. Atk,Field ,,Medium Slow,Torrent,50,60,20,Water,,87.5
+45,1.9,Water 1,Secret Agent,Field ,65,125,65,818,Ordinary,12.5,,70,Sniper,8,265,120,45.2,530,3 Speed,Field ,,Medium Slow,Torrent,50,85,20,Water,,87.5
+255,0.3,,Cheeky,Field,55,35,35,819,Ordinary,50.0,,70,Gluttony,8,55,25,2.5,275,1 HP,Field,,Medium Fast,Cheek Pouch,50,55,20,Normal,,50.0
+90,0.6,,Greedy,Field,95,55,75,820,Ordinary,50.0,,120,Gluttony,8,161,20,6.0,460,2 HP,Field,,Medium Fast,Cheek Pouch,50,95,20,Normal,,50.0
+255,0.2,,Tiny Bird,Flying,35,33,35,821,Ordinary,50.0,,38,Unnerve,8,49,57,1.8,245,1 Speed,Flying,Big Pecks,Medium Slow,Keen Eye,50,47,15,Flying,Big Pecks,50.0
+120,0.8,,Raven,Flying,55,43,55,822,Ordinary,50.0,,68,Unnerve,8,128,77,16.0,365,2 Speed,Flying,Big Pecks,Medium Slow,Keen Eye,50,67,15,Flying,Big Pecks,50.0
+45,2.2,,Raven,Flying,105,53,85,823,Ordinary,50.0,Steel,98,Unnerve,8,248,67,75.0,495,3 Defense,Flying,Mirror Armor,Medium Slow,Pressure,50,87,15,Flying,Mirror Armor,50.0
+255,0.4,,Larva,Bug,20,25,45,824,Ordinary,50.0,,25,Compound Eyes,8,36,45,8.0,180,1 Sp. Def,Bug,Telepathy,Medium Fast,Swarm,50,20,15,Bug,Telepathy,50.0
+120,0.4,,Radome,Bug,80,50,90,825,Ordinary,50.0,Psychic,50,Compound Eyes,8,117,30,19.5,335,2 Sp. Def,Bug,Telepathy,Medium Fast,Swarm,50,35,15,Bug,Telepathy,50.0
+45,0.4,,Seven Spot,Bug,110,80,120,826,Ordinary,50.0,Psychic,60,Frisk,8,253,90,40.8,505,3 Sp. Def,Bug,Telepathy,Medium Fast,Swarm,50,45,15,Bug,Telepathy,50.0
+255,0.6,,Fox,Field,28,47,52,827,Ordinary,50.0,,40,Unburden,8,49,50,8.9,245,1 Sp. Def,Field,Stakeout,Fast,Run Away,50,28,15,Dark,Stakeout,50.0
+127,1.2,,Fox,Field,58,87,92,828,Ordinary,50.0,,70,Unburden,8,159,90,19.9,455,2 Sp. Def,Field,Stakeout,Fast,Run Away,50,58,15,Dark,Stakeout,50.0
+190,0.4,,Flowering,Grass,60,40,60,829,Ordinary,50.0,,40,Regenerator,8,50,10,2.2,250,1 Sp. Def,Grass,Effect Spore,Medium Fast,Cotton Down,50,40,20,Grass,Effect Spore,50.0
+75,0.5,,Cotton Bloom,Grass,90,80,120,830,Ordinary,50.0,,60,Regenerator,8,161,60,2.5,460,2 Sp. Def,Grass,Effect Spore,Medium Fast,Cotton Down,50,50,20,Grass,Effect Spore,50.0
+255,0.6,,Sheep,Field,55,40,45,831,Ordinary,50.0,,42,Run Away,8,122,48,6.0,270,1 Defense,Field,Bulletproof,Medium Fast,Fluffy,50,40,15,Normal,Bulletproof,50.0
+127,1.3,,Sheep,Field,100,60,90,832,Ordinary,50.0,,72,Steadfast,8,172,88,43.0,490,2 Defense,Field,Bulletproof,Medium Fast,Fluffy,50,80,15,Normal,Bulletproof,50.0
+255,0.3,Water 1,Snapping,Monster ,50,38,38,833,Ordinary,50.0,,50,Shell Armor,8,57,44,8.5,284,1 Attack,Monster ,Swift Swim,Medium Fast,Strong Jaw,50,64,20,Water,Swift Swim,50.0
+75,1.0,Water 1,Bite,Monster ,90,48,68,834,Ordinary,50.0,Rock,90,Shell Armor,8,170,74,115.5,485,2 Attack,Monster ,Swift Swim,Medium Fast,Strong Jaw,50,115,20,Water,Swift Swim,50.0
+255,0.3,,Puppy,Field,50,40,50,835,Ordinary,50.0,,59,Rattled,8,54,26,13.5,270,1 HP,Field,,Fast,Ball Fetch,50,45,20,Electric,,50.0
+45,1.0,,Dog,Field,60,90,60,836,Ordinary,50.0,,69,Competitive,8,172,121,34.0,490,2 Speed,Field,,Fast,Strong Jaw,50,90,20,Electric,,50.0
+255,0.3,,Coal,Mineral,50,40,50,837,Ordinary,50.0,,30,Heatproof,8,48,30,12.0,240,1 Defense,Mineral,Flash Fire,Medium Slow,Steam Engine,50,40,15,Rock,Flash Fire,50.0
+120,1.1,,Coal,Mineral,90,60,70,838,Ordinary,50.0,Fire,80,Flame Body,8,144,50,78.0,410,2 Defense,Mineral,Flash Fire,Medium Slow,Steam Engine,50,60,15,Rock,Flash Fire,50.0
+45,2.8,,Coal,Mineral,120,80,90,839,Ordinary,50.0,Fire,110,Flame Body,8,255,30,310.5,510,3 Defense,Mineral,Flash Fire,Medium Slow,Steam Engine,50,80,15,Rock,Flash Fire,50.0
+255,0.2,Grass,Apple Core,Dragon ,80,40,40,840,Ordinary,50.0,Dragon,40,Gluttony,8,52,20,0.5,260,1 Defense,Dragon ,Bulletproof,Erratic,Ripen,50,40,20,Grass,Bulletproof,50.0
+45,0.3,Grass,Apple Wing,Dragon ,80,95,60,841,Ordinary,50.0,Dragon,70,Gluttony,8,170,70,1.0,485,2 Attack,Dragon ,Hustle,Erratic,Ripen,50,110,20,Grass,Hustle,50.0
+45,0.4,Grass,Apple Nectar,Dragon ,80,100,80,842,Ordinary,50.0,Dragon,110,Gluttony,8,170,30,13.0,485,2 HP,Dragon ,Thick Fat,Erratic,Ripen,50,85,20,Grass,Thick Fat,50.0
+255,2.2,Field,Sand Snake,Dragon ,75,35,50,843,Ordinary,50.0,,52,Shed Skin,8,63,46,7.6,315,1 Defense,Dragon ,Sand Veil,Medium Fast,Sand Spit,50,57,20,Ground,Sand Veil,50.0
+120,3.8,Field,Sand Snake,Dragon ,125,65,70,844,Ordinary,50.0,,72,Shed Skin,8,179,71,65.5,510,2 Defense,Dragon ,Sand Veil,Medium Fast,Sand Spit,50,107,20,Ground,Sand Veil,50.0
+45,0.8,Water 1,Gulp,Flying ,55,85,95,845,Ordinary,50.0,Water,70,,8,166,85,18.0,475,2 Sp. Def,Flying ,,Medium Fast,Gulp Missile,50,85,20,Flying,,50.0
+255,0.5,,Rush,Water 2,40,40,30,846,Ordinary,50.0,,41,Propeller Tail,8,56,66,1.0,280,1 Speed,Water 2,,Slow,Swift Swim,50,63,20,Water,,50.0
+60,1.3,,Skewer,Water 2,60,60,50,847,Ordinary,50.0,,61,Propeller Tail,8,172,136,30.0,490,2 Speed,Water 2,,Slow,Swift Swim,50,123,20,Water,,50.0
+75,0.4,,Baby,Undiscovered,35,54,35,848,Baby Pokemon,50.0,Poison,40,Static,8,48,40,11.0,242,1 Sp. Atk,Undiscovered,Klutz,Medium Slow,Rattled,50,38,25,Electric,Klutz,50.0
+45,1.6,,Punk,Human-Like,70,114,70,849,Ordinary,50.0,Poison,75,Plus,8,176,75,40.0,502,2 Sp. Atk,Human-Like,Technician,Medium Slow,Punk Rock,50,98,25,Electric,Technician,50.0
+190,0.7,,Radiator,Bug,45,50,50,850,Ordinary,50.0,Bug,50,White Smoke,8,61,45,1.0,305,1 Attack,Bug,Flame Body,Medium Fast,Flash Fire,50,65,20,Fire,Flame Body,50.0
+75,3.0,,Radiator,Bug,65,90,90,851,Ordinary,50.0,Bug,100,White Smoke,8,184,65,120.0,525,2 Attack,Bug,Flame Body,Medium Fast,Flash Fire,50,115,20,Fire,Flame Body,50.0
+180,0.6,Water 1,Tantrum,Human-Like ,60,50,50,852,Ordinary,50.0,,50,Technician,8,62,32,4.0,310,1 Attack,Human-Like ,,Medium Slow,Limber,50,68,25,Fighting,,50.0
+45,1.6,Water 1,Tantrum,Human-Like ,90,70,80,853,Ordinary,50.0,,80,Technician,8,168,42,39.0,480,2 Attack,Human-Like ,,Medium Slow,Limber,50,118,25,Fighting,,50.0
+120,0.1,Mineral,Black Tea,Amorphous ,45,74,54,854,Ordinary,,,40,Cursed Body,8,62,50,0.2,308,1 Sp. Atk,Amorphous ,,Medium Fast,Weak Armor,50,45,20,Ghost,,
+60,0.2,Mineral,Black Tea,Amorphous ,65,134,114,855,Ordinary,,,60,Cursed Body,8,178,70,0.4,508,2 Sp. Atk,Amorphous ,,Medium Fast,Weak Armor,50,65,20,Ghost,,
+235,0.4,,Calm,Fairy,45,56,53,856,Ordinary,100.0,,42,Anticipation,8,53,39,3.4,265,1 Sp. Atk,Fairy,Magic Bounce,Slow,Healer,50,30,20,Psychic,Magic Bounce,0.0
+120,0.6,,Serene,Fairy,65,86,73,857,Ordinary,100.0,,57,Anticipation,8,130,49,4.8,370,2 Sp. Atk,Fairy,Magic Bounce,Slow,Healer,50,40,20,Psychic,Magic Bounce,0.0
+45,2.1,,Silent,Fairy,95,136,103,858,Ordinary,100.0,Fairy,57,Anticipation,8,255,29,5.1,510,3 Sp. Atk,Fairy,Magic Bounce,Slow,Healer,50,90,20,Psychic,Magic Bounce,0.0
+255,0.4,Human-Like,Wily,Fairy ,30,55,40,859,Ordinary,0.0,Fairy,45,Frisk,8,53,50,5.5,265,1 Sp. Atk,Fairy ,Pickpocket,Medium Fast,Prankster,50,45,20,Dark,Pickpocket,100.0
+120,0.8,Human-Like,Devious,Fairy ,45,75,55,860,Ordinary,0.0,Fairy,65,Frisk,8,130,70,12.5,370,2 Sp. Atk,Fairy ,Pickpocket,Medium Fast,Prankster,50,60,20,Dark,Pickpocket,100.0
+45,1.5,Human-Like,Bulk Up,Fairy ,65,95,75,861,Ordinary,0.0,Fairy,95,Frisk,8,255,60,61.0,510,3 Attack,Fairy ,Pickpocket,Medium Fast,Prankster,50,120,20,Dark,Pickpocket,100.0
+45,1.6,,Blocking,Field,101,60,81,862,Ordinary,50.0,Normal,93,Guts,8,260,95,46.0,520,3 Defense,Field,Defiant,Medium Fast,Reckless,50,90,15,Dark,Defiant,50.0
+90,0.8,,Viking,Field,100,50,60,863,Ordinary,50.0,,70,Tough Claws,8,154,50,28.0,440,2 Attack,Field,Steely Spirit,Medium Fast,Battle Armor,50,110,20,Steel,Steely Spirit,50.0
+30,1.0,Water 3,Coral,Water 1 ,50,145,130,864,Ordinary,75.0,,60,Perish Body,8,179,30,0.4,510,2 Sp. Atk,Water 1 ,,Fast,Weak Armor,50,95,20,Ghost,,25.0
+45,0.8,Flying,Wild Duck,Field ,95,68,82,865,Ordinary,50.0,,62,Scrappy,8,177,65,117.0,507,2 Attack,Field ,,Medium Fast,Steadfast,50,135,20,Fighting,,50.0
+45,1.5,,Comedian,Human-Like,75,110,100,866,Ordinary,50.0,Psychic,80,Screen Cleaner,8,182,70,58.2,520,3 Sp. Atk,Human-Like,Ice Body,Medium Fast,Tangled Feet,50,85,25,Ice,Ice Body,50.0
+90,1.6,Mineral,Grudge,Amorphous ,145,50,105,867,Ordinary,50.0,Ghost,58,,8,169,30,66.6,483,2 Defense,Amorphous ,,Medium Fast,Wandering Spirit,50,95,25,Ground,,50.0
+200,0.2,Fairy,Cream,Amorphous ,40,50,61,868,Ordinary,100.0,,45,Aroma Veil,8,54,34,0.3,270,1 Sp. Def,Amorphous ,,Medium Fast,Sweet Veil,50,40,20,Fairy,,0.0
+100,0.3,Fairy,Cream,Amorphous ,75,110,121,869,Ordinary,100.0,,65,Aroma Veil,8,173,64,0.5,495,2 Sp. Def,Amorphous ,,Medium Fast,Sweet Veil,50,60,20,Fairy,,0.0
+45,3.0,Mineral,Formation,Fairy ,100,70,60,870,Ordinary,,,65,Defiant,8,165,75,62.0,470,"2 Attack, 1 Sp. Def",Fairy ,,Medium Fast,Battle Armor,50,100,25,Fighting,,
+75,0.3,Water 1,Sea Urchin,Amorphous ,95,91,85,871,Ordinary,50.0,,48,Electric Surge,8,152,15,1.0,435,2 Attack,Amorphous ,,Medium Fast,Lightning Rod,50,101,20,Electric,,50.0
+190,0.3,,Worm,Bug,35,45,30,872,Ordinary,50.0,Bug,30,Ice Scales,8,37,20,3.8,185,1 Sp. Atk,Bug,,Medium Fast,Shield Dust,50,25,20,Ice,,50.0
+75,1.3,,Frost Moth,Bug,60,125,90,873,Ordinary,50.0,Bug,70,Ice Scales,8,166,65,42.0,475,2 Sp. Atk,Bug,,Medium Fast,Shield Dust,50,65,20,Ice,,50.0
+60,2.5,,Big Rock,Mineral,135,20,20,874,Ordinary,50.0,,100,,8,165,70,520.0,470,2 Defense,Mineral,,Slow,Power Spot,50,125,25,Rock,,50.0
+60,1.4,Water 1,Penguin,Field ,110,65,90,875,Ordinary,50.0,,75,,8,165,50,89.0,470,2 Defense,Field ,,Slow,Ice Face,50,80,25,Ice,,50.0
+30,0.9,,Emotion,Fairy,55,105,95,876,Ordinary,0.0,Normal,60,Synchronize,8,166,95,28.0,475,2 Sp. Atk,Fairy,Psychic Surge,Fast,Inner Focus,140,65,40,Psychic,Psychic Surge,100.0
+180,0.3,Field,Two-Sided,Fairy ,58,70,58,877,Ordinary,50.0,Dark,58,,8,153,97,3.0,436,2 Speed,Fairy ,,Medium Fast,Hunger Switch,50,95,10,Electric,,50.0
+190,1.2,Mineral,Copperderm,Field ,49,40,49,878,Ordinary,50.0,,72,Heavy Metal,8,66,40,100.0,330,1 Attack,Field ,,Medium Fast,Sheer Force,50,80,25,Steel,,50.0
+90,3.0,Mineral,Copperderm,Field ,69,80,69,879,Ordinary,50.0,,122,Heavy Metal,8,175,30,650.0,500,2 Attack,Field ,,Medium Fast,Sheer Force,50,130,25,Steel,,50.0
+45,1.8,,Fossil,Undiscovered,90,80,70,880,Fossil,,Dragon,90,Hustle,8,177,75,190.0,505,2 Attack,Undiscovered,Sand Rush,Slow,Volt Absorb,50,100,35,Electric,Sand Rush,
+45,2.3,,Fossil,Undiscovered,90,90,80,881,Fossil,,Ice,90,Static,8,177,55,150.0,505,2 Attack,Undiscovered,Slush Rush,Slow,Volt Absorb,50,100,35,Electric,Slush Rush,
+45,2.3,,Fossil,Undiscovered,100,70,80,882,Fossil,,Dragon,90,Strong Jaw,8,177,75,215.0,505,2 Defense,Undiscovered,Sand Rush,Slow,Water Absorb,50,90,35,Water,Sand Rush,
+45,2.0,,Fossil,Undiscovered,100,80,90,883,Fossil,,Ice,90,Ice Body,8,177,55,175.0,505,2 Defense,Undiscovered,Slush Rush,Slow,Water Absorb,50,90,35,Water,Slush Rush,
+45,1.8,Mineral,Alloy,Dragon ,115,120,50,884,Ordinary,50.0,Dragon,70,Heavy Metal,8,187,85,40.0,535,2 Sp. Atk,Dragon ,Stalwart,Medium Fast,Light Metal,50,95,30,Steel,Stalwart,50.0
+45,0.5,Dragon,Lingering,Amorphous ,30,40,30,885,Ordinary,50.0,Ghost,28,Infiltrator,8,54,82,2.0,270,1 Speed,Amorphous ,Cursed Body,Slow,Clear Body,50,60,40,Dragon,Cursed Body,50.0
+45,1.4,Dragon,Caretaker,Amorphous ,50,60,50,886,Ordinary,50.0,Ghost,68,Infiltrator,8,144,102,11.0,410,2 Speed,Amorphous ,Cursed Body,Slow,Clear Body,50,80,40,Dragon,Cursed Body,50.0
+45,3.0,Dragon,Stealth,Amorphous ,75,100,75,887,Ordinary,50.0,Ghost,88,Infiltrator,8,300,142,50.0,600,3 Speed,Amorphous ,Cursed Body,Slow,Clear Body,50,120,40,Dragon,Cursed Body,50.0
+10,2.8,,Warrior,Undiscovered,115,80,115,888,Legendary,,,92,,8,330,138,110.0,660,3 Speed,Undiscovered,,Slow,Intrepid Sword,0,120,120,Fairy,,
+10,2.9,,Warrior,Undiscovered,115,80,115,889,Legendary,,,92,,8,330,138,210.0,660,3 Speed,Undiscovered,,Slow,Dauntless Shield,0,120,120,Fighting,,
+255,20.0,,Gigantic,Undiscovered,95,145,95,890,Legendary,,Dragon,140,,8,345,130,950.0,690,3 HP,Undiscovered,,Slow,Pressure,0,85,120,Poison,,
+3,0.6,,Wushu,Undiscovered,60,53,50,891,Legendary,12.5,,60,,8,77,72,12.0,385,1 Attack,Undiscovered,,Slow,Inner Focus,50,90,120,Fighting,,87.5
+3,1.9,,Wushu,Undiscovered,100,63,60,892,Legendary,12.5,Dark,100,,8,275,97,105.0,550,3 Attack,Undiscovered,,Slow,Unseen Fist,50,130,120,Fighting,,87.5
+3,1.8,,Rogue Monkey,Undiscovered,105,70,95,893,Mythical,,Grass,105,,8,300,105,70.0,600,3 Attack,Undiscovered,,Slow,Leaf Guard,0,120,120,Dark,,
+3,1.2,,Electron,Undiscovered,50,100,50,894,Legendary,,,80,,8,290,200,145.0,580,3 Speed,Undiscovered,,Slow,Transistor,35,100,120,Electric,,
+3,2.1,,Dragon Orb,Undiscovered,50,100,50,895,Legendary,,,200,,8,290,80,200.0,580,3 HP,Undiscovered,,Slow,Dragon's Maw,35,100,120,Dragon,,
+3,2.2,,Wild Horse,Undiscovered,130,65,110,896,Legendary,,,100,,8,290,30,800.0,580,3 Attack,Undiscovered,,Slow,Chilling Neigh,35,145,120,Ice,,
+3,2.0,,Swift Horse,Undiscovered,60,145,80,897,Legendary,,,100,,8,290,130,44.5,580,3 Sp. Atk,Undiscovered,,Slow,Grim Neigh,35,65,120,Ghost,,
+3,1.1,,King,Undiscovered,80,80,80,898,Legendary,,Grass,100,,8,250,80,7.7,500,3 HP,Undiscovered,,Slow,Unnerve,100,80,120,Psychic,,
+45,1.8,,Big Horn,Field,72,105,75,899,Ordinary,50.0,Psychic,103,Frisk,8,263,65,95.1,525,"1 Attack, 1 Sp. Atk",Field,Sap Sipper,Slow,Intimidate,50,105,20,Normal,Sap Sipper,50.0
+15,1.8,,Axe,Bug,95,45,70,900,Ordinary,50.0,Rock,70,Sheer Force,8,175,85,89.0,500,3 Attack,Bug,Sharpness,Medium Fast,Swarm,50,135,20,Bug,Sharpness,50.0
+20,2.4,,Peat,Field,105,45,80,901,Ordinary,50.0,Normal,130,Bulletproof,8,275,50,290.0,550,3 Attack,Field,Unnerve,Medium Fast,Guts,50,140,20,Ground,Unnerve,50.0
+45,3.0,,Big Fish,Water 2,65,80,75,902,Ordinary,0.0,Ghost,120,Adaptability,8,265,78,110.0,530,3 HP,Water 2,Mold Breaker,Medium Fast,Swift Swim,50,112,20,Water,Mold Breaker,100.0
+20,1.3,,Free Climb,Field,60,40,80,903,Ordinary,50.0,Poison,80,Unburden,8,102,120,43.0,510,2 Attack,Field,Poison Touch,Medium Slow,Pressure,50,130,20,Fighting,Poison Touch,50.0
+45,2.5,,Pin Cluster,Water 2,95,65,65,904,Ordinary,50.0,Poison,85,Swift Swim,8,179,85,60.5,510,2 Attack,Water 2,Intimidate,Medium Fast,Poison Point,50,115,20,Dark,Intimidate,50.0
+3,1.6,,Love-Hate,Undiscovered,70,135,80,905,Legendary,100.0,Flying,74,Contrary,8,116,106,48.0,580,3 Sp. Atk,Undiscovered,,Slow,Cute Charm,50,115,20,Fairy,,0.0
+45,0.4,Grass,Grass Cat,Field ,54,45,45,906,Ordinary,12.5,,40,Protean,9,62,65,4.1,310,1 Speed,Field ,,Medium Slow,Overgrow,50,61,20,Grass,,87.5
+45,0.9,Grass,Grass Cat,Field ,63,60,63,907,Ordinary,12.5,,61,Protean,9,144,83,12.2,410,2 Speed,Field ,,Medium Slow,Overgrow,50,80,20,Grass,,87.5
+45,1.5,Grass,Magician,Field ,70,81,70,908,Ordinary,12.5,Dark,76,Protean,9,265,123,31.2,530,3 Speed,Field ,,Medium Slow,Overgrow,50,110,20,Grass,,87.5
+45,0.4,,Fire Croc,Field,59,63,40,909,Ordinary,12.5,,67,Unaware,9,62,36,9.8,310,1 HP,Field,,Medium Slow,Blaze,50,45,20,Fire,,87.5
+45,1.0,,Fire Croc,Field,78,90,58,910,Ordinary,12.5,,81,Unaware,9,144,49,30.7,411,2 Sp. Atk,Field,,Medium Slow,Blaze,50,55,20,Fire,,87.5
+45,1.6,,Singer,Field,100,110,75,911,Ordinary,12.5,Ghost,104,Unaware,9,265,66,326.5,530,3 Sp. Atk,Field,,Medium Slow,Blaze,50,75,20,Fire,,87.5
+45,0.5,Water 1,Duckling,Flying ,45,50,45,912,Ordinary,12.5,,55,Moxie,9,62,50,6.1,310,1 Attack,Flying ,,Medium Slow,Torrent,50,65,20,Water,,87.5
+45,1.2,Water 1,Practicing,Flying ,65,65,60,913,Ordinary,12.5,,70,Moxie,9,144,65,21.5,410,2 Attack,Flying ,,Medium Slow,Torrent,50,85,20,Water,,87.5
+45,1.8,Water 1,Dancer,Flying ,80,85,75,914,Ordinary,12.5,Fighting,85,Moxie,9,265,85,61.9,530,3 Attack,Flying ,,Medium Slow,Torrent,50,120,20,Water,,87.5
+255,0.5,,Hog,Field,40,35,45,915,Ordinary,50.0,,54,Gluttony,9,51,35,10.2,254,1 HP,Field,Thick Fat,Medium Fast,Aroma Veil,50,45,15,Normal,Thick Fat,50.0
+100,1.0,,Hog,Field,75,59,80,916,Ordinary,0.0,,110,Gluttony,9,171,65,120.0,489,2 HP,Field,Thick Fat,Medium Fast,Lingering Aroma,50,100,15,Normal,Thick Fat,100.0
+255,0.3,,String Ball,Bug,45,29,40,917,Ordinary,50.0,,35,Stakeout,9,42,20,4.0,210,1 Defense,Bug,,Erratic,Insomnia,50,41,15,Bug,,50.0
+120,1.0,,Trap,Bug,92,52,86,918,Ordinary,50.0,,60,Stakeout,9,141,35,16.5,404,2 Defense,Bug,,Erratic,Insomnia,50,79,15,Bug,,50.0
+190,0.2,,Grasshopper,Bug,40,21,25,919,Ordinary,50.0,,33,Tinted Lens,9,42,45,1.0,210,1 Attack,Bug,,Medium Fast,Swarm,20,46,20,Bug,,50.0
+30,1.0,,Grasshopper,Bug,78,52,55,920,Ordinary,50.0,Dark,71,Tinted Lens,9,158,92,17.5,450,2 Attack,Bug,,Medium Fast,Swarm,0,102,20,Bug,,50.0
+190,0.3,,Mouse,Field,20,40,25,921,Ordinary,50.0,,45,Natural Cure,9,48,60,2.5,240,1 Speed,Field,Iron Fist,Medium Fast,Static,50,50,15,Electric,Iron Fist,50.0
+80,0.4,,Mouse,Field,40,50,40,922,Ordinary,50.0,Fighting,60,Natural Cure,9,123,85,6.5,350,2 Speed,Field,Iron Fist,Medium Fast,Volt Absorb,50,75,15,Electric,Iron Fist,50.0
+45,0.9,,Hands-On,Field,70,70,60,923,Ordinary,50.0,Fighting,70,Natural Cure,9,245,105,41.0,490,3 Attack,Field,Iron Fist,Medium Fast,Volt Absorb,50,115,15,Electric,Iron Fist,50.0
+150,0.3,Field,Couple,Fairy ,45,40,45,924,Ordinary,,,50,Pickup,9,61,75,1.8,305,1 Speed,Fairy ,Own Tempo,Fast,Run Away,50,50,10,Normal,Own Tempo,
+75,0.3,Field,Family,Fairy ,70,65,75,925,Ordinary,,,74,Cheek Pouch,9,165,111,2.8,470,2 Speed,Fairy ,Technician,Fast,Friend Guard,50,75,10,Normal,Technician,
+190,0.3,Mineral,Puppy,Field ,70,30,55,926,Ordinary,50.0,,37,Klutz,9,62,65,10.9,312,1 Speed,Field ,,Medium Slow,Own Tempo,50,55,20,Fairy,,50.0
+90,0.5,Mineral,Dog,Field ,115,50,80,927,Ordinary,50.0,,57,Aroma Veil,9,167,95,14.9,477,2 Speed,Field ,,Medium Slow,Well-Baked Body,50,80,20,Fairy,,50.0
+255,0.3,,Olive,Grass,45,58,51,928,Ordinary,50.0,Normal,41,Harvest,9,52,30,6.5,260,1 Sp. Atk,Grass,,Medium Slow,Early Bird,50,35,20,Grass,,50.0
+120,0.6,,Olive,Grass,60,78,78,929,Ordinary,50.0,Normal,52,Harvest,9,124,33,11.9,354,2 Sp. Atk,Grass,,Medium Slow,Early Bird,50,53,20,Grass,,50.0
+45,1.4,,Olive,Grass,90,125,109,930,Ordinary,50.0,Normal,78,Harvest,9,255,39,48.2,510,3 Sp. Atk,Grass,,Medium Slow,Seed Sower,50,69,20,Grass,,50.0
+190,0.6,,Parrot,Flying,51,45,51,931,Ordinary,50.0,Flying,82,Hustle,9,146,92,2.4,417,1 Attack,Flying,Guts,Erratic,Intimidate,50,96,15,Normal,Guts,50.0
+255,0.4,,Rock Salt,Mineral,75,35,35,932,Ordinary,50.0,,55,Sturdy,9,56,25,16.0,280,1 Defense,Mineral,Clear Body,Medium Slow,Purifying Salt,50,55,20,Rock,Clear Body,50.0
+120,0.6,,Rock Salt,Mineral,100,35,65,933,Ordinary,50.0,,60,Sturdy,9,124,35,105.0,355,2 Defense,Mineral,Clear Body,Medium Slow,Purifying Salt,50,60,20,Rock,Clear Body,50.0
+45,2.3,,Rock Salt,Mineral,130,45,90,934,Ordinary,50.0,,100,Sturdy,9,250,35,240.0,500,3 Defense,Mineral,Clear Body,Medium Slow,Purifying Salt,50,100,20,Rock,Clear Body,50.0
+90,0.6,,Fire Child,Human-Like,40,50,40,935,Ordinary,50.0,,40,Flame Body,9,51,35,10.5,255,1 Sp. Atk,Human-Like,,Slow,Flash Fire,50,50,35,Fire,,50.0
+25,1.5,,Fire Warrior,Human-Like,100,125,80,936,Ordinary,50.0,Psychic,85,Weak Armor,9,263,75,85.0,525,2 Sp. Atk,Human-Like,,Slow,Flash Fire,20,60,35,Fire,,50.0
+25,1.6,,Fire Blades,Human-Like,80,60,100,937,Ordinary,50.0,Ghost,75,Weak Armor,9,263,85,62.0,525,2 Attack,Human-Like,,Slow,Flash Fire,20,125,35,Fire,,50.0
+190,0.3,,EleTadpole,Water 1,41,59,35,938,Ordinary,50.0,,61,Static,9,54,45,0.4,272,1 HP,Water 1,Damp,Medium Fast,Own Tempo,50,31,20,Electric,Damp,50.0
+50,1.2,,EleFrog,Water 1,91,103,83,939,Ordinary,50.0,,109,Static,9,173,45,113.0,495,2 HP,Water 1,Damp,Medium Fast,Electromorphosis,50,64,20,Electric,Damp,50.0
+180,0.4,Water 1,Storm Petrel,Flying ,35,55,40,940,Ordinary,50.0,Flying,40,Volt Absorb,9,56,70,3.6,280,1 Speed,Flying ,Competitive,Medium Slow,Wind Power,50,40,20,Electric,Competitive,50.0
+90,1.4,Water 1,Frigatebird,Flying ,60,105,60,941,Ordinary,50.0,Flying,70,Volt Absorb,9,172,125,38.6,490,2 Speed,Flying ,Competitive,Medium Slow,Wind Power,50,70,20,Electric,Competitive,50.0
+150,0.5,,Rascal,Field,60,40,51,942,Ordinary,50.0,,60,Run Away,9,68,51,16.0,340,1 Attack,Field,Stakeout,Medium Slow,Intimidate,50,78,20,Dark,Stakeout,50.0
+75,1.1,,Boss,Field,90,60,70,943,Ordinary,50.0,,80,Guard Dog,9,177,85,61.0,505,2 Attack,Field,Stakeout,Medium Slow,Intimidate,50,120,20,Dark,Stakeout,50.0
+190,0.2,,Toxic Mouse,Field,35,40,35,944,Ordinary,50.0,Normal,40,Pickpocket,9,58,75,0.7,290,1 Speed,Field,Prankster,Medium Slow,Unburden,50,65,20,Poison,Prankster,50.0
+90,0.7,,Toxic Monkey,Field,65,80,72,945,Ordinary,50.0,Normal,63,Poison Touch,9,170,110,27.2,485,2 Speed,Field,Prankster,Medium Slow,Unburden,50,95,20,Poison,Prankster,50.0
+190,0.6,,Tumbleweed,Grass,30,45,35,946,Ordinary,50.0,Ghost,40,Infiltrator,9,55,60,0.6,275,1 Attack,Grass,,Medium Fast,Wind Rider,50,65,20,Grass,,50.0
+45,1.2,,Tumbleweed,Grass,70,80,70,947,Ordinary,50.0,Ghost,55,Infiltrator,9,168,90,6.0,480,2 Attack,Grass,,Medium Fast,Wind Rider,50,115,20,Grass,,50.0
+190,0.9,,Woodear,Grass,35,50,100,948,Ordinary,50.0,Grass,40,,9,67,70,33.0,335,1 Sp. Def,Grass,,Medium Slow,Mycelium Might,50,40,20,Ground,,50.0
+90,1.9,,Woodear,Grass,65,80,120,949,Ordinary,50.0,Grass,80,,9,180,100,58.0,515,2 Sp. Def,Grass,,Medium Slow,Mycelium Might,50,70,20,Ground,,50.0
+120,1.3,,Ambush,Water 3,115,35,55,950,Ordinary,50.0,,70,Shell Armor,9,158,75,79.0,450,2 Defense,Water 3,Regenerator,Medium Fast,Anger Shell,50,100,35,Rock,Regenerator,50.0
+190,0.3,,Spicy Pepper,Grass,40,62,40,951,Ordinary,50.0,,50,Insomnia,9,61,50,3.0,304,1 Attack,Grass,Klutz,Medium Fast,Chlorophyll,50,62,20,Grass,Klutz,50.0
+75,0.9,,Spicy Pepper,Grass,65,108,65,952,Ordinary,50.0,Fire,65,Insomnia,9,170,75,15.0,486,2 Attack,Grass,Moody,Medium Fast,Chlorophyll,50,108,20,Grass,Moody,50.0
+190,0.2,,Rolling,Bug,60,31,58,953,Ordinary,50.0,,41,Shed Skin,9,54,30,1.0,270,1 Defense,Bug,,Fast,Compound Eyes,50,50,20,Bug,,50.0
+45,0.3,,Rolling,Bug,85,115,100,954,Ordinary,50.0,Psychic,75,Telepathy,9,165,45,3.5,470,2 Sp. Atk,Bug,,Fast,Synchronize,50,50,20,Bug,,50.0
+120,0.2,,Frill,Flying,30,55,30,955,Ordinary,50.0,,30,Frisk,9,51,75,1.5,255,1 Speed,Flying,Speed Boost,Medium Slow,Anticipation,50,35,20,Psychic,Speed Boost,50.0
+60,1.9,,Ostrich,Flying,60,101,60,956,Ordinary,50.0,,95,Frisk,9,168,105,90.0,481,2 Speed,Flying,Speed Boost,Medium Slow,Opportunist,50,60,20,Psychic,Speed Boost,50.0
+190,0.4,,Metalsmith,Fairy,45,35,64,957,Ordinary,100.0,Steel,50,Own Tempo,9,59,58,8.9,297,1 Sp. Def,Fairy,Pickpocket,Medium Slow,Mold Breaker,50,45,20,Fairy,Pickpocket,0.0
+90,0.7,,Hammer,Fairy,55,45,82,958,Ordinary,100.0,Steel,65,Own Tempo,9,133,78,59.1,380,2 Sp. Def,Fairy,Pickpocket,Medium Slow,Mold Breaker,50,55,20,Fairy,Pickpocket,0.0
+45,0.7,,Hammer,Fairy,77,70,105,959,Ordinary,100.0,Steel,85,Own Tempo,9,253,94,112.8,506,3 Sp. Def,Fairy,Pickpocket,Medium Slow,Mold Breaker,50,75,20,Fairy,Pickpocket,0.0
+255,1.2,,Garden Eel,Water 3,25,35,25,960,Ordinary,50.0,,10,Rattled,9,49,95,1.8,245,1 Speed,Water 3,Sand Veil,Medium Fast,Gooey,50,55,20,Water,Sand Veil,50.0
+50,1.2,,Garden Eel,Water 3,50,50,70,961,Ordinary,50.0,,35,Rattled,9,149,120,5.4,425,2 Speed,Water 3,Sand Veil,Medium Fast,Gooey,50,100,20,Water,Sand Veil,50.0
+25,1.5,,Item Drop,Flying,85,60,85,962,Ordinary,50.0,Dark,70,Keen Eye,9,243,82,42.9,485,2 Attack,Flying,Rocky Payload,Slow,Big Pecks,50,103,35,Flying,Rocky Payload,50.0
+200,1.3,Water 2,Dolphin,Field ,40,45,40,963,Ordinary,50.0,,70,,9,63,75,60.2,315,1 Speed,Field ,,Slow,Water Veil,50,45,40,Water,,50.0
+45,1.3,Water 2,Dolphin,Field ,72,53,62,964,Ordinary,50.0,,100,,9,160,100,60.2,457,2 HP,Field ,,Slow,Zero to Hero,50,70,40,Water,,50.0
+190,1.0,,Single-Cyl,Mineral,63,30,45,965,Ordinary,50.0,Poison,45,Slow Start,9,60,47,35.0,300,1 Attack,Mineral,,Medium Fast,Overcoat,50,70,20,Steel,,50.0
+75,1.8,,Multi-Cyl,Mineral,90,54,67,966,Ordinary,50.0,Poison,80,Filter,9,175,90,120.0,500,2 Attack,Mineral,,Medium Fast,Overcoat,50,119,20,Steel,,50.0
+190,1.6,,Mount,Field,65,85,65,967,Ordinary,50.0,Normal,70,Regenerator,9,175,121,63.0,501,2 Speed,Field,,Medium Slow,Shed Skin,50,95,30,Dragon,,50.0
+25,2.5,,Earthworm,Field,145,60,55,968,Ordinary,50.0,,70,Sand Veil,9,240,65,310.0,480,2 Defense,Field,,Slow,Earth Eater,50,85,35,Steel,,50.0
+70,0.7,,Ore,Mineral,42,105,60,969,Ordinary,50.0,Poison,48,Corrosion,9,70,60,8.0,350,1 Sp. Atk,Mineral,,Medium Slow,Toxic Debris,50,35,30,Rock,,50.0
+25,1.5,,Ore,Mineral,90,130,81,970,Ordinary,50.0,Poison,83,Corrosion,9,184,86,45.0,525,2 Sp. Atk,Mineral,,Medium Slow,Toxic Debris,50,55,30,Rock,,50.0
+120,0.6,,Ghost Dog,Field,60,30,55,971,Ordinary,50.0,,50,Fluffy,9,58,34,35.0,290,1 Attack,Field,,Medium Slow,Pickup,50,61,20,Ghost,,50.0
+60,2.0,,Ghost Dog,Field,100,50,97,972,Ordinary,50.0,,72,Fluffy,9,171,68,15.0,488,2 Attack,Field,,Medium Slow,Sand Rush,50,101,20,Ghost,,50.0
+100,1.6,,Synchronize,Flying,74,75,64,973,Ordinary,50.0,Fighting,82,Tangled Feet,9,175,90,37.0,500,2 Attack,Flying,Costar,Medium Slow,Scrappy,50,115,20,Flying,Costar,50.0
+150,1.2,,Terra Whale,Field,45,30,40,974,Ordinary,50.0,,108,Snow Cloak,9,67,43,45.0,334,1 HP,Field,Sheer Force,Medium Slow,Thick Fat,50,68,25,Ice,Sheer Force,50.0
+50,4.5,,Terra Whale,Field,65,45,55,975,Ordinary,50.0,,170,Slush Rush,9,182,73,700.0,521,2 HP,Field,Sheer Force,Medium Slow,Thick Fat,50,113,25,Ice,Sheer Force,50.0
+100,2.5,,Jettison,Water 2,73,78,65,976,Ordinary,50.0,Psychic,90,Sharpness,9,167,70,90.0,478,2 Attack,Water 2,,Fast,Mold Breaker,50,102,20,Water,,50.0
+25,12.0,,Big Catfish,Water 2,115,65,65,977,Ordinary,50.0,,150,Oblivious,9,265,35,220.0,530,3 HP,Water 2,Water Veil,Slow,Unaware,50,100,40,Water,Water Veil,50.0
+100,0.3,,Mimicry,Water 2,60,120,95,978,Ordinary,50.0,Water,68,Storm Drain,9,166,82,8.0,475,2 Sp. Atk,Water 2,,Medium Slow,Commander,50,50,35,Dragon,,50.0
+45,1.2,,Rage Monkey,Field,80,50,90,979,Ordinary,50.0,Ghost,110,Inner Focus,9,268,90,56.0,535,3 Attack,Field,Defiant,Medium Fast,Vital Spirit,50,115,20,Fighting,Defiant,50.0
+90,1.8,Water 1,Spiny Fish,Field ,60,45,100,980,Ordinary,50.0,Ground,130,Water Absorb,9,151,20,223.0,430,2 HP,Field ,Unaware,Medium Fast,Poison Point,50,75,20,Poison,Unaware,50.0
+45,3.2,,Long Neck,Field,70,110,70,981,Ordinary,50.0,Psychic,120,Armor Tail,9,260,60,160.0,520,3 HP,Field,Sap Sipper,Medium Fast,Cud Chew,50,90,20,Normal,Sap Sipper,50.0
+45,3.6,,Land Snake,Field,80,85,75,982,Ordinary,50.0,,125,Run Away,9,182,55,39.2,520,2 HP,Field,Rattled,Medium Fast,Serene Grace,50,100,20,Normal,Rattled,50.0
+25,2.0,,Big Blade,Human-Like,120,60,85,983,Ordinary,50.0,Steel,100,Supreme Overlord,9,275,50,120.0,550,3 Attack,Human-Like,Pressure,Medium Fast,Defiant,50,135,20,Dark,Pressure,50.0
+30,2.2,,Paradox,Undiscovered,131,53,53,984,Ancient Paradox,,Fighting,115,,9,285,87,320.0,570,3 Attack,Undiscovered,,Slow,Protosynthesis,0,131,50,Ground,,
+50,1.2,,Paradox,Undiscovered,99,65,115,985,Ancient Paradox,,Psychic,115,,9,285,111,8.0,570,3 HP,Undiscovered,,Slow,Protosynthesis,0,65,50,Fairy,,
+50,1.2,,Paradox,Undiscovered,99,79,99,986,Ancient Paradox,,Dark,111,,9,285,55,21.0,570,3 Attack,Undiscovered,,Slow,Protosynthesis,0,127,50,Grass,,
+30,1.4,,Paradox,Undiscovered,55,135,135,987,Ancient Paradox,,Fairy,55,,9,285,135,4.0,570,"1 Sp. Atk, 1 Sp. Def, 1 Speed",Undiscovered,,Slow,Protosynthesis,0,55,50,Ghost,,
+30,3.2,,Paradox,Undiscovered,79,85,105,988,Ancient Paradox,,Fighting,85,,9,285,81,92.0,570,3 Attack,Undiscovered,,Slow,Protosynthesis,0,135,50,Bug,,
+30,2.3,,Paradox,Undiscovered,97,121,85,989,Ancient Paradox,,Ground,85,,9,285,101,60.0,570,3 Sp. Atk,Undiscovered,,Slow,Protosynthesis,0,81,50,Electric,,
+30,0.9,,Paradox,Undiscovered,120,72,70,990,Future Paradox,,Steel,90,,9,285,106,240.0,570,3 Defense,Undiscovered,,Slow,Quark Drive,0,112,50,Ground,,
+50,0.6,,Paradox,Undiscovered,114,124,60,991,Future Paradox,,Water,56,,9,285,136,11.0,570,3 Speed,Undiscovered,,Slow,Quark Drive,0,80,50,Ice,,
+50,1.8,,Paradox,Undiscovered,108,50,68,992,Future Paradox,,Electric,154,,9,285,50,380.7,570,3 Attack,Undiscovered,,Slow,Quark Drive,0,140,50,Fighting,,
+30,1.3,,Paradox,Undiscovered,86,122,80,993,Future Paradox,,Flying,94,,9,285,108,111.0,570,3 Sp. Atk,Undiscovered,,Slow,Quark Drive,0,80,50,Dark,,
+30,1.2,,Paradox,Undiscovered,60,140,110,994,Future Paradox,,Poison,80,,9,285,110,36.0,570,3 Sp. Atk,Undiscovered,,Slow,Quark Drive,0,70,50,Fire,,
+30,1.6,,Paradox,Undiscovered,110,70,84,995,Future Paradox,,Electric,100,,9,285,72,303.0,570,3 Attack,Undiscovered,,Slow,Quark Drive,0,134,50,Rock,,
+45,0.5,Mineral,Ice Fin,Dragon ,45,35,45,996,Ordinary,50.0,Ice,65,Ice Body,9,64,55,17.0,320,1 Attack,Dragon ,,Slow,Thermal Exchange,50,75,40,Dragon,,50.0
+25,0.8,Mineral,Ice Fin,Dragon ,66,45,65,997,Ordinary,50.0,Ice,90,Ice Body,9,148,62,30.0,423,2 Attack,Dragon ,,Slow,Thermal Exchange,50,95,40,Dragon,,50.0
+10,2.1,Mineral,Ice Dragon,Dragon ,92,75,86,998,Ordinary,50.0,Ice,115,Ice Body,9,300,87,210.0,600,3 Attack,Dragon ,,Slow,Thermal Exchange,50,145,40,Dragon,,50.0
+45,0.3,,Coin Chest,Undiscovered,70,75,70,999,Ordinary,,,45,,9,60,10,5.0,300,1 Sp. Atk,Undiscovered,,Slow,Rattled,50,30,50,Ghost,,
+45,1.2,,Coin Entity,Undiscovered,95,133,91,1000,Ordinary,,Ghost,87,,9,275,84,30.0,550,2 Sp. Atk,Undiscovered,,Slow,Good as Gold,50,60,50,Steel,,
+6,1.5,,Ruinous,Undiscovered,100,95,135,1001,Legendary,,Grass,85,,9,285,70,74.2,570,3 Sp. Def,Undiscovered,,Slow,Tablets of Ruin,0,85,50,Dark,,
+6,1.9,,Ruinous,Undiscovered,80,90,65,1002,Legendary,,Ice,80,,9,285,135,152.2,570,3 Speed,Undiscovered,,Slow,Sword of Ruin,0,120,50,Dark,,
+6,2.7,,Ruinous,Undiscovered,125,55,80,1003,Legendary,,Ground,155,,9,285,45,699.7,570,3 Defense,Undiscovered,,Slow,Vessel of Ruin,0,110,50,Dark,,
+6,0.4,,Ruinous,Undiscovered,80,135,120,1004,Legendary,,Fire,55,,9,285,100,4.9,570,3 Sp. Atk,Undiscovered,,Slow,Beads of Ruin,0,80,50,Dark,,
+10,2.0,,Paradox,Undiscovered,71,55,101,1005,Ancient Paradox,,Dark,105,,9,295,119,380.0,590,3 Attack,Undiscovered,,Slow,Protosynthesis,0,139,50,Dragon,,
+10,1.4,,Paradox,Undiscovered,90,120,60,1006,Future Paradox,,Fighting,74,,9,295,116,35.0,590,3 Attack,Undiscovered,,Slow,Quark Drive,0,130,50,Fairy,,
+3,2.5,,Paradox,Undiscovered,115,85,100,1007,Legendary,,Dragon,100,,9,335,135,303.0,670,3 Attack,Undiscovered,,Slow,Orichalcum Pulse,0,135,50,Fighting,,
+3,3.5,,Paradox,Undiscovered,100,135,115,1008,Legendary,,Dragon,100,,9,335,135,240.0,670,3 Sp. Atk,Undiscovered,,Slow,Hadron Engine,0,85,50,Electric,,
+5,3.5,,Paradox,Undiscovered,91,125,83,1009,Ancient Paradox,,Dragon,99,,9,—,109,280.0,590,3 Sp. Atk,Undiscovered,,Slow,Protosynthesis,—,83,—,Water,,
+5,1.5,,Paradox,Undiscovered,88,70,108,1010,Future Paradox,,Psychic,90,,9,—,104,125.0,590,3 Attack,Undiscovered,,Slow,Quark Drive,—,130,—,Grass,,
+45,0.4,Grass,Candy Apple,Dragon ,110,95,80,1011,Ordinary,50.0,Dragon,80,Gluttony,9,—,40,4.4,485,2 Defense,Dragon ,Sticky Hold,Erratic,Supersweet Syrup,—,80,—,Grass,Sticky Hold,50.0
+120,0.1,Mineral,Matcha,Amorphous ,45,74,54,1012,Ordinary,,Ghost,40,Heatproof,9,—,50,1.1,308,1 Sp. Atk,Amorphous ,,Medium Fast,Hospitality,—,45,—,Grass,,
+60,0.2,Mineral,Matcha,Amorphous ,106,121,80,1013,Ordinary,,Ghost,71,Heatproof,9,—,70,2.2,508,2 Sp. Atk,Amorphous ,,Medium Fast,Hospitality,—,60,—,Grass,,
+3,1.8,,Retainer,Undiscovered,115,58,86,1014,Legendary,0.0,Fighting,88,Guard Dog,9,—,80,92.0,555,3 Attack,Undiscovered,,Slow,Toxic Chain,—,128,—,Poison,,100.0
+3,1.0,,Retainer,Undiscovered,66,130,90,1015,Legendary,0.0,Psychic,88,Frisk,9,—,106,12.2,555,3 Sp. Atk,Undiscovered,,Slow,Toxic Chain,—,75,—,Poison,,100.0
+3,1.4,,Retainer,Undiscovered,82,70,125,1016,Legendary,0.0,Fairy,88,Technician,9,—,99,30.1,555,3 Sp. Def,Undiscovered,,Slow,Toxic Chain,—,91,—,Poison,,100.0
+5,1.2,,Mask,Undiscovered,84,60,96,1017,Legendary,100.0,,80,Embody Aspect,9,—,110,39.8,550,3 Attack,Undiscovered,,Slow,Defiant,—,120,—,Grass,,0.0
+10,2.0,Mineral,Alloy,Dragon ,130,125,65,1018,Ordinary,50.0,Dragon,90,Sturdy,9,—,85,60.0,600,3 Defense,Dragon ,Stalwart,Medium Fast,Stamina,—,105,—,Steel,Stalwart,50.0
+10,1.8,Grass,—,Dragon ,110,120,80,1019,Ordinary,50.0,Dragon,106,Regenerator,9,—,44,93.0,540,3 Sp. Atk,Dragon ,Sticky Hold,Erratic,Supersweet Syrup,—,80,—,Grass,Sticky Hold,50.0
+10,3.5,,Paradox,Undiscovered,121,65,93,1020,Ancient Paradox,,Dragon,105,,9,—,91,590.0,590,3 Defense,Undiscovered,,Slow,Protosynthesis,—,115,—,Fire,,
+10,5.2,,Paradox,Undiscovered,91,137,89,1021,Ancient Paradox,,Dragon,125,,9,—,75,480.0,590,3 Sp. Atk,Undiscovered,,Slow,Protosynthesis,—,73,—,Electric,,
+10,1.5,,Paradox,Undiscovered,80,68,108,1022,Future Paradox,,Psychic,90,,9,—,124,162.5,590,3 Speed,Undiscovered,,Slow,Quark Drive,—,120,—,Rock,,
+10,1.6,,Paradox,Undiscovered,100,122,108,1023,Future Paradox,,Psychic,90,,9,—,98,156.0,590,3 Sp. Atk,Undiscovered,,Slow,Quark Drive,—,72,—,Steel,,
+255,0.2,,Tera,Undiscovered,85,65,85,1024,Legendary,50.0,,90,,9,—,60,6.5,450,1 Defense,Undiscovered,,Slow,Tera Shift,—,65,—,Normal,,50.0
+3,0.3,,Subjugation,Undiscovered,160,88,88,1025,Mythical,,Ghost,88,,9,—,88,0.3,600,3 Defense,Undiscovered,,Slow,Poison Puppeteer,—,88,—,Poison,,
